@@ -1,4 +1,4 @@
-# Summer 2027 — AI/ML/Data (671)
+# Summer 2027 — AI/ML/Data (670)
 
 Auto-generated. Do not hand-edit.
 
@@ -113,7 +113,6 @@ Auto-generated. Do not hand-edit.
 | [Wex](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055) | AI & Data Platform Engineering Intern - Undergraduate | Remote in USA | 2026-09-14 | 6 |
 | [Repsol](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/GIS-Intern_84106) | GIS Intern | Houston, TX | 2026-09-14 | 6 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859) | Motorsports Strategy Intern - Sportscar Motorsports Strategy | Concord, NC | 2026-09-14 | 6 |
-| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985) | Summer Intern - Performance Analysis | Concord, NC | 2026-09-14 | 6 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990) | Race Strategy & Analytics Intern - IndyCar | Concord, NC | 2026-09-14 | 6 |
 | [BlueCross BlueShield of Nebraska](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Analytics-Intern--Starts-Summer-2027_JR101437) | Healthcare Analytics Intern | Omaha, NE | 2026-09-14 | 6 |
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1) | AI and Analytics Intern | Minneapolis, MN, Denver, CO | 2026-09-14 | 6 |
@@ -170,7 +169,6 @@ Auto-generated. Do not hand-edit.
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265) | AI Engineer Intern | Oshkosh, WI | 2026-09-11 | 9 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266) | Autonomy & Active Safety Engineer Intern | Oshkosh, WI, Pittsburgh, PA | 2026-09-11 | 9 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743) | Machine Learning Engineer Intern | Remote in USA | 2026-09-11 | 9 |
-| [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709) | Machine Learning Engineer Intern - Technology & Medical Organizations | Remote in USA | 2026-09-11 | 9 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722) | Data Scientist Intern - Amgen’s Technology & Medical Organizations | Remote in USA | 2026-09-11 | 9 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742) | Data Engineer Intern | Remote in USA | 2026-09-11 | 9 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704) | Data Scientist Intern | Remote in USA | 2026-09-11 | 9 |
@@ -412,6 +410,7 @@ Auto-generated. Do not hand-edit.
 | [Edison International](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors) | Software/Data Engineering Intern | Chino, CA | 2026-09-01 | 19 |
 | [Edison International](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors) | Data Analytics Intern - Data Science/Applied Math | Pomona, CA, Rosemead, CA | 2026-09-01 | 19 |
 | [Edison International](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors) | Data Analytics Intern - Data Science - Applied Math | Pomona, CA, Rosemead, CA | 2026-09-01 | 19 |
+| [Edison International](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors) | Summer Internship - Data Analytics/Science/Applied Math | Santa Ana, CA, Fullerton, CA, Irvine, CA, Westminster, CA | 2026-09-01 | 19 |
 | [Edison International](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors) | Intern - Multiple Teams | Santa Ana, CA, Fullerton, CA, Irvine, CA, Westminster, CA | 2026-09-01 | 19 |
 | [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/JR-7608) | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | 2026-09-01 | 19 |
 | [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/JR-7591) | AI & Analytics Intern | Minneapolis, MN, Davidson, NC | 2026-09-01 | 19 |
@@ -491,7 +490,7 @@ Auto-generated. Do not hand-edit.
 | [Charles Schwab](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false) | Data Engineering Intern - Data Engineering | Austin, TX, Westlake, TX, Southlake, TX | 2026-08-29 | 22 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351) | Service Technology Research Intern - Summer 2027 | Westerville, OH | 2026-08-28 | 22 |
 | [CSX](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54826) | Engineering Intern - Positive Train Control - Paid | Jacksonville, FL | 2026-08-28 | 22 |
-| [CSX](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817) | Intermodal Intern - Summer 2027 - Paid | Jacksonville, FL | 2026-08-28 | 22 |
+| [CSX](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817) | Intermodal Intern - Summer 2027 - Paid | Jacksonville, FL | 2026-08-28 | 23 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143) | Data Scientist Intern - Summer Games | Rome, NY | 2026-08-28 | 23 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132) | Data Scientist Intern - Summer Games | Colorado Springs, CO | 2026-08-28 | 23 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) | Data Scientist Intern - University | Charleston, SC | 2026-08-28 | 23 |
@@ -573,8 +572,8 @@ Auto-generated. Do not hand-edit.
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796) | AI Engineer Intern - Enterprise Technology Services | Atlanta, GA | 2026-08-17 | 33 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999) | AI Engineer Intern - Enterprise Technology Services | Sunrise, FL | 2026-08-17 | 33 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | Data Science PhD Intern | London, UK | 2026-08-17 | 33 |
-| [TikTok](https://lifeattiktok.com/search/7674944387893791029) | Data Analyst Intern - LIVE | London, UK | 2026-08-17 | 33 |
-| [TikTok](https://lifeattiktok.com/search/7674032146438162693) | Data Engineer Intern - Data Platform Global Live | San Jose, CA | 2026-08-17 | 33 |
+| [TikTok](https://lifeattiktok.com/search/7674944387893791029) | Data Analyst Intern - LIVE | London, UK | 2026-08-17 | 34 |
+| [TikTok](https://lifeattiktok.com/search/7674032146438162693) | Data Engineer Intern - Data Platform Global Live | San Jose, CA | 2026-08-17 | 34 |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385) | Data Intern - Key Technology & Services - Data Track | Brooklyn, OH | 2026-08-17 | 34 |
 | [Ryan Companies](https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961) | Business Intelligence Intern - Mission Critical | Des Moines, IA, Austin, TX, Tampa, FL, Dallas, TX, Chicago, IL, Minneapolis, MN, Atlanta, GA | 2026-08-17 | 34 |
 | [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) | Data Science & Machine Learning Fellow Intern | Washington, DC | 2026-08-14 | 36 |

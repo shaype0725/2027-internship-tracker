@@ -1,4 +1,4 @@
-# Software Engineering (1298)
+# Software Engineering (1296)
 
 [← back to index](../README.md)
 
@@ -310,7 +310,6 @@
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126) | Innovation Lab Intern | Delaware, OH | Summer 2027 | 2026-09-11 | 9 | simplify-2026 |
 | [Visier Solutions](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006) | Test Developer Co-op | Vancouver, BC, Canada | Summer 2027 | 2026-09-11 | 9 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738) | Software Engineer Co-op | Eden Prairie, MN | Summer 2027 | 2026-09-11 | 9 | simplify-2026 |
-| [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Engineer--Winter-2027--Co-op-Internship----4-month_R260025826) | Software Engineer Co-op Intern - Winter 2027 | Toronto, ON, Canada | Winter 2027 | 2026-09-11 | 9 | simplify-2026 |
 | [American University](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Quantitative-Support-Programmer--Student-_R4952) | Quantitative Support Programmer - Student | Washington, DC | N/A | 2026-09-11 | 9 | simplify-2026 |
 | [Avis Budget Group](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388) | Transformation Engineer Intern - Accelerate | Parsippany-Troy Hills, NJ | Summer 2027 | 2026-09-11 | 9 | simplify-2026 |
 | [Alcoa](https://alcoa.wd5.myworkdayjobs.com/Careers/job/Canada-QC-Bcancour/Stagiaire-en-informatique-ou-gnie-logiciel-ou-informatique---Carbone--Hiver-2027-_Req-39195) | Computer Science or Software Engineering or Computer Engineering Intern - Carbon | Bécancour, QC, Canada | N/A | 2026-09-11 | 9 | simplify-2026 |
@@ -1239,7 +1238,6 @@
 | [Axiomatic AI](https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101) | Software Engineering Internship – Platform/DevOps | Boston, MA | Summer 2026 | 2026-05-01 | 142 | simplify-2026 |
 | [Axiomatic AI](https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101) | Software Engineering Internship – AI/Agentic Systems | Boston, MA | Summer 2026 | 2026-05-01 | 142 | simplify-2026 |
 | [TIFIN](https://tifin.com/careers/apply/?gh_jid=5981740004) | AI Engineering Intern | Charlotte, NC, Boulder, CO | Summer 2026 | 2026-04-24 | 149 | simplify-2026 |
-| [Tencent](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363) | Game Research & Development Intern - Engine Research | Bellevue, WA | Summer 2026 | 2026-04-23 | 150 | simplify-2026 |
 | [ASM International](https://www.asm.com/open-vacancies/?gh_jid=4830113101) | Software Engineering Intern | Phoenix, AZ | Spring 2027 | 2026-04-22 | 151 | simplify-2026 |
 | [Fortinet](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22741) | AI Intern | Sunnyvale, CA | Summer 2026 | 2026-04-21 | 152 | simplify-2026 |
 | [University of Arkansas](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891) | Graduate Research Assistant Intern | Little Rock, AR | N/A | 2026-04-18 | 155 | simplify-2026 |

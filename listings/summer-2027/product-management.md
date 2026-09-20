@@ -1,4 +1,4 @@
-# Summer 2027 — Product (138)
+# Summer 2027 — Product (137)
 
 Auto-generated. Do not hand-edit.
 
@@ -24,7 +24,6 @@ Auto-generated. Do not hand-edit.
 | [Duolingo](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002) | Associate Product Manager Intern | Pittsburgh, PA | 2026-09-15 | 4 |
 | [Illinois Tool Works](https://careers.itw.com/global/en/job/JR10105) | Product Management Intern | Troy, OH | 2026-09-15 | 4 |
 | [PricewaterhouseCoopers (PwC)](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD) | Product Management Intern - Commercial Tech & Innovation | Rosemont, IL | 2026-09-15 | 5 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | Product Management MBA Intern - Data Center GPU | Santa Clara, CA | 2026-09-15 | 5 |
 | [Huntington Bancshares](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Austin-TX/Summer-2027-Business-Innovation---AI-Products-Intern_R0075876) | Business Innovation & AI Products Intern | Austin, TX, Chicago, IL, Columbus, OH | 2026-09-15 | 5 |
 | [OpenGov](https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application?embed=true) | Product Intern | Atlanta, GA | 2026-09-14 | 5 |
 | [Intuit](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) | Product Manager Intern | Mountain View, CA, San Diego, CA | 2026-09-14 | 5 |
