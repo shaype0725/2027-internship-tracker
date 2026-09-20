@@ -31,6 +31,8 @@ jobs:
 
       - name: Generate Top 20 recommendations
         run: python scripts/recommend.py
+      - name: Generate Summer 2027 lists
+        run: python scripts/summer2027.py
 
       - name: Commit and push if changed
         run: |
