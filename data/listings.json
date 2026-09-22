@@ -5132,7 +5132,7 @@
     "company_name": "Microsoft",
     "id": "c7882e60-9d46-4536-8550-5308e78edb36",
     "title": "Hardware Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -5263,7 +5263,7 @@
     "company_name": "RTX",
     "id": "b50df64e-0d8e-4631-a2c7-2da5eb33aaa2",
     "title": "Software Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -10021,7 +10021,7 @@
     "company_name": "NVIDIA",
     "id": "e3878d12-f4a0-4e39-b2e8-322da6bb1115",
     "title": "Architecture Research Intern - Architecture - 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -10049,7 +10049,7 @@
     "company_name": "NVIDIA",
     "id": "ea5ee9d4-b9cf-4ed2-b1ab-93db2d16e7bc",
     "title": "Research Intern - Hardware and Systems Architecture",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -10103,7 +10103,7 @@
     "company_name": "NVIDIA",
     "id": "55a28a09-e8b9-4af7-bec5-c02f4642f6f2",
     "title": "PhD Research Intern - Generalist Embodied Agents Research",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -39602,7 +39602,7 @@
     "company_name": "Northwestern Mutual",
     "id": "ca58874b-6f7d-4bf4-9ad3-1c79a4cbbd92",
     "title": "Investment Risk Management Intern - Fall 2026",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -52379,7 +52379,7 @@
     "company_name": "Marvell",
     "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
     "title": "Design for Test Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -90319,7 +90319,7 @@
     "company_name": "RTX",
     "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
     "title": "Customer Data Management and Analysis Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -145185,7 +145185,7 @@
     "company_name": "Castleton Commodities International",
     "id": "cab3486c-17b7-4cac-ad2b-49f4007f98e4",
     "title": "Commodities Trading Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -229755,7 +229755,7 @@
     "company_name": "Tencent",
     "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
     "title": "Game Research & Development Intern - Engine Research",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -237898,7 +237898,7 @@
     "company_name": "University of Arkansas",
     "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
     "title": "Graduate Research Assistant Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
