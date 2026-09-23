@@ -109,7 +109,7 @@ Auto-generated. Do not hand-edit.
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345) | Product Management Intern - Product Management | NYC | 2026-08-24 | 29 |
 | [Springs Window Fashions](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false) | Product Management Competitive Product Assessment Intern - Summer 2027 | Middleton, WI | 2026-08-22 | 31 |
 | [Springs Window Fashions](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false) | Product Management Dashboard Analytics Intern | Middleton, WI | 2026-08-22 | 31 |
-| [Springs Window Fashions](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) | Product Management Intern | Long Island City, Queens, NY | 2026-08-22 | 31 |
+| [Springs Window Fashions](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) | Product Management Intern | Long Island City, Queens, NY | 2026-08-22 | 32 |
 | [TikTok](https://lifeattiktok.com/search/7675616554318596357) | AI Product Manager Intern - Product Social | San Jose, CA | 2026-08-22 | 32 |
 | [TikTok](https://lifeattiktok.com/search/7676283436713593093) | Product Manager Intern - Content and Service Ads | San Jose, CA | 2026-08-22 | 32 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) | Product Marketing Intern | Delaware, OH | 2026-08-21 | 32 |

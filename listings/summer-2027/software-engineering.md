@@ -1,4 +1,4 @@
-# Summer 2027 — Software (641)
+# Summer 2027 — Software (639)
 
 Auto-generated. Do not hand-edit.
 
@@ -26,13 +26,11 @@ Auto-generated. Do not hand-edit.
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065) | Software Engineer Intern | Portsmouth, RI | 2026-09-22 | 1 |
 | [GuideStone](https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129) | Software Developer Intern - Software Development | Dallas, TX | 2026-09-22 | 1 |
 | [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150) | Software Engineer Intern - Navigation Intelligence and Connectivity Division | San Diego, CA | 2026-09-22 | 1 |
-| [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) | Software Development Intern - Summer 2027 | Yarmouth, ME, Orono, ME, Falmouth, ME | 2026-09-21 | 1 |
 | [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false) | Software Development Intern - Summer 2027 | Plano, TX | 2026-09-21 | 1 |
 | [Tyler Technologies](https://jobs.jobvite.com/tylertech/job/oKQJAfwD?nl=1&nl=1&fr=false) | Software Development Intern | Lubbock, TX | 2026-09-21 | 1 |
 | [Wellmark](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) | Software Engineer Intern - Technology Healthcare Innovation | Des Moines, IA | 2026-09-21 | 1 |
 | [Lazard](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606) | AI Engineer Intern | NYC | 2026-09-21 | 1 |
 | [AutoZone](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451) | Information Technology Intern | Memphis, TN | 2026-09-21 | 2 |
-| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546) | Software Engineer Intern - Digital Product: Software Engineering | Austin, TX, Milford, MI, Mountain View, CA, Warren, MI | 2026-09-21 | 2 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Software-Engineering-Summer-Intern-2027_R4046481-1) | Software Engineer Intern | Salt Lake City, UT | 2026-09-21 | 2 |
 | [Nebraska Medicine](https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Omaha-NE/Intern---Forward-Deployed-AI-Engineer_REQ-38924) | Forward Deployed AI Engineer Intern | Omaha, NE | 2026-09-21 | 2 |
 | [Live Oak Bank](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643) | Software Engineering Intern - Summer Internship Program | Wilmington, NC | 2026-09-21 | 2 |
@@ -93,6 +91,7 @@ Auto-generated. Do not hand-edit.
 | [Apera AI](https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007) | Software Developer Co-op - Full Stack | Vancouver, BC, Canada | 2026-09-16 | 6 |
 | [Persona](https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true) | Software Engineer Intern | SF | 2026-09-16 | 6 |
 | [Decagon](https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application?embed=true) | Engineering Intern | SF | 2026-09-16 | 6 |
+| [Collier Aerospace](https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827) | AI Feature Development Intern - NCSG | Raleigh, NC | 2026-09-16 | 6 |
 | [Ragle Inc](https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern) | Software Engineer Intern | North Richland Hills, TX | 2026-09-16 | 6 |
 | [Relay](https://job-boards.greenhouse.io/relaypro/jobs/8180836) | Software Engineer Intern - Device Team | Raleigh, NC | 2026-09-16 | 6 |
 | [Enterprise Holdings](https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false) | Software Engineer Intern - Summer 2027 | St. Louis, MO | 2026-09-16 | 6 |
@@ -119,7 +118,7 @@ Auto-generated. Do not hand-edit.
 | [NOV](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449) | Software Engineer Intern - Rig Technologies | Houston, TX | 2026-09-15 | 7 |
 | [National Information Solutions Cooperative](https://job-boards.greenhouse.io/nisc/jobs/8204086) | Software Development Intern - AI Development | Lake St Louis, MO, Cedar Rapids, IA | 2026-09-15 | 7 |
 | [SimVentions](https://simventions.jibeapply.com/jobs/1631?icims=1) | Software Development Intern | Fredericksburg, VA | 2026-09-15 | 7 |
-| [Huntington Ingalls Industries](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors) | Computer Engineering Intern | Pascagoula, MS | 2026-09-15 | 7 |
+| [Huntington Ingalls Industries](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors) | Computer Engineering Intern | Pascagoula, MS | 2026-09-15 | 8 |
 | [DoorDash](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) | Software Engineer Intern | Toronto, ON, Canada | 2026-09-15 | 8 |
 | [Superhuman](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true) | Software Engineer Intern | Toronto, ON, Canada | 2026-09-15 | 8 |
 | [DoorDash](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) | Software Engineer Intern - Summer 2027 | Seattle, WA, SF, LA, NYC, Sunnyvale, CA | 2026-09-15 | 8 |
@@ -457,7 +456,6 @@ Auto-generated. Do not hand-edit.
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684) | Software Engineering Intern | Toronto, ON, Canada | 2026-08-31 | 23 |
 | [Nike](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) | Software Engineer Intern | Beaverton, OR | 2026-08-31 | 23 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354) | Software Engineer Co-op - Summer & Fall 2027 | Danbury, CT | 2026-08-31 | 23 |
-| [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359) | Software Engineer Intern | Sarasota, FL | 2026-08-31 | 23 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1) | Software Engineer Co-op - Spring & Summer 2027 | Danbury, CT | 2026-08-31 | 23 |
 | [The Home Depot](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937) | Software Engineer Intern | Atlanta, GA | 2026-08-31 | 23 |
 | [Medline](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378) | RPA & Agentic AI Software Technologies Intern - Summer 2027 | Northbrook, IL | 2026-08-31 | 23 |
@@ -521,7 +519,7 @@ Auto-generated. Do not hand-edit.
 | [AMD](https://careers.amd.com/jobs/91180?icims=1) | Software Engineer Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | 2026-08-21 | 33 |
 | [Ecolab](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249) | Digital & AI Technology Intern | Naperville, IL, Eagan, MN, St Paul, MN | 2026-08-21 | 33 |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021) | Software Engineer Summer Analyst - Blackstone Technology & Innovations | Miami, FL | 2026-08-21 | 33 |
-| [AbbVie](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | 2026-08-20 | 33 |
+| [AbbVie](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | 2026-08-20 | 34 |
 | [TikTok](https://lifeattiktok.com/search/7675159726676101381) | Software Engineer Intern - Recommendation Infra - Performance Efficiency | San Jose, CA | 2026-08-20 | 34 |
 | [TikTok](https://lifeattiktok.com/search/7672926068681951493) | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | Seattle, WA | 2026-08-20 | 34 |
 | [TikTok](https://lifeattiktok.com/search/7675517686256863541) | Software Engineer Intern - TikTok Search Architecture | San Jose, CA | 2026-08-20 | 34 |
@@ -539,10 +537,10 @@ Auto-generated. Do not hand-edit.
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084) | Software Engineer Intern - Enterprise Technology Services | Sunrise, FL | 2026-08-17 | 36 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970) | Software Engineer Intern - Technology | NYC | 2026-08-17 | 36 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) | Software Engineer Intern | London, UK | 2026-08-17 | 36 |
-| [Google](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | Software Engineering or Site Reliability Engineering PhD Intern | London, UK | 2026-08-17 | 36 |
-| [W.W. Grainger](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors) | Software Engineer Intern - Grainger Technology Group | Chicago, IL | 2026-08-17 | 36 |
-| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | Software Engineer Intern - Enterprise Technology Services | Charlotte, NC | 2026-08-17 | 36 |
-| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | Software Engineer Intern - Enterprise Technology Services | NYC | 2026-08-17 | 36 |
+| [Google](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | Software Engineering or Site Reliability Engineering PhD Intern | London, UK | 2026-08-17 | 37 |
+| [W.W. Grainger](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors) | Software Engineer Intern - Grainger Technology Group | Chicago, IL | 2026-08-17 | 37 |
+| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | Software Engineer Intern - Enterprise Technology Services | Charlotte, NC | 2026-08-17 | 37 |
+| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | Software Engineer Intern - Enterprise Technology Services | NYC | 2026-08-17 | 37 |
 | [Vanguard](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1) | IT Intern - Application Development | Charlotte, NC | 2026-08-17 | 37 |
 | [Vanguard](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1) | IT Intern - Investment Systems | Malvern, PA | 2026-08-17 | 37 |
 | [Dee Zee](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368) | Software Development Intern | Des Moines, IA | 2026-08-17 | 37 |
@@ -631,7 +629,7 @@ Auto-generated. Do not hand-edit.
 | [Akuna Capital University](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) | Software Engineer Intern - Full Stack Web | Chicago, IL | 2026-07-13 | 71 |
 | [Akuna Capital University](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) | Software Engineer Intern - Python | Chicago, IL | 2026-07-13 | 71 |
 | [Pylon](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | Software Engineer Intern | SF | 2026-07-09 | 75 |
-| [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002) | Technology Intern | London, UK | 2026-07-07 | 77 |
+| [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002) | Technology Intern | London, UK | 2026-07-07 | 78 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002) | Technology Intern | NYC | 2026-07-06 | 78 |
 | [CTGT](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | Software Engineer Intern | SF | 2026-07-04 | 80 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | Software Engineer Intern | Chicago, IL | 2026-07-01 | 83 |

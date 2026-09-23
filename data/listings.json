@@ -1,6 +1,32 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "G2",
+    "id": "d1cad4df-ea8d-4208-bdb9-869aa7dab27f",
+    "title": "AI Agent Evaluations Intern",
+    "active": true,
+    "terms": [
+      "Fall 2026"
+    ],
+    "date_updated": 1790161890,
+    "date_posted": 1790029530,
+    "url": "https://jobs.ashbyhq.com/G2/64dcc04a-a0e7-493b-b899-dd4c56e561fd/application?embed=true",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/G2",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "MBA"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "KLA Corporation",
     "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
@@ -3308,7 +3334,7 @@
     "company_name": "Tyler Technologies",
     "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
     "title": "Software Development Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -4292,7 +4318,7 @@
     "company_name": "General Motors",
     "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
     "title": "Software Engineer Intern - Digital Product: Software Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -11555,7 +11581,7 @@
     "company_name": "Intelliguard",
     "id": "b59a478b-37c7-40b4-af73-c2419fe4d772",
     "title": "Engineering Intern - R&D",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -15275,7 +15301,7 @@
     "company_name": "Collier Aerospace",
     "id": "b6b0bc09-5fc8-4d8e-ad3f-ffdd70e0315e",
     "title": "AI Feature Development Intern - NCSG",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -16471,7 +16497,7 @@
     "company_name": "NVIDIA",
     "id": "4491adcd-bda4-4c6d-89e8-f5df9b5a197a",
     "title": "Quantum and Chemistry Research Intern - Quantum and AI for Chemistry",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -36942,7 +36968,7 @@
     "company_name": "Marvell",
     "id": "9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
     "title": "Ph.D. Intern - AI/ML & Design Automation",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -57448,7 +57474,7 @@
     "company_name": "RTX",
     "id": "4137dd61-de8e-40fd-b3a3-47517a95badf",
     "title": "Business Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -62134,7 +62160,7 @@
     "company_name": "Marquee Brands",
     "id": "cc58fac9-b0fa-47d6-8d76-5a9b5e373147",
     "title": "Consumer Insights Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -64695,7 +64721,7 @@
     "company_name": "Brunswick",
     "id": "e6071b93-7dbd-4e00-9f95-3aedd8bda97c",
     "title": "Power BI/Ops Analytics Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -85394,7 +85420,7 @@
     "company_name": "CACI",
     "id": "1c879a64-7b17-41de-9acd-e88e472d6605",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -177788,7 +177814,7 @@
     "company_name": "The Campbell's Company",
     "id": "d43b31ed-46ea-4c3d-8731-9b123a3e9678",
     "title": "Data Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -240777,7 +240803,7 @@
     "company_name": "University of Arkansas",
     "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
     "title": "Graduate Research Assistant Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -337911,6 +337937,32 @@
   },
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "LabCorp",
+    "id": "90753851-751f-470f-a9c0-9e50305da49d",
+    "title": "Intern Data Science and Artificial Intelligence",
+    "active": false,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1772025114,
+    "date_posted": 1772025114,
+    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Data-Science-and-Artificial-Intelligence_266053",
+    "locations": [
+      "Durham, NC"
+    ],
+    "company_url": "https://simplify.jobs/c/LabCorp",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "GlobalFoundries",
     "id": "b6af1f12-a532-4336-80a7-dae6a7b09f77",
@@ -404223,6 +404275,31 @@
   },
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "The Walt Disney Company",
+    "id": "7a3c769c-9815-4e97-b86b-7ab1c37d3885",
+    "title": "Glendale System Software Engineering Internship - Fall 2026",
+    "active": false,
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "date_updated": 1769499035,
+    "date_posted": 1769499035,
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Fall-2026_10139800-1",
+    "locations": [
+      "Glendale, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Disney",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "The Walt Disney Company",
     "id": "1125db48-d111-4051-a147-1798d619e4d1",
@@ -407064,86 +407141,6 @@
       "Markham, ON, Canada"
     ],
     "company_url": "https://simplify.jobs/c/Dordt-University",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "LabCorp",
-    "id": "82620b43-1609-4bf7-8f95-b172054c6cdd",
-    "title": "Intern Data Science and Artificial Intelligence",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769434634,
-    "date_posted": 1769434634,
-    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Data-Science-and-Artificial-Intelligence_2534702",
-    "locations": [
-      "Durham, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/LabCorp",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "The Walt Disney Company",
-    "id": "ee798c88-b063-4923-acde-913cc541d801",
-    "title": "Glendale System Software Engineering Internship - Fall 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "date_updated": 1769432023,
-    "date_posted": 1769432023,
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Fall-2026_10139800",
-    "locations": [
-      "Glendale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Disney",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Crowdstrike",
-    "id": "8106c5a5-4d05-4de8-b462-ed9732be89f0",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1769430072,
-    "date_posted": 1769430072,
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-Intern---Summer-2026_R26636",
-    "locations": [
-      "Redmond, WA",
-      "Sunnyvale, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Crowdstrike",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [

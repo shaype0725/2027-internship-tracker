@@ -1,4 +1,4 @@
-# Summer 2027 — AI/ML/Data (715)
+# Summer 2027 — AI/ML/Data (713)
 
 Auto-generated. Do not hand-edit.
 
@@ -118,7 +118,6 @@ Auto-generated. Do not hand-edit.
 | [ATC](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Asset-Management-Summer-2027_R0003301) | Asset Management Intern | De Pere, WI, Cottage Grove, WI, Kingsford, MI, Pewaukee, WI | 2026-09-16 | 7 |
 | [Charter Manufacturing](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Automation---Analytics-Intern--Year-Round-_R08112) | Automation & Analytics Intern | Milwaukee, WI | 2026-09-16 | 7 |
 | [Gordon Food Service](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1) | Data Science Engineer Intern | Atlanta, GA | 2026-09-16 | 7 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) | Quantum and Chemistry Research Intern - Quantum and AI for Chemistry | Toronto, ON, Canada | 2026-09-16 | 7 |
 | [Sun Life](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Reporting-Analyst-Co-op---Spring-2027_JR00127633) | Reporting Analyst Co-op | Wellesley, MA | 2026-09-16 | 7 |
 | [APEX Analytix](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | Data Science Intern | Greensboro, NC | 2026-09-15 | 7 |
 | [APEX Analytix](https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef) | Data Analyst Intern - Summer 2027 | Greensboro, NC | 2026-09-15 | 7 |
@@ -541,7 +540,7 @@ Auto-generated. Do not hand-edit.
 | [Stryker](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) | Data Analytics Intern - Multiple Teams | Portage, MI | 2026-08-31 | 23 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351) | Service Technology Research Intern - Summer 2027 | Westerville, OH | 2026-08-28 | 25 |
 | [CSX](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54826) | Engineering Intern - Positive Train Control - Paid | Jacksonville, FL | 2026-08-28 | 25 |
-| [CSX](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817) | Intermodal Intern - Summer 2027 - Paid | Jacksonville, FL | 2026-08-28 | 25 |
+| [CSX](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817) | Intermodal Intern - Summer 2027 - Paid | Jacksonville, FL | 2026-08-28 | 26 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143) | Data Scientist Intern - Summer Games | Rome, NY | 2026-08-28 | 26 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132) | Data Scientist Intern - Summer Games | Colorado Springs, CO | 2026-08-28 | 26 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) | Data Scientist Intern - University | Charleston, SC | 2026-08-28 | 26 |
@@ -568,7 +567,6 @@ Auto-generated. Do not hand-edit.
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120) | Software Developer/Data Scientist Intern - Summer 2027 | Sterling, VA, Denver, CO, Sarasota, FL | 2026-08-26 | 28 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214478) | Data Solutions Intern - Internship Program | Boston, MA, Tampa, FL | 2026-08-25 | 28 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522) | Artificial Intelligence/Machine Learning Intern | United States | 2026-08-25 | 28 |
-| [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236) | Power BI/Ops Analytics Co-op | Fond du Lac, WI | 2026-08-25 | 29 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238) | Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence | Fond du Lac, WI | 2026-08-25 | 29 |
 | [Cigna Group](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) | Legal Operations Financial Data & AI Analytics Intern | St. Louis, MO | 2026-08-25 | 29 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Research Intern - PhD | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | 2026-08-24 | 29 |
@@ -616,9 +614,9 @@ Auto-generated. Do not hand-edit.
 | [Google](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | Research Scientist PhD Intern | London, UK | 2026-08-17 | 36 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796) | AI Engineer Intern - Enterprise Technology Services | Atlanta, GA | 2026-08-17 | 36 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999) | AI Engineer Intern - Enterprise Technology Services | Sunrise, FL | 2026-08-17 | 36 |
-| [Google](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | Data Science PhD Intern | London, UK | 2026-08-17 | 36 |
-| [TikTok](https://lifeattiktok.com/search/7674944387893791029) | Data Analyst Intern - LIVE | London, UK | 2026-08-17 | 36 |
-| [TikTok](https://lifeattiktok.com/search/7674032146438162693) | Data Engineer Intern - Data Platform Global Live | San Jose, CA | 2026-08-17 | 36 |
+| [Google](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | Data Science PhD Intern | London, UK | 2026-08-17 | 37 |
+| [TikTok](https://lifeattiktok.com/search/7674944387893791029) | Data Analyst Intern - LIVE | London, UK | 2026-08-17 | 37 |
+| [TikTok](https://lifeattiktok.com/search/7674032146438162693) | Data Engineer Intern - Data Platform Global Live | San Jose, CA | 2026-08-17 | 37 |
 | [KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385) | Data Intern - Key Technology & Services - Data Track | Brooklyn, OH | 2026-08-17 | 37 |
 | [Ryan Companies](https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961) | Business Intelligence Intern - Mission Critical | Des Moines, IA, Austin, TX, Tampa, FL, Dallas, TX, Chicago, IL, Minneapolis, MN, Atlanta, GA | 2026-08-17 | 37 |
 | [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) | Data Science & Machine Learning Fellow Intern | Washington, DC | 2026-08-14 | 39 |
