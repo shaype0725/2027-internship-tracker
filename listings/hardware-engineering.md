@@ -1,4 +1,4 @@
-# Hardware Engineering (672)
+# Hardware Engineering (684)
 
 [← back to index](../README.md)
 
@@ -15,6 +15,18 @@
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4716088006) | Software Defined Radio Hardware Intern - Summer 2027 | SF | Summer 2027 | 2026-09-24 | 0 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4704803006) | FPGA Intern - Winter 2027 | SF | Winter 2027 | 2026-09-24 | 0 | simplify-2026 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4704805006) | FPGA Intern - Summer 2027 | SF | Summer 2027 | 2026-09-24 | 0 | simplify-2026 |
+| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692) | Software Intern - WaveLogic | Atlanta, GA | Summer 2027 | 2026-09-24 | 0 | simplify-2026 |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3615) | Applications Engineer Intern | Burlington, ON, Canada | Winter 2026 | 2026-09-24 | 0 | simplify-2026 |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620) | Digital IC Design Intern | Ottawa, ON, Canada | Summer 2027 | 2026-09-24 | 0 | simplify-2026 |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | Firmware Intern | Ottawa, ON, Canada | Summer 2027 | 2026-09-24 | 0 | simplify-2026 |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Digital-IC-Design-Engineering-Intern_REQ3621) | Digital IC Design Engineering Intern - Signal Integrity Products Group | Burlington, ON, Canada | Winter 2026 | 2026-09-24 | 0 | simplify-2026 |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628) | Validation Engineering Intern - Signal Integrity Products Group | Burlington, ON, Canada | Summer 2027 | 2026-09-24 | 0 | simplify-2026 |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623) | Analog Design Engineer Intern | Calgary, AB, Canada | Summer 2027 | 2026-09-24 | 0 | simplify-2026 |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/IC-Packaging-Design-Intern_REQ3619) | IC Packaging Design Intern | Ottawa, ON, Canada | Winter 2026 | 2026-09-24 | 0 | simplify-2026 |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625) | Analog Design Intern | Ottawa, ON, Canada | Summer 2027 | 2026-09-24 | 0 | simplify-2026 |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622) | Analog Design Engineer Intern - Signal Integrity Products Group | Burlington, ON, Canada | Summer 2027 | 2026-09-24 | 0 | simplify-2026 |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3616) | Applications Engineering Intern | Burlington, ON, Canada | Winter 2026 | 2026-09-24 | 0 | simplify-2026 |
+| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618) | Validation Engineering Intern | Ottawa, ON, Canada | Summer 2027 | 2026-09-24 | 0 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721229661) | Firmware Development Intern - PAL | Markham, ON, Canada | Summer 2027 | 2026-09-23 | 1 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54221?icims=1) | Analog and Mixed Signal IC Design Engineer Intern | Santa Clara, CA | Winter 2026 | 2026-09-23 | 1 | simplify-2026 |
 | [Advanced Energy](https://jobs.advanced-energy.com/job/Eden-Prairie-Intern-Firmware-Engineer,-Undergraduate-MN-55344/1432967000/?ats=successfactors) | Firmware Engineer Intern - Undergraduate | Eden Prairie, MN | Winter 2026 | 2026-09-23 | 1 | simplify-2026 |
@@ -302,6 +314,7 @@
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1) | Firmware Engineer Intern | Farmington, CT | Summer 2026 | 2026-09-08 | 16 | simplify-2026 |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1) | Firmware Engineer Intern - Advanced Development | Indianapolis, IN | Summer 2026 | 2026-09-08 | 16 | simplify-2026 |
 | [Boeing](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675) | Microelectronics R&D Intern - Engineering & Technology Innovation | Tukwila, WA, Huntington Beach, CA | Summer 2027 | 2026-09-08 | 16 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989) | FPGA Electrical Design Engineer Intern | Tucson, AZ | Summer 2027 | 2026-09-08 | 16 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991) | Digital Design Electrical Engineer Intern - Summer 2027 | Tucson, AZ | Summer 2027 | 2026-09-08 | 16 | simplify-2026 |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) | Hardware Engineer Intern - Advanced Development | Indianapolis, IN | Winter 2026 | 2026-09-08 | 16 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521) | DRAM Customer Enablement Engineering Intern | Boise, ID | Winter 2026 | 2026-09-08 | 16 | simplify-2026 |
@@ -314,7 +327,6 @@
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Summer-2027_R-10065546) | Digital Physical Design Intern | Austin, TX | Summer 2027 | 2026-09-07 | 17 | simplify-2026 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065549) | Digital Design Intern - Spring 2027 | Austin, TX | Spring 2027 | 2026-09-07 | 17 | simplify-2026 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586) | Device Engineering Intern - Summer 2027 | Chandler, AZ | Summer 2027 | 2026-09-07 | 17 | simplify-2026 |
-| [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Microcontrollers-System-Engineering-Intern---Summer-2027_R-10066400-1) | Microcontrollers System Engineering Intern | Austin, TX | Summer 2027 | 2026-09-07 | 17 | simplify-2026 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Intern---Summer-2027_R-10065552) | Digital Verification Intern - Summer 2027 | Austin, TX | Summer 2027 | 2026-09-07 | 17 | simplify-2026 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551) | Digital Design Intern | Austin, TX | Summer 2027 | 2026-09-07 | 17 | simplify-2026 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558) | Analog Validation Intern - Summer 2027 | Austin, TX | Summer 2027 | 2026-09-07 | 17 | simplify-2026 |
