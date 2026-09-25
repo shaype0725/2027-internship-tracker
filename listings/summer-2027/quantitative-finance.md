@@ -9,10 +9,10 @@ Auto-generated. Do not hand-edit.
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) | Systematic Trading Intern - Systematic Trading | London, UK | 2026-09-24 | 1 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | Machine Learning Research Associate Intern | Greenwich, CT | 2026-09-23 | 2 |
 | [Neuberger Berman](https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643) | Quantitative Analyst Intern | NYC | 2026-09-23 | 2 |
-| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010) | Quantitative Research Summer Analyst Internship - Asset Management | London, UK | 2026-09-22 | 2 |
+| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010) | Quantitative Research Summer Analyst Internship - Asset Management | London, UK | 2026-09-22 | 3 |
 | [Viking Global](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) | Data Science Intern | NYC | 2026-09-21 | 3 |
 | [Lazard](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612) | Quantitative Research Intern | NYC | 2026-09-21 | 3 |
-| [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/35602?icims=1) | Quantitative Analysis Intern - Quantitative Analysis | Raleigh, NC | 2026-09-21 | 3 |
+| [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/35602?icims=1) | Quantitative Analysis Intern - Quantitative Analysis | Raleigh, NC | 2026-09-21 | 4 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Multi-Asset-Research-Team_2135361) | Quantitative Research Intern - Multi-Asset Research Team | Boston, MA | 2026-09-21 | 4 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109) | Quantitative Analyst Intern - Fixed Income Team | Boston, MA, Merrimack, NH | 2026-09-21 | 4 |
 | [Fidelity Investments](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905) | Quantitative Research Intern | Boston, MA | 2026-09-21 | 4 |
@@ -108,7 +108,7 @@ Auto-generated. Do not hand-edit.
 | [Two Sigma](https://twosigma.avature.net/careers/JobDetail/13945) | Quantitative Researcher Intern | NYC | 2026-08-02 | 54 |
 | [Maven Securities](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) | Quant Trader Intern | London, UK | 2026-07-31 | 55 |
 | [Anthelion Capital](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true) | Quant Developer / Quant Research Intern | NYC | 2026-07-23 | 63 |
-| [Optiver](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002) | Institutional Trader Intern | Chicago, IL | 2026-07-23 | 63 |
+| [Optiver](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002) | Institutional Trader Intern | Chicago, IL | 2026-07-23 | 64 |
 | [G-Research](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | Quantitative Research Internship | London, UK | 2026-07-23 | 64 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | Quantitative Researcher Internship | NYC | 2026-07-22 | 64 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Quantitative Trading Intern | Austin, TX, Chicago, IL, NYC | 2026-07-21 | 65 |
@@ -116,15 +116,15 @@ Auto-generated. Do not hand-edit.
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | Trading Analyst Intern | Greenwich, CT | 2026-07-21 | 65 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | Quant Trading Intern | Chicago, IL | 2026-07-20 | 66 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) | Trading Automation and Operations Intern | Chicago, IL | 2026-07-16 | 71 |
-| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false) | Quantitative Trading Internship | London, UK | 2026-07-15 | 71 |
-| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false) | Quantitative Research Intern | London, UK | 2026-07-15 | 71 |
-| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11006/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern | London, UK | 2026-07-15 | 71 |
+| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false) | Quantitative Trading Internship | London, UK | 2026-07-15 | 72 |
+| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false) | Quantitative Research Intern | London, UK | 2026-07-15 | 72 |
+| [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/11006/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern | London, UK | 2026-07-15 | 72 |
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) | Quantitative Researcher Intern | NYC | 2026-07-14 | 72 |
 | [Five Rings Capital](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | Quantitative Trader Intern - Quantitative Trader | NYC | 2026-07-14 | 72 |
 | [Voloridge](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Quantitative Research Intern | Jupiter, FL | 2026-07-14 | 72 |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837) | Algorithm Development Intern - Quant Research | NYC | 2026-07-13 | 73 |
 | [Akuna Capital University](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Quantitative Research Intern | Chicago, IL | 2026-07-13 | 73 |
-| [DRW](https://job-boards.greenhouse.io/drweng/jobs/7957243) | Quantitative Trading Analyst Intern | London, UK | 2026-07-13 | 73 |
+| [DRW](https://job-boards.greenhouse.io/drweng/jobs/7957243) | Quantitative Trading Analyst Intern | London, UK | 2026-07-13 | 74 |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | Quantitative Developer Intern | Boston, MA | 2026-07-10 | 77 |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | Quantitative Researcher Intern | Boston, MA | 2026-07-10 | 77 |
 | [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8049938) | Campus Quantitative Researcher Intern - PhD | Chicago, IL, NYC | 2026-07-08 | 78 |
@@ -147,8 +147,8 @@ Auto-generated. Do not hand-edit.
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | Equity Volatility Quant Researcher Intern | Miami, FL | 2026-06-10 | 107 |
 | [TransMarket Group](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | Quantitative Trader Intern | Chicago, IL | 2026-06-02 | 114 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | Research and Portfolio Management Engineering Summer Analyst Intern | Greenwich, CT | 2026-05-26 | 121 |
-| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | Research Summer Analyst Intern | Greenwich, CT | 2026-05-15 | 132 |
-| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | Portfolio Implementation – Trading and Portfolio Finance Analyst Intern | Greenwich, CT | 2026-05-15 | 132 |
+| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | Research Summer Analyst Intern | Greenwich, CT | 2026-05-15 | 133 |
+| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | Portfolio Implementation – Trading and Portfolio Finance Analyst Intern | Greenwich, CT | 2026-05-15 | 133 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | Ardmore, PA | 2026-04-23 | 154 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) | Trading System Engineering Intern | Ardmore, PA | 2026-04-23 | 154 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern | Ardmore, PA | 2026-04-21 | 156 |
