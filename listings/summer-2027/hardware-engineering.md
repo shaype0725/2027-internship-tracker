@@ -1,9 +1,10 @@
-# Summer 2027 — Hardware (267)
+# Summer 2027 — Hardware (268)
 
 Auto-generated. Do not hand-edit.
 
 | Company | Role | Location | Date Posted | Days Old |
 |---|---|---|---|---|
+| [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/60223?icims=1) | Space Exploration Software Engineer Intern - Embedded Applications | Laurel, MD | 2026-09-25 | 0 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4716499006) | RF Validation Intern - Summer 2027 | SF | 2026-09-24 | 0 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4716088006) | Software Defined Radio Hardware Intern - Summer 2027 | SF | 2026-09-24 | 1 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4704805006) | FPGA Intern - Summer 2027 | SF | 2026-09-24 | 1 |
@@ -87,7 +88,7 @@ Auto-generated. Do not hand-edit.
 | [Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application?embed=true) | Hardware Engineer Intern - Machine Integration & Test | SF | 2026-09-14 | 10 |
 | [North Atlantic Industries](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501298) | Test Engineer Intern | Bohemia, NY | 2026-09-14 | 10 |
 | [North Atlantic Industries](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501330) | Electrical Design Engineer Intern | Bohemia, NY | 2026-09-14 | 10 |
-| [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770) | Hardware Engineering Intern - Infrastructure Solutions Group | Round Rock, TX, Hopkinton, MA | 2026-09-14 | 10 |
+| [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770) | Hardware Engineering Intern - Infrastructure Solutions Group | Round Rock, TX, Hopkinton, MA | 2026-09-14 | 11 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1) | Electrical Engineer Intern - Robotics R&D | Santa Clara, CA | 2026-09-14 | 11 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436) | Architecture Intern - MS | Santa Clara, CA | 2026-09-14 | 11 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027_R50319) | Electronics & Controls Intern | New Hudson, MI | 2026-09-14 | 11 |
@@ -127,9 +128,9 @@ Auto-generated. Do not hand-edit.
 | [Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application?embed=true) | Sensor Hardware Test Engineer Intern | SF | 2026-09-08 | 16 |
 | [Allen Control Systems](https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application?embed=true) | Electrical Engineer Intern | Austin, TX | 2026-09-08 | 16 |
 | [Revel](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true) | Embedded Software Engineer Intern | SF, LA | 2026-09-08 | 16 |
-| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217) | Design Engineer Intern - Graduate-Level - Summer 2027 | Delaware, OH, Fort Lauderdale, FL, Huntsville, AL | 2026-09-08 | 16 |
-| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279250) | Design Engineering Intern | Delaware, OH, Fort Lauderdale, FL | 2026-09-08 | 16 |
-| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279211) | Design Engineering Intern - Summer 2027 | Delaware, OH, Fort Lauderdale, FL, Huntsville, AL | 2026-09-08 | 16 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217) | Design Engineer Intern - Graduate-Level - Summer 2027 | Delaware, OH, Fort Lauderdale, FL, Huntsville, AL | 2026-09-08 | 17 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279250) | Design Engineering Intern | Delaware, OH, Fort Lauderdale, FL | 2026-09-08 | 17 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279211) | Design Engineering Intern - Summer 2027 | Delaware, OH, Fort Lauderdale, FL, Huntsville, AL | 2026-09-08 | 17 |
 | [Apple](https://jobs.apple.com/en-us/details/200682357) | GPU Intern - Multiple Teams | London, UK, Cambridge, UK, St Albans, UK | 2026-09-08 | 17 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265) | Software Engineering Intern - Masters | Santa Clara, CA | 2026-09-08 | 17 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1) | Advanced Packaging Intern | Burlington, VT | 2026-09-08 | 17 |
@@ -164,7 +165,7 @@ Auto-generated. Do not hand-edit.
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514) | Functional Validation Intern - BS | Santa Clara, CA, Boise, ID, Westborough, MA | 2026-09-04 | 21 |
 | [Tesla](https://www.tesla.com/careers/search/job/282340) | Embedded Software Engineer Intern - Optimus | Palo Alto, CA | 2026-09-03 | 21 |
 | [Hexagon AB](https://careers-hexagonpositioning.icims.com/jobs/3078/job?mobile=true&needsRedirect=false) | Defense Engineer Intern - Aerospace and Defense Engineering | Calgary, AB, Canada | 2026-09-03 | 21 |
-| [Susquehanna International Group](https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false) | FPGA Engineer Intern | Bala Cynwyd, PA | 2026-09-03 | 21 |
+| [Susquehanna International Group](https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false) | FPGA Engineer Intern | Bala Cynwyd, PA | 2026-09-03 | 22 |
 | [AMD](https://careers.amd.com/jobs/91308?icims=1) | Diagnostics Design Engineering Intern/Co-op | Markham, ON, Canada | 2026-09-03 | 22 |
 | [General Matter](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) | Embedded Software Engineer Intern | LA | 2026-09-03 | 22 |
 | [AMD](https://careers.amd.com/jobs/91207?icims=1) | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | 2026-09-03 | 22 |
