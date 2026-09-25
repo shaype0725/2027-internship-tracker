@@ -66,7 +66,7 @@ Auto-generated. Do not hand-edit.
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/gtKeu9-kQinTxakrqIWSRg) | Quantitative Trading Intern - Fixed Income & Currencies | NYC | 2026-09-03 | 22 |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/o6Cp44Ol7NVnH0MbcO81eA) | Quant Intern - Strategic Analytics | NYC | 2026-09-03 | 22 |
 | [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-1) | Quantitative Analyst Summer Associate - Quantitative Technology Services | NYC | 2026-09-02 | 23 |
-| [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8037860) | Quantitative Trader/Researcher Intern | London, UK | 2026-09-01 | 23 |
+| [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8037860) | Quantitative Trader/Researcher Intern | London, UK | 2026-09-01 | 24 |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog) | Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs | London, UK | 2026-09-01 | 24 |
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA) | Quantitative FIC Intern - Quantitative Trading | London, UK | 2026-09-01 | 24 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) | Quantitative Research Analyst Intern - Client Solutions & Analytics | London, UK | 2026-09-01 | 24 |
@@ -76,7 +76,7 @@ Auto-generated. Do not hand-edit.
 | [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358) | Quantitative Analyst Co-op Intern - Derivative and Asset Modeling | Toronto, ON, Canada | 2026-08-31 | 25 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) | Futures & Options Trading Analyst Intern - Summer 2027 | NYC | 2026-08-26 | 30 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401) | Model Risk Management Intern - 2027 Internship Program | Jersey City, NJ | 2026-08-25 | 30 |
-| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Arbitrage Research Summer Analyst Intern - AQR Arbitrage | Greenwich, CT | 2026-08-25 | 30 |
+| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Arbitrage Research Summer Analyst Intern - AQR Arbitrage | Greenwich, CT | 2026-08-25 | 31 |
 | [Freddie Mac](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) | Quantitative Risk Management Intern | McLean, VA | 2026-08-24 | 32 |
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false) | Trading Systems Engineer Intern | London, UK | 2026-08-21 | 35 |
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | London, UK, Dublin, Ireland | 2026-08-21 | 35 |
