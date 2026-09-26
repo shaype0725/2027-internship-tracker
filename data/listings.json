@@ -1234,7 +1234,7 @@
     "company_name": "RGA Reinsurance Company",
     "id": "67a06040-d92a-4f48-93d2-49e731514717",
     "title": "Data Science/AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -9607,7 +9607,7 @@
     "company_name": "RTX",
     "id": "e85fe564-c92c-4c56-b2ce-41f4ca778811",
     "title": "Operations Software Engineering Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13711,7 +13711,7 @@
     "company_name": "NVIDIA",
     "id": "876c3f6f-84b9-4e5d-a61c-3f403eeed9bb",
     "title": "Research Intern - Robotics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -37822,7 +37822,7 @@
     "company_name": "Guardian Life",
     "id": "8155c07e-de11-481a-ba23-c42178f1189c",
     "title": "Application Development Intern - Digital & Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -44110,7 +44110,7 @@
     "company_name": "Marvell",
     "id": "b993dfd1-18f6-4fe1-97b4-b37792dd18ae",
     "title": "Architecture, DSP & Systems Architecture Ph.D. Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -48867,7 +48867,7 @@
     "company_name": "Barclays",
     "id": "61a5a0fc-0ce6-46ff-a4d2-50cc78e335f4",
     "title": "Customer and Digital Data and Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -48891,7 +48891,7 @@
     "company_name": "Barclays",
     "id": "51c7dc86-7911-4193-80a9-a7f6eab577b2",
     "title": "Marketing Analyst Intern - Marketing",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -49064,7 +49064,7 @@
     "company_name": "Barclays",
     "id": "2892cb3f-9aea-4076-b536-63a821a5fecd",
     "title": "Technology Developer Intern - Programme",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -49907,7 +49907,7 @@
     "company_name": "Intact",
     "id": "a1a4f745-5162-438b-9254-9a09299db5c0",
     "title": "AI Developer Intern Co-op - Winter 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -85911,7 +85911,7 @@
     "company_name": "Tencent",
     "id": "de610830-2f60-4805-baf7-ae776ebdaeb4",
     "title": "Communications Platform as a Service Product Management Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -333986,7 +333986,7 @@
     "company_name": "PennState University",
     "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
     "title": "Research and Development Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Spring 2026",
       "Fall 2026",

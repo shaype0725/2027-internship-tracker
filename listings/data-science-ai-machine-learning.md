@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1480)
+# Data Science, AI & Machine Learning (1476)
 
 [← back to index](../README.md)
 
@@ -31,7 +31,6 @@
 | [American Family Insurance Group](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/ML-Ops-Intern_R39493) | Machine Learning Operations Intern | Madison, WI | Winter 2026 | 2026-09-25 | 1 | simplify-2026 |
 | [Cencora](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Business-Analytics-Intern_R2616423) | Business Analytics Intern | Texas, Remote in USA | Winter 2026 | 2026-09-25 | 1 | simplify-2026 |
 | [Gilead Sciences](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism---AI_R0055519) | Research Intern - Drug Metabolism - AI | Foster City, CA | Summer 2026 | 2026-09-25 | 1 | simplify-2026 |
-| [RGA Reinsurance Company](https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Fall-Intern---Data-Science-AI_J28774) | Data Science/AI Intern | Chesterfield, MO | Fall 2026 | 2026-09-25 | 1 | simplify-2026 |
 | [Maricopa Association of Governments](https://azmag.wd108.myworkdayjobs.com/magcareers/job/Phoenix-AZ/Socioeconomic-Data-Intern_JR24) | Socioeconomic Data Intern | Phoenix, AZ | Winter 2026 | 2026-09-25 | 1 | simplify-2026 |
 | [Pacific Life](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828) | Data Engineering Intern | Newport Beach, CA | Summer 2027 | 2026-09-25 | 1 | simplify-2026 |
 | [Cerity Partners](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929) | Investment Data & Technology Intern - Central Solutions | NYC | Summer 2027 | 2026-09-25 | 1 | simplify-2026 |
@@ -185,7 +184,6 @@
 | [EMC Insurance](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1) | Claims Intern - Data | Iowa | Summer 2027 | 2026-09-21 | 5 | simplify-2026 |
 | [CAE](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-917---Stagaire-en-analyste-et-dveloppeur-en-Intelligence-d-affaires_123723) | Business Intelligence Analyst & Developer Intern | Montreal, QC, Canada | N/A | 2026-09-21 | 5 | simplify-2026 |
 | [Sanofi](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-mRNA-Drug-Substance-Process-Characterization-Data-Analytics-and-Visualization--Waltham--MA_R2854370) | mRNA Drug Substance Process Characterization Data Analytics and Visualization Co-op | Waltham, MA | Spring 2027 | 2026-09-21 | 5 | simplify-2026 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) | Research Intern - Robotics | Seattle, WA, Santa Clara, CA | Summer 2027 | 2026-09-21 | 5 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Summer-2027-Data-Analytics-Intern_R4046487-1) | Data Analytics Intern | Salt Lake City, UT | Summer 2027 | 2026-09-21 | 5 | simplify-2026 |
 | [Tyson Foods](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Sensory-Science-Summer-Intern_R0481312-2) | Sensory Science Intern | Springdale, AR | Summer 2026 | 2026-09-21 | 5 | simplify-2026 |
 | [Commerce Bank](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Science-Summer-2027_38483) | Data Science Intern | Kansas City, MO | Summer 2027 | 2026-09-21 | 5 | simplify-2026 |
@@ -620,8 +618,6 @@
 | [Auto-Owners Insurance](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Marketplace-Intelligence-Internship---Summer-2027_R_14506) | Marketplace Intelligence Intern | Lansing, MI | Summer 2027 | 2026-09-09 | 17 | simplify-2026 |
 | [Kensho](https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714) | Machine Learning Engineer Intern | Cambridge, MA, NYC | Summer 2027 | 2026-09-09 | 17 | simplify-2026 |
 | [Ankura Consulting Group](https://ankura.wd5.myworkdayjobs.com/ankura/job/Chicago-IL/University-Intern--Forensic-Data---Analytics_R104944) | Forensic Data & Analytics Intern | Chicago, IL | Winter 2026 | 2026-09-09 | 17 | simplify-2026 |
-| [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278) | Customer and Digital Data and Analytics Intern | Glasgow, UK | Summer 2027 | 2026-09-09 | 17 | simplify-2026 |
-| [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Marketing-Analyst-Summer-Internship-Programme-London_JR-0000129579) | Marketing Analyst Intern - Marketing | London, UK | Summer 2027 | 2026-09-09 | 17 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280) | Data and Analytics Intern - Customer and Digital | London, UK | Summer 2027 | 2026-09-09 | 17 | simplify-2026 |
 | [Ankura Consulting Group](https://ankura.wd5.myworkdayjobs.com/ankura/job/New-York-NY/University-Intern--Forensic-Data---Analytics_R104943) | Forensic Data & Analytics Intern | NYC | Winter 2026 | 2026-09-09 | 17 | simplify-2026 |
 | [Intelcom | Dragonfly](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Sales-Project-Intern_JR111705) | Sales Project Intern | Montreal, QC, Canada | Winter 2026 | 2026-09-09 | 17 | simplify-2026 |
