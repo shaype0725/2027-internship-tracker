@@ -1,4 +1,4 @@
-# Hardware Engineering (683)
+# Hardware Engineering (684)
 
 [← back to index](../README.md)
 
@@ -17,7 +17,6 @@
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/60223?icims=1) | Space Exploration Software Engineer Intern - Embedded Applications | Laurel, MD | Summer 2027 | 2026-09-25 | 3 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/284607) | Optical Engineer Intern - Electronic Systems | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-25 | 3 | simplify-2026 |
 | [Philips](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605) | Electrical Engineer Intern | Cambridge, MA | Summer 2027 | 2026-09-25 | 3 | simplify-2026 |
-| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Processor-Complex-Engineering-Co-op--January-2027---4-months-_R031744) | Processor Complex Engineer Co-op | Ottawa, ON, Canada | Winter 2027 | 2026-09-25 | 3 | simplify-2026 |
 | [The Toro Company](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electrical-Engineering-Intern---The-Toro-Company_JR17124) | Electrical Engineer Intern | Bloomington, MN | Summer 2027 | 2026-09-25 | 3 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Design-Application-Engineering-Intern--Summer-2027-_JR-2604221) | Design Application Engineering Intern | Santa Clara, CA | Summer 2027 | 2026-09-25 | 3 | simplify-2026 |
 | [Zurn Elkay Water Solutions](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151) | Embedded Hardware Intern | Milwaukee, WI | Summer 2027 | 2026-09-25 | 3 | simplify-2026 |
@@ -96,6 +95,7 @@
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686) | Verification Engineer Intern | Atlanta, GA | Spring 2027 | 2026-09-22 | 6 | simplify-2026 |
 | [Eaton](https://eaton.eightfold.ai/careers/job/687239255756) | Embedded Software Engineer Intern - Research & Development Engineering | Franksville, Caledonia, WI | Winter 2026 | 2026-09-21 | 7 | simplify-2026 |
 | [Koch Industries](https://koch.avature.net/en_US/careers/JobDetail/194772) | Optical System Test Engineer Intern | Fremont, CA | Winter 2026 | 2026-09-21 | 7 | simplify-2026 |
+| [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537) | Test Engineering Intern | Irvine, CA, Santa Clara, CA, Westlake Village, CA | Summer 2027 | 2026-09-21 | 7 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537-1) | Test Engineering Intern - BS | Irvine, CA, Santa Clara, CA, Westlake Village, CA | Summer 2027 | 2026-09-21 | 7 | simplify-2026 |
 | [Symbotic](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101) | Hardware Engineer Intern - Hardware Engineering | Wilmington, MA | N/A | 2026-09-21 | 7 | simplify-2026 |
 | [Symbotic](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R7976) | Hardware Engineer | Wilmington, MA | N/A | 2026-09-21 | 7 | simplify-2026 |
@@ -330,6 +330,7 @@
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1) | Firmware Engineer Intern | Farmington, CT | Summer 2026 | 2026-09-08 | 20 | simplify-2026 |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1) | Firmware Engineer Intern - Advanced Development | Indianapolis, IN | Summer 2026 | 2026-09-08 | 20 | simplify-2026 |
 | [Boeing](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675) | Microelectronics R&D Intern - Engineering & Technology Innovation | Tukwila, WA, Huntington Beach, CA | Summer 2027 | 2026-09-08 | 20 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989) | FPGA Electrical Design Engineer Intern | Tucson, AZ | Summer 2027 | 2026-09-08 | 20 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991) | Digital Design Electrical Engineer Intern - Summer 2027 | Tucson, AZ | Summer 2027 | 2026-09-08 | 20 | simplify-2026 |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) | Hardware Engineer Intern - Advanced Development | Indianapolis, IN | Winter 2026 | 2026-09-08 | 20 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521) | DRAM Customer Enablement Engineering Intern | Boise, ID | Winter 2026 | 2026-09-08 | 20 | simplify-2026 |
