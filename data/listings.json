@@ -2581,7 +2581,7 @@
     "company_name": "Texas A&M International University",
     "id": "9f7a8ad3-d41e-4a2f-90e0-cdc666f82723",
     "title": "Undergraduate Research Assistant - Wiseman",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -4093,7 +4093,7 @@
     "company_name": "Renesas Electronics",
     "id": "5b45c51f-8025-4c1f-9845-28a30c387ae0",
     "title": "Design Verification Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -5663,7 +5663,7 @@
     "company_name": "GlobalFoundries",
     "id": "30aaecc3-d600-4c24-bde5-386b4056f2ee",
     "title": "Design Application Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -30205,7 +30205,7 @@
     "company_name": "PressW",
     "id": "2ce45287-9550-4c52-9713-3ca4f1c8fc39",
     "title": "Applied AI Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -44934,7 +44934,7 @@
     "company_name": "Quantinuum",
     "id": "e786530f-a166-4c4d-8e6a-a97d02405c85",
     "title": "Layout Automation Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -50949,7 +50949,7 @@
     "company_name": "Entegris",
     "id": "a3b700b5-11b3-48ae-92cf-a4cd8017c1f6",
     "title": "Lab Automation & AI Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -63086,7 +63086,7 @@
     "company_name": "Merck",
     "id": "2504c78d-986a-40de-b1e5-49135a5f9043",
     "title": "Optical Imaging Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -80688,7 +80688,7 @@
     "company_name": "Allied Solutions",
     "id": "20930d88-f7dd-4419-8030-471b614af90e",
     "title": "IT Performance Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -91895,7 +91895,7 @@
     "company_name": "CACI",
     "id": "2cc80e52-b7a3-47a0-9301-4311883dda00",
     "title": "Embedded Software Engineer Co-op - Fall 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2027"
     ],
@@ -138688,7 +138688,7 @@
     "company_name": "Centerfield",
     "id": "1200d9c3-8c18-4a2b-a55a-19887da19374",
     "title": "Frontend Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -379060,7 +379060,7 @@
     "company_name": "SDSU Research Foundation",
     "id": "92e9dd79-e2da-43cf-ac8b-c99c97cde9d8",
     "title": "Graduate Student ISR Department Lead Systems Engineer - Task",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -403410,109 +403410,6 @@
       "Washington, DC"
     ],
     "company_url": "https://simplify.jobs/c/Washpost",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Regal Rexnord",
-    "id": "f167d7f6-f21b-4812-ab7c-f17397856f8b",
-    "title": "Engineering Technology Co-op - Summer",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770047336,
-    "date_posted": 1770047336,
-    "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Engineering-Technology-Co-op--Summer-_R26_00461-1",
-    "locations": [
-      "Vandalia, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Associate's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Regal Rexnord",
-    "id": "d2d69eaf-763e-47f9-aebd-e6c4469d7a55",
-    "title": "Application Engineer Co-op",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770047329,
-    "date_posted": 1770047329,
-    "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Engineer-Co-op--Summer-_R26_00431-1",
-    "locations": [
-      "Vandalia, OH"
-    ],
-    "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "AtkinsR\u00e9alis",
-    "id": "f4c892b6-2245-434d-934a-c22e6af17920",
-    "title": "Nuclear Engineering Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770047191,
-    "date_posted": 1770047191,
-    "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USTNOak-Ridge545-Oak-Ridge-Turnpike/Nuclear-Engineering-Intern---Summer-2026_R-147583-1",
-    "locations": [
-      "Oak Ridge, TN"
-    ],
-    "company_url": "https://simplify.jobs/c/AtkinsRealis",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Gametime",
-    "id": "e12a36f1-d4f2-48aa-b1af-f70d7c44a06c",
-    "title": "Full Stack Engineering Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1770047136,
-    "date_posted": 1770047136,
-    "url": "https://job-boards.greenhouse.io/gametimeunited/jobs/5104951008",
-    "locations": [
-      "Remote in USA"
-    ],
-    "company_url": "https://simplify.jobs/c/Gametime",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
