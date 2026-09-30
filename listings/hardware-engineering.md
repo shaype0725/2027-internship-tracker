@@ -1,12 +1,18 @@
-# Hardware Engineering (707)
+# Hardware Engineering (714)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [L3Harris Technologies](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors) | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | Winter 2026 | 2026-09-30 | 0 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/285084) | Embedded Software Engineer Intern - Silicon Development | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-30 | 0 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/285153) | Embedded Software Developer Intern - Vehicle Suspension | Palo Alto, CA | Spring 2027 | 2026-09-30 | 0 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200686449) | Design Verification Engineer | Sunnyvale, CA | N/A | 2026-09-30 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986) | Software Engineer Intern - Summer 2027 | Fort Wayne, IN | Summer 2027 | 2026-09-30 | 0 | simplify-2026 |
+| [KLA](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1) | Optical Engineer Intern | Milpitas, CA | Winter 2026 | 2026-09-30 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer---Intern--Onsite_01879053) | Systems Engineer Intern | Tewksbury, MA | Winter 2026 | 2026-09-30 | 0 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Eng-Intern---S3E_01878712) | Embedded Software Security Engineer Intern - S3E | Tucson, AZ | Winter 2026 | 2026-09-30 | 0 | simplify-2026 |
+| [JCDecaux](https://jcdecaux.wd3.myworkdayjobs.com/ExternalSiteJCDUK/job/London---Brentford/Technician-Digital-Hardware---Apprentice_JR101760-1) | Digital Hardware Technician Apprentice | Brentford, UK | Winter 2026 | 2026-09-30 | 0 | simplify-2026 |
 | [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1) | Hardware Electronics Engineer Intern | Rolling Meadows, IL | Summer 2027 | 2026-09-30 | 0 | simplify-2026 |
 | [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812) | Software Digital Intern | Rolling Meadows, IL | Summer 2027 | 2026-09-30 | 0 | simplify-2026 |
 | [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790) | Embedded Software Engineer Intern | Rolling Meadows, IL | Summer 2027 | 2026-09-30 | 0 | simplify-2026 |
@@ -78,6 +84,7 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) | Data Center Silicon Hardware Engineering Intern Co-op - BS | Toronto, ON, Canada, Ottawa, ON, Canada | Summer 2027 | 2026-09-24 | 6 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788) | Analog Design Intern Co-op - BS | Toronto, ON, Canada | Winter 2026 | 2026-09-24 | 6 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) | Analog Design Intern Co-op - Master’s | Toronto, ON, Canada | Summer 2027 | 2026-09-24 | 6 | simplify-2026 |
+| [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790) | Analog and Mixed Signal Layout Engineer Intern Co-op | Toronto, ON, Canada | Summer 2027 | 2026-09-24 | 6 | simplify-2026 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692) | Software Intern - WaveLogic | Atlanta, GA | Summer 2027 | 2026-09-24 | 6 | simplify-2026 |
 | [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3615) | Applications Engineer Intern | Burlington, ON, Canada | Winter 2026 | 2026-09-24 | 6 | simplify-2026 |
 | [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620) | Digital IC Design Intern | Ottawa, ON, Canada | Summer 2027 | 2026-09-24 | 6 | simplify-2026 |
@@ -125,6 +132,7 @@
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686) | Verification Engineer Intern | Atlanta, GA | Spring 2027 | 2026-09-22 | 8 | simplify-2026 |
 | [Eaton](https://eaton.eightfold.ai/careers/job/687239255756) | Embedded Software Engineer Intern - Research & Development Engineering | Franksville, Caledonia, WI | Winter 2026 | 2026-09-21 | 9 | simplify-2026 |
 | [Koch Industries](https://koch.avature.net/en_US/careers/JobDetail/194772) | Optical System Test Engineer Intern | Fremont, CA | Winter 2026 | 2026-09-21 | 9 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Systems-Engineering-Intern--Onsite_01875985) | Systems Engineer Intern | Woburn, MA | Winter 2026 | 2026-09-21 | 9 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Summer-2027-Systems-Engineering-Internship_R4046627-1) | Systems Engineer Intern | Salt Lake City, UT | Summer 2027 | 2026-09-21 | 9 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Equipment-Engineer-Intern_2603826) | Test Equipment Engineer Intern | Santa Clara, CA | Winter 2026 | 2026-09-21 | 9 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686) | Systems Engineer Co-op - Spring/Summer 2027 | Cedar Rapids, IA | Summer 2027 | 2026-09-21 | 9 | simplify-2026 |
@@ -389,7 +397,6 @@
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1) | Physical Design Engineer Intern - MS - Multiple Teams | Morrisville, NC, Austin, TX, Rochester, MN, Santa Clara, CA, Boise, ID, Burlington, VT, Westborough, MA | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1) | Design Verification Intern - BS | Morrisville, NC, Austin, TX, Santa Clara, CA, Boise, ID, Westborough, MA | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Test-Engineering-Internship-2027_R68059) | Test Engineer Intern | Illinois | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
-| [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) | Firmware Engineer Intern | Santa Clara, CA | Summer 2027, Fall 2027, Winter 2028, Spring 2028, Summer 2028 | 2026-09-04 | 26 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1) | Design for Test Intern | Morrisville, NC, Santa Clara, CA, Boise, ID, Westborough, MA | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1) | Analog Design Intern - MS | Santa Clara, CA, Burlington, VT | Summer 2027 | 2026-09-04 | 26 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515) | IC Validation Engineer Intern - MS - Multiple Teams | Irvine, CA, Santa Clara, CA, Westlake Village, CA | Summer 2027, Fall 2027, Winter 2028, Spring 2028, Summer 2028 | 2026-09-04 | 26 | simplify-2026 |
