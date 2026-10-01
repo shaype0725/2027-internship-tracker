@@ -2247,7 +2247,7 @@
     "company_name": "Patch My PC",
     "id": "8333b344-795f-4400-aa23-11358ddd296e",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -31510,7 +31510,7 @@
     "company_name": "Marvell",
     "id": "8ae81b2e-5edf-4abd-a7bb-22ca99648273",
     "title": "IC Validation Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -34233,7 +34233,7 @@
     "company_name": "Micron Technology",
     "id": "6dfeb793-c0c0-4943-84dd-143dd18fd166",
     "title": "AI Hardware and Memory Systems Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -43364,7 +43364,7 @@
     "company_name": "Principal Financial Group",
     "id": "b0f8239a-22cb-4ff6-8e56-f1c8cfd9ae87",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -68451,7 +68451,7 @@
     "company_name": "Schonfeld",
     "id": "1679d1fa-953d-4b83-b4f5-e2e3a9f4cdd0",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -75722,7 +75722,7 @@
     "company_name": "Booz Allen",
     "id": "f88678d0-d026-47de-9d1f-7d68a6063b87",
     "title": "Electronic Warfare FPGA Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
