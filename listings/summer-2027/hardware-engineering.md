@@ -182,7 +182,7 @@ Auto-generated. Do not hand-edit.
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514) | Functional Validation Intern - BS | Santa Clara, CA, Boise, ID, Westborough, MA | 2026-09-04 | 28 |
 | [Tesla](https://www.tesla.com/careers/search/job/282340) | Embedded Software Engineer Intern - Optimus | Palo Alto, CA | 2026-09-03 | 28 |
 | [Hexagon AB](https://careers-hexagonpositioning.icims.com/jobs/3078/job?mobile=true&needsRedirect=false) | Defense Engineer Intern - Aerospace and Defense Engineering | Calgary, AB, Canada | 2026-09-03 | 28 |
-| [Susquehanna International Group](https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false) | FPGA Engineer Intern | Bala Cynwyd, PA | 2026-09-03 | 28 |
+| [Susquehanna International Group](https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false) | FPGA Engineer Intern | Bala Cynwyd, PA | 2026-09-03 | 29 |
 | [AMD](https://careers.amd.com/jobs/91308?icims=1) | Diagnostics Design Engineering Intern/Co-op | Markham, ON, Canada | 2026-09-03 | 29 |
 | [General Matter](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) | Embedded Software Engineer Intern | LA | 2026-09-03 | 29 |
 | [AMD](https://careers.amd.com/jobs/91207?icims=1) | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | 2026-09-03 | 29 |
