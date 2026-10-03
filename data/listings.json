@@ -1,6 +1,246 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "National Life",
+    "id": "c2a0262e-8fac-4306-9c0f-0ef0424bb16a",
+    "title": "Market Research Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1791067141,
+    "date_posted": 1789419005,
+    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009",
+    "locations": [
+      "Montpelier, VT",
+      "Addison, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/National-Life",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Quant",
+    "company_name": "Jump Trading",
+    "id": "95b7110e-12cf-466a-8c11-28c72de75408",
+    "title": "Campus Quantitative Researcher Intern - Trading Team PhD/Postdoc",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1791066972,
+    "date_posted": 1790116376,
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8209424",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Jump-Trading",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Astranis",
+    "id": "c343edb5-a613-4009-b00b-9dda7f9a8fee",
+    "title": "Software Defined Radio Hardware Associate Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1791066537,
+    "date_posted": 1790212088,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Astranis",
+    "id": "25f578d9-1330-4ae5-9608-a7740ea38a81",
+    "title": "Electrical Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1791066533,
+    "date_posted": 1790144223,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704784006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Rocket Lab USA",
+    "id": "86615113-8398-487e-bc33-95253076af51",
+    "title": "Electrical Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1791066482,
+    "date_posted": 1789079371,
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "KLA Corporation",
+    "id": "fb99fc9f-da10-4a0c-9d4c-565dd66138c8",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1791066078,
+    "date_posted": 1788912000,
+    "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/UIUC-Next-Day-On-Campus-Interviews_2640825-1",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "company_url": "https://simplify.jobs/c/KLA-Corporation",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Astranis",
+    "id": "b0025ed6-8829-47bb-bcd8-5b8c57167f43",
+    "title": "RF Validation Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1791066064,
+    "date_posted": 1790287585,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716184006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Astranis",
+    "id": "27d0baa6-863d-4688-b843-3636e6e61a13",
+    "title": "Electrical Reliability Intern",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1791066064,
+    "date_posted": 1790144224,
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704782006",
+    "locations": [
+      "SF"
+    ],
+    "company_url": "https://simplify.jobs/c/Astranis",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Northern Trust",
+    "id": "b0582dd7-6e1e-4816-a195-c1303b463c10",
+    "title": "Data & Analytics Office Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1791065349,
+    "date_posted": 1790985600,
+    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "company_url": "https://simplify.jobs/c/Northern-Trust",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Hardware",
     "company_name": "CesiumAstro",
     "id": "7ca0d74d-4cb3-4ad6-80ae-61921c8aeff6",
@@ -12584,7 +12824,7 @@
     "company_name": "GCM Grosvenor",
     "id": "dbc5524e-6bc2-4690-b04a-a30cdcabb2ab",
     "title": "Fund Data Reporting and Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -16934,7 +17174,7 @@
     "company_name": "Astranis",
     "id": "4f3bddc6-477e-4fa8-aafc-7c37712f3a05",
     "title": "Software Developer Associate - Network Software",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -25106,7 +25346,7 @@
     "company_name": "National Life",
     "id": "dc90a21c-25c2-4735-abbe-bee451203aa2",
     "title": "Strategic Operations Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -33526,7 +33766,7 @@
     "company_name": "Rocket Lab USA",
     "id": "ec191dc6-7088-46ac-bb3d-1fec1dae6328",
     "title": "Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -40766,7 +41006,7 @@
     "company_name": "bioM\u00e9rieux",
     "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
     "title": "Hardware Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -50189,7 +50429,7 @@
     "company_name": "NVIDIA",
     "id": "13c20210-b9de-4f8c-93a7-96ce7766afc3",
     "title": "Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -50838,7 +51078,7 @@
     "company_name": "Lightmatter",
     "id": "1e8644d0-127c-4750-bfbf-36aa12cae932",
     "title": "Silicon Packaging Engineer Intern & New Grad",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -59506,7 +59746,7 @@
     "company_name": "Rocket Lab USA",
     "id": "89f3ba9c-ae8d-4200-a7cf-200cae0f7747",
     "title": "Electrical Engineer Intern - Space Systems Division",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -66162,7 +66402,7 @@
     "company_name": "Zaber Technologies",
     "id": "04d9ee8e-0217-4653-b737-e07d6a3b1538",
     "title": "Embedded Software Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -77300,7 +77540,7 @@
     "company_name": "Dev Technology Group",
     "id": "cbad6c98-1423-47aa-86c6-25d238ec0bb8",
     "title": "AI/Agentic Solution Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -77459,7 +77699,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "9e2ec060-ced5-4de9-8b37-e6606f616233",
     "title": "EAM Analyst Intern - Emerging Talent",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -81706,7 +81946,7 @@
     "company_name": "Goldman Sachs",
     "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
     "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -81733,7 +81973,7 @@
     "company_name": "Goldman Sachs",
     "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -81838,7 +82078,7 @@
     "company_name": "Goldman Sachs",
     "id": "5bdec003-2a02-42a4-a602-467541840552",
     "title": "Summer Analyst Intern - Americas - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -81864,7 +82104,7 @@
     "company_name": "Goldman Sachs",
     "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
     "title": "Summer Analyst Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -81888,7 +82128,7 @@
     "company_name": "Goldman Sachs",
     "id": "765bb91e-34d7-4746-8e11-8598e700e845",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -81964,7 +82204,7 @@
     "company_name": "Goldman Sachs",
     "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
     "title": "Summer Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -82017,7 +82257,7 @@
     "company_name": "Goldman Sachs",
     "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
     "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -82041,7 +82281,7 @@
     "company_name": "Goldman Sachs",
     "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
     "title": "Quantitative Strategist Intern - Americas",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -82067,7 +82307,7 @@
     "company_name": "Goldman Sachs",
     "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
     "title": "Quantitative Strategist Intern - Investment Banking",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -82093,7 +82333,7 @@
     "company_name": "Goldman Sachs",
     "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -82120,7 +82360,7 @@
     "company_name": "Goldman Sachs",
     "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -86932,7 +87172,7 @@
     "company_name": "Garda Capital Partners",
     "id": "51358acd-0c6f-4028-b648-4fa9741a9355",
     "title": "Trading Analyst Intern - Credit",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -88175,7 +88415,7 @@
     "company_name": "Xaira Therapeutics",
     "id": "0770442b-cc61-46e7-b1a5-afc380d739c8",
     "title": "AI Scientist Intern - Computational Protein Design",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -91671,7 +91911,7 @@
     "company_name": "Garda Capital Partners",
     "id": "cfc5c938-5953-4e6d-afc2-63f245937f94",
     "title": "Trading Analyst Intern - Rates",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -112467,7 +112707,7 @@
     "company_name": "Goldman Sachs",
     "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
     "title": "Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -112612,7 +112852,7 @@
     "company_name": "Goldman Sachs",
     "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
     "title": "Summer Associate Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -117454,7 +117694,7 @@
     "company_name": "Meridian Partners",
     "id": "c27d16b6-b660-4fb5-b2f8-825ddf9072f7",
     "title": "Cloud Software Engineer Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -118732,7 +118972,7 @@
     "company_name": "Atoms",
     "id": "3d9f6139-bedb-4b94-9e84-1b542b3250ac",
     "title": "Robotics Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -135278,7 +135518,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -135304,7 +135544,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -135333,7 +135573,7 @@
     "company_name": "Goldman Sachs",
     "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -135570,7 +135810,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -135618,7 +135858,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -135673,7 +135913,7 @@
     "company_name": "Goldman Sachs",
     "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
     "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -138656,7 +138896,7 @@
     "company_name": "Mill",
     "id": "6a458733-cf4b-4877-8ccb-0a7736ea7a50",
     "title": "Electrical Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -163112,7 +163352,7 @@
     "company_name": "Marsh",
     "id": "61c905e5-2281-4abd-afcc-83089ab79869",
     "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -167592,7 +167832,7 @@
     "company_name": "Optiver",
     "id": "9b96cf35-590b-4fe5-9a32-caf76a2a6a85",
     "title": "Institutional Trader Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
