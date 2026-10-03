@@ -7382,7 +7382,7 @@
     "company_name": "Northrop Grumman",
     "id": "2b8a623c-d139-413c-aff2-d9afce6a38e4",
     "title": "Cyber Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -10967,7 +10967,7 @@
     "company_name": "RTX",
     "id": "51b8b3e7-e7d0-4727-9f90-91917bc88230",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -20338,7 +20338,7 @@
     "company_name": "Neuberger Berman",
     "id": "d19faef5-69be-4dee-b896-16d292336009",
     "title": "Quantitative Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -26244,7 +26244,7 @@
     "company_name": "Marvell",
     "id": "5cea235d-5221-4084-b43e-f96fc1894a55",
     "title": "Digital IC Design Intern - MS - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027",
       "Fall 2027",
@@ -40239,7 +40239,7 @@
     "company_name": "RTX",
     "id": "d3493d3d-52cf-4bc5-a30a-2f26571b4b4b",
     "title": "Software Developer Intern - Digital Engine Services - Ground Cloud Software Developer",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -55120,7 +55120,7 @@
     "company_name": "TD Bank",
     "id": "b76f087b-87ac-46aa-87cf-36b7ef985f21",
     "title": "Data Analyst Co-op - Global Technology & Solutions",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -57780,7 +57780,7 @@
     "company_name": "Wellington Management",
     "id": "baa23a3b-d414-4373-9c07-e1c15ba9f262",
     "title": "Technology Undergraduate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -67577,7 +67577,7 @@
     "company_name": "COUNTRY Financial",
     "id": "d3a912ff-5ed8-40a6-8a28-91397669ffe8",
     "title": "Auto Product Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -75776,7 +75776,7 @@
     "company_name": "Marvell",
     "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
     "title": "Design for Test Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -142887,7 +142887,7 @@
     "company_name": "PSP Investments",
     "id": "f545abf5-18c8-42fa-9bc9-37d9184a61a1",
     "title": "AI Solutions Intern - External Manager Selection & Monitoring",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
