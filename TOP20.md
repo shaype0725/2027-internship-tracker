@@ -14,15 +14,15 @@ Ranked by freshness + company tier + role category.
 | 4 | **Google** | Associate Product Manager Intern | London, UK | Summer 2027 | 2026-10-02 (2d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/103464941339452102) |
 | 5 | **Amazon** | Business Intelligence Engineer Intern | London, UK | Winter 2026 | 2026-10-02 (2d ago) | [Apply](https://amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) |
 | 6 | **Meta** | Research Scientist Intern - Robotics | Menlo Park, CA | Winter 2026 | 2026-10-01 (3d ago) | [Apply](https://www.metacareers.com/jobs/1940312740718917) |
-| 7 | **Ramp** | Applied Scientist Intern | NYC | Winter 2026 | 2026-09-30 (4d ago) | [Apply](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application?embed=true) |
-| 8 | **NVIDIA** | PhD Research Intern - Programming Systems | Santa Clara, CA | Summer 2027 | 2026-09-30 (4d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379) |
-| 9 | **Apple** | Data Scientist Co-op - Sales Business Analytics | Toronto, ON, Canada | N/A | 2026-09-30 (4d ago) | [Apply](https://jobs.apple.com/en-us/details/200686205) |
-| 10 | **Robinhood** | Data Science Intern | Menlo Park, CA | Summer 2027 | 2026-09-30 (4d ago) | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738) |
-| 11 | **Jump Trading** | Campus Quantitative Researcher Intern - Trading Team PhD/Postdoc | NYC | N/A | 2026-09-22 (12d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=8209424) |
-| 12 | **Pinterest** | UX Quantitative Research Intern | Remote in USA | Summer 2027 | 2026-10-01 (3d ago) | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) |
-| 13 | **Intel** | GPU & AI Accelerator Hardware Design Undergraduate Intern | Toronto, ON, Canada | Winter 2026 | 2026-10-02 (2d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) |
-| 14 | **Rivian** | Software Engineer Intern Co-op - Applied AI | Palo Alto, CA | Spring 2027 | 2026-10-01 (3d ago) | [Apply](https://careers.rivian.com/jobs/33984?icims=1) |
-| 15 | **DoorDash** | Machine Learning Intern - PhD | Seattle, WA, SF, NYC, Sunnyvale, CA | Summer 2027 | 2026-09-25 (9d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
+| 7 | **Stripe** | Data Scientist Intern | Seattle, WA, South SF, NYC | Winter 2026 | 2026-10-01 (3d ago) | [Apply](https://stripe.com/jobs/search?gh_jid=8194283) |
+| 8 | **Waymo** | Software Engineering Intern - Labeling | Mountain View, CA | Summer 2027 | 2026-09-30 (4d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8238525) |
+| 9 | **Ramp** | Applied Scientist Intern | NYC | Winter 2026 | 2026-09-30 (4d ago) | [Apply](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application?embed=true) |
+| 10 | **NVIDIA** | PhD Research Intern - Programming Systems | Santa Clara, CA | Summer 2027 | 2026-09-30 (4d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379) |
+| 11 | **Apple** | Data Scientist Co-op - Sales Business Analytics | Toronto, ON, Canada | N/A | 2026-09-30 (4d ago) | [Apply](https://jobs.apple.com/en-us/details/200686205) |
+| 12 | **Robinhood** | Data Science Intern | Menlo Park, CA | Summer 2027 | 2026-09-30 (4d ago) | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738) |
+| 13 | **Lyft** | Applied Scientist Intern | SF | Summer 2027 | 2026-09-28 (6d ago) | [Apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
+| 14 | **Jump Trading** | Campus Quantitative Researcher Intern - Trading Team PhD/Postdoc | NYC | N/A | 2026-09-22 (12d ago) | [Apply](https://boards.greenhouse.io/embed/job_app?token=8209424) |
+| 15 | **Pinterest** | UX Quantitative Research Intern | Remote in USA | Summer 2027 | 2026-10-01 (3d ago) | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (32d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-04 11:59 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-04 14:39 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
