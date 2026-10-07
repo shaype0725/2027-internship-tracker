@@ -3305,7 +3305,7 @@
     "company_name": "KnowBe4",
     "id": "1ba9c023-a121-4599-a80d-ad93c324a247",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -8062,7 +8062,7 @@
     "company_name": "GoTo Group",
     "id": "6f20b6b4-b84b-4ed7-b608-fffb1c6e5bc0",
     "title": "Software Developer Intern - Contacts",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -10964,7 +10964,7 @@
     "company_name": "Rolls-Royce",
     "id": "16d72e19-4fbb-4539-842e-ab1c221c3562",
     "title": "Junior Machine Learning Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -20015,7 +20015,7 @@
     "company_name": "RTX",
     "id": "04a691aa-579c-4daf-98c5-87a42434da2b",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -32195,7 +32195,7 @@
     "company_name": "Excellus BCBS",
     "id": "ff6acfde-5cfa-48f1-9900-723a0df08069",
     "title": "Healthcare Analytics Intern - Healthcare Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -32258,7 +32258,7 @@
     "company_name": "Excellus BCBS",
     "id": "831cd663-ae9c-4929-bd0b-6c8cf71391fe",
     "title": "College Intern - Healthcare Statistical Analytics",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -32349,7 +32349,7 @@
     "company_name": "Excellus BCBS",
     "id": "4efd65a5-ab75-4d14-a2df-fe1659f9a1c1",
     "title": "College Intern - Data Governance & AI Governance",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -35448,7 +35448,7 @@
     "company_name": "Google",
     "id": "36fdb948-c215-4a20-afda-958941c4de18",
     "title": "Product Manager Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -59677,7 +59677,7 @@
     "company_name": "Clarios",
     "id": "64041727-7701-4317-bfb8-9e06ee60b1c1",
     "title": "People Analytics Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -87792,7 +87792,7 @@
     "company_name": "Loram",
     "id": "c5c9304e-45aa-4c3d-af4e-2c28ef7d1c12",
     "title": "Machine Learning / Artificial Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -171503,7 +171503,7 @@
     "company_name": "Altice USA",
     "id": "443c6322-3e3b-48b4-9fd4-3a9c04931db8",
     "title": "Data Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
