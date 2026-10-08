@@ -75,7 +75,7 @@ Auto-generated. Do not hand-edit.
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | London, UK, Dublin, Ireland | 2026-08-21 | 48 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | Quantitative Developer Intern | London, UK, NYC | 2026-08-17 | 51 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4371217009) | Quantitative Researcher Intern | London, UK, NYC | 2026-08-17 | 51 |
-| [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) | Trading Intern | London, UK | 2026-08-12 | 56 |
+| [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) | Trading Intern | London, UK | 2026-08-12 | 57 |
 | [Quantbot Technologies](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) | Quantitative Researcher Intern | London, UK | 2026-08-11 | 57 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Quantitative Prediction Markets Research Summer Analyst Intern | Greenwich, CT | 2026-08-11 | 57 |
 | [Quantbot Technologies](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | Quantitative Developer Intern | NYC | 2026-08-11 | 58 |
