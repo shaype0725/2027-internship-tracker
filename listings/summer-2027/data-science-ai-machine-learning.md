@@ -1,9 +1,11 @@
-# Summer 2027 — AI/ML/Data (703)
+# Summer 2027 — AI/ML/Data (706)
 
 Auto-generated. Do not hand-edit.
 
 | Company | Role | Location | Date Posted | Days Old |
 |---|---|---|---|---|
+| [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640) | Strategic Insight and Analytics Co-op | Horsham, PA | 2026-10-09 | 0 |
+| [Papa John's](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) | Data Science Intern | Atlanta, GA | 2026-10-09 | 0 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8262154) | Summer Intern - Machine Learning - Planning/Prediction | Mountain View, CA | 2026-10-08 | 0 |
 | [Walgreens](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1933902) | Data Science Intern | Deerfield, IL | 2026-10-08 | 0 |
 | [Westinghouse Electric Company](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Fuel-Engineering-Data-Analyst-NC/1438463700/?ats=successfactors) | Fuel Engineering Data Analyst Intern | Cranberry Township, PA | 2026-10-08 | 0 |
@@ -146,6 +148,7 @@ Auto-generated. Do not hand-edit.
 | [Q2](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799) | Data Science Intern | Cary, NC | 2026-09-29 | 10 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8237997) | Machine Learning Research Intern - Planning/Prediction | Mountain View, CA | 2026-09-28 | 10 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) | Applied Scientist Intern | SF | 2026-09-28 | 10 |
+| [H&R Block](https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false) | Financial Services Data Analytics Intern | Kansas City, MO | 2026-09-28 | 10 |
 | [Boston Scientific](https://bostonscientific.eightfold.ai/careers/job/563602813667382) | R&D Research Data Science Intern | United States | 2026-09-28 | 11 |
 | [POET](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) | Data Engineer Intern | Sioux Falls, SD | 2026-09-28 | 11 |
 | [Itron](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) | Data Science Intern - Distributed Intelligence | Liberty Lake, WA | 2026-09-28 | 11 |
@@ -343,6 +346,7 @@ Auto-generated. Do not hand-edit.
 | [Citizens Financial Group](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283) | Business Insights Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | 2026-09-11 | 28 |
 | [Citizens Financial Group](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280) | Data Science Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | 2026-09-11 | 28 |
 | [Wellmark](https://jobs.smartrecruiters.com/WellmarkInc/744000148917718) | Data Analytics & Governance Internship | Des Moines, IA | 2026-09-11 | 28 |
+| [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265) | AI Engineer Intern | Oshkosh, WI | 2026-09-11 | 28 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266) | Autonomy & Active Safety Engineer Intern | Oshkosh, WI, Pittsburgh, PA | 2026-09-11 | 28 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743) | Machine Learning Engineer Intern | Remote in USA | 2026-09-11 | 28 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709) | Machine Learning Engineer Intern - Technology & Medical Organizations | Remote in USA | 2026-09-11 | 28 |
@@ -451,9 +455,9 @@ Auto-generated. Do not hand-edit.
 | [Hunt Oil Company](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1058) | Reservoir Engineer Intern | Dallas, TX | 2026-09-04 | 34 |
 | [Ernst & Young](https://eyglobal.yello.co/jobs/LGUG7W08QqkVXWnuqFB0TA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Artificial Intelligence Intern - Tax - Tax Technology and Transformation | Dallas, TX, NYC | 2026-09-04 | 34 |
 | [Entergy](https://jobs.entergy.com/job/The-Woodlands-Student,-Intern,-Power-Delivery-Performance-&-Analytics,-Spring-2027-Texa/1426995300/?ats=successfactors) | Student Intern - Power Delivery Performance & Analytics | The Woodlands, TX | 2026-09-04 | 34 |
-| [Perry Homes](https://apply.workable.com/perryhomes/j/D309E69A5B/apply) | Options Analyst Intern | Houston, TX | 2026-09-04 | 34 |
-| [Perry Homes](https://apply.workable.com/perryhomes/j/555769E26B/apply) | Estimating Analyst Intern | Houston, TX | 2026-09-04 | 34 |
-| [Ragle Inc](https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027) | Data Analytics Intern | North Richland Hills, TX | 2026-09-04 | 34 |
+| [Perry Homes](https://apply.workable.com/perryhomes/j/D309E69A5B/apply) | Options Analyst Intern | Houston, TX | 2026-09-04 | 35 |
+| [Perry Homes](https://apply.workable.com/perryhomes/j/555769E26B/apply) | Estimating Analyst Intern | Houston, TX | 2026-09-04 | 35 |
+| [Ragle Inc](https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027) | Data Analytics Intern | North Richland Hills, TX | 2026-09-04 | 35 |
 | [CSX](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839) | Sales & Marketing Analytics Intern - Paid | Jacksonville, FL | 2026-09-04 | 35 |
 | [Ernst & Young](https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Data and Technology Intern - Multiple Teams | Miami, FL, Dallas, TX, Chicago, IL, NYC | 2026-09-04 | 35 |
 | [Skydio](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true) | Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027 | San Mateo, CA | 2026-09-04 | 35 |
@@ -465,7 +469,7 @@ Auto-generated. Do not hand-edit.
 | [Hy-Vee](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Analytics-Intern---Summer-2027_R250146) | Data Analytics Intern | West Des Moines, IA | 2026-09-04 | 35 |
 | [DIRECTV](https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD/DIRECTV-for-Business-Product-Development-Intern_R260276) | Product Development Intern - DIRECTV for Business | Clarksburg, MD | 2026-09-04 | 35 |
 | [Hormel Foods](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35350) | Enterprise Analytics Intern - Campus Recruiting | Austin, MN, Eden Prairie, MN | 2026-09-03 | 35 |
-| [Transcard Payments](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416) | Artificial Intelligence Intern | Chattanooga, TN | 2026-09-03 | 35 |
+| [Transcard Payments](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416) | Artificial Intelligence Intern | Chattanooga, TN | 2026-09-03 | 36 |
 | [Hadrian](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true) | Data Science/Data Engineer Intern | LA, Torrance, CA | 2026-09-03 | 36 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/59784?icims=1) | Acoustic Algorithm Development Engineer Intern | Laurel, MD | 2026-09-03 | 36 |
 | [Shure](https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false) | Artificial Intelligence Engineer Intern | Niles, IL | 2026-09-03 | 36 |
@@ -498,10 +502,9 @@ Auto-generated. Do not hand-edit.
 | [Perpay](https://job-boards.greenhouse.io/perpay/jobs/4076934007) | Analytics Intern | Philadelphia, PA | 2026-09-01 | 37 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/59901?icims=1) | 2027 Internship - Weapon Control | Laurel, MD | 2026-09-01 | 37 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/59598?icims=1) | Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control | Laurel, MD | 2026-09-01 | 37 |
-| [Western & Southern Financial Group](https://careers-westernsouthern.icims.com/jobs/25195/job?mobile=true&needsRedirect=false) | Digital Analytics Intern - Spring or Summer 2027 | Cincinnati, OH | 2026-09-01 | 37 |
-| [Western & Southern Financial Group](https://careers-westernsouthern.icims.com/jobs/25207/job?mobile=true&needsRedirect=false) | Data Engineering and Analytics Intern - Summer 2027 | Cincinnati, OH | 2026-09-01 | 37 |
-| [Dev Technology Group](https://job-boards.greenhouse.io/devtechnology/jobs/8726259002) | Microsoft Power Platform & AI Intern - Summer 2027 | Reston, VA | 2026-09-01 | 37 |
-| [Pella](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304) | Data Engineer Intern - Summer 2027 | Pella, IA, Urbandale, IA | 2026-09-01 | 37 |
+| [Western & Southern Financial Group](https://careers-westernsouthern.icims.com/jobs/25195/job?mobile=true&needsRedirect=false) | Digital Analytics Intern - Spring or Summer 2027 | Cincinnati, OH | 2026-09-01 | 38 |
+| [Western & Southern Financial Group](https://careers-westernsouthern.icims.com/jobs/25207/job?mobile=true&needsRedirect=false) | Data Engineering and Analytics Intern - Summer 2027 | Cincinnati, OH | 2026-09-01 | 38 |
+| [Pella](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304) | Data Engineer Intern - Summer 2027 | Pella, IA, Urbandale, IA | 2026-09-01 | 38 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266) | Data Science Intern - Global Decision Science - Credit & Fraud Risk | NYC | 2026-09-01 | 38 |
 | [AMD](https://careers.amd.com/jobs/91363?icims=1) | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | 2026-09-01 | 38 |
 | [Edison International](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors) | Software/Data Engineering Intern | Chino, CA | 2026-09-01 | 38 |
@@ -570,8 +573,8 @@ Auto-generated. Do not hand-edit.
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) | Software Developer Intern - University | McLean, VA | 2026-08-27 | 43 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045) | Data Scientist Intern - University | San Diego, CA | 2026-08-27 | 43 |
 | [Elk Valley Resources](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) | Geographic Information Systems Co-op | Calgary, AB, Canada | 2026-08-26 | 43 |
-| [Auto-Owners Insurance](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | Data Engineering Intern - Summer 2027 | Lansing, MI | 2026-08-26 | 43 |
-| [WhiteWater Midstream](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | Data Science Intern - Summer 2027 | Austin, TX | 2026-08-26 | 43 |
+| [Auto-Owners Insurance](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | Data Engineering Intern - Summer 2027 | Lansing, MI | 2026-08-26 | 44 |
+| [WhiteWater Midstream](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | Data Science Intern - Summer 2027 | Austin, TX | 2026-08-26 | 44 |
 | [TikTok](https://lifeattiktok.com/search/7672671220798818613) | AI Infrastructure Engineer Intern - Recommendation & LLM | San Jose, CA | 2026-08-26 | 44 |
 | [Repsol](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Development-Planning-Engineering-Intern_83951-1) | Development Planning Engineer Intern | The Woodlands, TX | 2026-08-26 | 44 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214478) | Data Solutions Intern - Internship Program | Boston, MA, Tampa, FL | 2026-08-25 | 44 |
@@ -629,11 +632,11 @@ Auto-generated. Do not hand-edit.
 | [TikTok](https://lifeattiktok.com/search/7672883129493948677) | Machine Learning Engineer Intern - E-Commerce Recommendation Foundation | San Jose, CA | 2026-08-12 | 58 |
 | [TikTok](https://lifeattiktok.com/search/7672881840860940597) | Machine Learning Engineer Intern - E-Commerce Recommendation Foundation | Seattle, WA | 2026-08-12 | 58 |
 | [TikTok](https://lifeattiktok.com/search/7672920375646488885) | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | Seattle, WA | 2026-08-12 | 58 |
-| [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | AI and Data Engineering Summer Scholar Intern - Government & Public Services | Austin, TX | 2026-08-11 | 58 |
-| [Quantbot Technologies](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) | Machine Learning Research Engineer Intern | NYC | 2026-08-11 | 58 |
-| [ByteDance](https://jobs.bytedance.com/en/position/7672394389001816325/detail) | Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark | Seattle, WA | 2026-08-11 | 58 |
-| [ByteDance](https://jobs.bytedance.com/en/position/7672391300141877557/detail) | Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark | Seattle, WA | 2026-08-11 | 58 |
-| [ByteDance](https://jobs.bytedance.com/en/position/7672392998231050549/detail) | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK | Seattle, WA | 2026-08-11 | 58 |
+| [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | AI and Data Engineering Summer Scholar Intern - Government & Public Services | Austin, TX | 2026-08-11 | 59 |
+| [Quantbot Technologies](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) | Machine Learning Research Engineer Intern | NYC | 2026-08-11 | 59 |
+| [ByteDance](https://jobs.bytedance.com/en/position/7672394389001816325/detail) | Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark | Seattle, WA | 2026-08-11 | 59 |
+| [ByteDance](https://jobs.bytedance.com/en/position/7672391300141877557/detail) | Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark | Seattle, WA | 2026-08-11 | 59 |
+| [ByteDance](https://jobs.bytedance.com/en/position/7672392998231050549/detail) | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK | Seattle, WA | 2026-08-11 | 59 |
 | [Altamira Technologies](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) | Research and Development Intern | Fairborn, OH | 2026-08-10 | 59 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7671109787509213445/detail) | Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark | San Jose, CA | 2026-08-10 | 59 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7671105026009925893/detail) | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark | San Jose, CA | 2026-08-10 | 59 |
@@ -702,7 +705,7 @@ Auto-generated. Do not hand-edit.
 | [TikTok](https://lifeattiktok.com/search/7633668456744503557) | Applied Scientist Intern - Multiple Teams | Seattle, WA | 2026-06-15 | 116 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Research---Development-Internship_REQ_0000071517-1) | Guidance and Control Research & Development Intern | State College, PA | 2026-06-13 | 118 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false) | Electricity + Natural Gas Analyst Intern | Ardmore, PA | 2026-06-04 | 126 |
-| [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | Data Engineering Intern Co-op | Milwaukee, WI | 2026-05-16 | 145 |
+| [Marmon Holdings](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | Data Engineering Intern Co-op | Milwaukee, WI | 2026-05-16 | 146 |
 | [TikTok](https://lifeattiktok.com/search/7633670871815670069) | Applied Scientist Intern - Multiple Teams | San Jose, CA | 2026-04-29 | 163 |
 | [TikTok](https://lifeattiktok.com/search/7633668061979543813) | Research Scientist Intern - Nextgen LLM | San Jose, CA | 2026-04-29 | 163 |
 | [TikTok](https://lifeattiktok.com/search/7629250876813642037) | Research Scientist Intern - TikTok Search / Generative AI - LLM | San Jose, CA | 2026-04-17 | 175 |

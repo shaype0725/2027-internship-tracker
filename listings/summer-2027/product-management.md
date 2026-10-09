@@ -1,4 +1,4 @@
-# Summer 2027 — Product (137)
+# Summer 2027 — Product (136)
 
 Auto-generated. Do not hand-edit.
 
@@ -58,7 +58,6 @@ Auto-generated. Do not hand-edit.
 | [ITT](https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false) | Product Management Co-op - Spring/Summer 2027 | Seneca Falls, NY | 2026-09-09 | 29 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI | 2026-09-09 | 29 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32305) | Summer Associate Internship - Technical Product Analyst | Vienna, VA | 2026-09-09 | 30 |
-| [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8175504) | Product Manager Intern - HR Technology | NYC | 2026-09-09 | 30 |
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8168322) | Associate Product Manager Intern - Multiple Teams | SF | 2026-09-09 | 30 |
 | [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1) | Residential Energy Product Strategy Intern | Denver, CO | 2026-09-09 | 30 |
 | [RF-SMART](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) | Product Strategy Intern | Jacksonville, FL | 2026-09-08 | 30 |
@@ -98,7 +97,7 @@ Auto-generated. Do not hand-edit.
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279233) | Power Management Intern - Summer 2027 | Delaware, OH | 2026-08-27 | 43 |
 | [Johns Manville](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432) | Product Management Intern | Denver, CO | 2026-08-27 | 43 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410) | Product Management Intern - 2027 Internship Program | Tampa, FL, Jersey City, NJ | 2026-08-25 | 44 |
-| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952) | DC Power Product Management Intern - Summer 2027 | Delaware, OH | 2026-08-25 | 44 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952) | DC Power Product Management Intern - Summer 2027 | Delaware, OH | 2026-08-25 | 45 |
 | [J.M. Smucker](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677) | Sensory and Products Research Intern - Summer 2027 | Orrville, OH | 2026-08-25 | 45 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213) | Product Management Intern - Oils & Lubricants | Fond du Lac, WI | 2026-08-25 | 45 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803) | Controls Product Management Intern - Summer 2027 | Longmont, CO, Greenville, SC | 2026-08-25 | 45 |
@@ -113,7 +112,7 @@ Auto-generated. Do not hand-edit.
 | [Springs Window Fashions](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) | Product Management Intern | Long Island City, Queens, NY | 2026-08-22 | 48 |
 | [TikTok](https://lifeattiktok.com/search/7675616554318596357) | AI Product Manager Intern - Product Social | San Jose, CA | 2026-08-22 | 48 |
 | [TikTok](https://lifeattiktok.com/search/7676283436713593093) | Product Manager Intern - Content and Service Ads | San Jose, CA | 2026-08-22 | 48 |
-| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) | Product Marketing Intern | Delaware, OH | 2026-08-21 | 48 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) | Product Marketing Intern | Delaware, OH | 2026-08-21 | 49 |
 | [Datadog](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | Product Management Intern | NYC | 2026-08-17 | 53 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626) | Product Strategy Analyst Intern | Newport Beach, CA | 2026-08-17 | 53 |
 | [TikTok](https://lifeattiktok.com/search/7673340525029673221) | Product Solutions and Operations Intern - Commerce Ads | San Jose, CA | 2026-08-14 | 56 |
