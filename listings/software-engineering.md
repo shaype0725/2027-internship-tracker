@@ -1,4 +1,4 @@
-# Software Engineering (1358)
+# Software Engineering (1359)
 
 [← back to index](../README.md)
 
@@ -1162,6 +1162,7 @@
 | [Netsmart](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) | Software Engineer Intern | Overland Park, KS | Summer 2027 | 2026-08-03 | 68 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Uline](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684) | Software Development Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | 2026-08-03 | 68 | simplify-2026 |
 | [HPR (Hyannis Port Research)](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | Software Engineer Intern | Needham, MA | Summer 2027 | 2026-08-01 | 70 | simplify-2026 |
+| [Medtronic](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) | Software Engineer Intern | Boston, MA, Santa Ana, CA, Fridley, MN, Santa Rosa, CA, Irvine, CA, Mansfield, MA, Mounds View, MN, Tempe, AZ, Memphis, TN, Brooklyn Center, MN, Plymouth, MN, Brooklyn Park, MN, Fort Worth, TX, Dexter, MI, North Haven, CT, Lafayette, CO, Minneapolis, MN, Newton, MA, Jacksonville, FL, Eatontown, NJ, Boulder, CO | Summer 2027 | 2026-08-01 | 70 | simplify-2026 |
 | [InstaLILY](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) | Software Engineer 1 Co-op | Toronto, ON, Canada | Fall 2026 | 2026-07-31 | 71 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply) | Software Engineer Intern | London, UK | Fall 2026 | 2026-07-31 | 71 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply) | Forward Deployed Software Engineer Intern - Commercial | London, UK | Fall 2026 | 2026-07-31 | 71 | simplify-2026 |
