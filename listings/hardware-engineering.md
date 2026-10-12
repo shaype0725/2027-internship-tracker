@@ -1,4 +1,4 @@
-# Hardware Engineering (814)
+# Hardware Engineering (813)
 
 [← back to index](../README.md)
 
@@ -20,7 +20,6 @@
 | [BorgWarner](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/System-Integration-Intern_R2026-4042) | Systems Integration Engineer Intern | Kokomo, IN | Summer 2026 | 2026-10-09 | 3 | simplify-2026 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705) | Software Engineer Intern | Santa Clara, CA | Summer 2026 | 2026-10-09 | 3 | simplify-2026 |
 | [Johnson Controls](https://jci.wd5.myworkdayjobs.com/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408) | Software Engineer Co-op | Burlington, MA | Winter 2027 | 2026-10-09 | 3 | simplify-2026 |
-| [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69631) | Design Validation Co-op | Vancouver, BC, Canada | N/A | 2026-10-09 | 3 | simplify-2026 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658) | Electrical Engineer Intern - Controls/PCB | Gloucester, MA | Summer 2027 | 2026-10-09 | 3 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1144327871507763) | Production Systems Engineering Intern | Menlo Park, CA | N/A | 2026-10-08 | 4 | simplify-2026 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006) | Electrical Engineering Co-op | Needham, MA | Spring 2027 | 2026-10-08 | 4 | simplify-2026 |
@@ -104,8 +103,6 @@
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214064) | Hardware Engineer Intern | Sunnyvale, CA | N/A | 2026-10-06 | 6 | simplify-2026 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/PCB-Layout-Automation-Intern_1214127) | PCB Layout Automation Intern | Sunnyvale, CA | N/A | 2026-10-06 | 6 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037) | FPGA Engineer Intern | McKinney, TX | Summer 2027 | 2026-10-06 | 6 | simplify-2026 |
-| [KLA](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641708) | Electrical Design Engineer Intern | Ann Arbor, MI | Summer 2026 | 2026-10-06 | 6 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879721) | Software Engineer Intern | Morrisville, NC | Summer 2027 | 2026-10-06 | 6 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-1) | Systems Architecture Intern | Greenville, SC, Schenectady, NY | N/A | 2026-10-06 | 6 | simplify-2026 |
 | [GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Electrical-Engineering-Technician-Co-op_R4046982-1) | Electrical Engineering Technician Co-op | Waukesha, WI | N/A | 2026-10-06 | 6 | simplify-2026 |
 | [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Imaging-Technologies_R000160079) | R&D PhD Imaging Technologies Intern | United States | Summer 2027 | 2026-10-06 | 6 | simplify-2026 |
@@ -810,6 +807,8 @@
 | [SoloPulse](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply) | Systems Engineering Intern | Norcross, GA | Summer 2026 | 2026-04-02 | 193 | simplify-2026 |
 | [Hewlett Packard (HP)](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410) | Browser Software Engineer Intern | Cambridge, UK | Summer 2026 | 2026-03-11 | 215 | simplify-2026 |
 | [Microchip Technology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | Intern Technician - Electronics | Carlisle, PA | Summer 2026 | 2026-03-11 | 215 | simplify-2026 |
+| [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1) | Engines Engineering Intern - Computer or Software Engineering - Returning Students | Sharonville, OH, Saugus, MA | Summer 2027 | 2026-03-09 | 217 | simplify-2026 |
+| [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027---Returning-Students_R5030075-1) | Engines Engineering Co-op - Computer or Software Engineering | Sharonville, OH, Saugus, MA | Fall 2027 | 2026-03-09 | 217 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Flight Software Engineering Intern | Atlanta, GA | Summer 2026, Fall 2026 | 2026-03-06 | 220 | simplify-2026 |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619) | Engines Engineering Intern/Co-op - Computer or Software Engineering | Saugus, MA, Sharonville, OH | Spring 2027 | 2026-03-03 | 223 | simplify-2026 |
 | [Jobs for Humanity](https://jobs.smartrecruiters.com/JobsForHumanity/744000016300535) | Microdevice and Sensor Systems Postdoc Intern | Pasadena, CA | N/A | 2026-02-24 | 230 | simplify-2026 |
