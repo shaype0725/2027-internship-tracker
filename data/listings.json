@@ -1,11 +1,38 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tencent",
+    "id": "77d6016a-c39e-4d1c-8e5a-1ff56302a8eb",
+    "title": "LLM Agent Research Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1791980466,
+    "date_posted": 1791936000,
+    "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/LLM-Agent-Research-Intern_R108250",
+    "locations": [
+      "London, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Tencent",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Software",
     "company_name": "BP",
     "id": "ac5c0aa0-973b-4add-966c-686afeebbf87",
     "title": "Summer Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -1991,7 +2018,7 @@
     "company_name": "Motorola",
     "id": "c61201f4-b86e-4bb7-b84f-193387bd5c65",
     "title": "Software Engineering Co-op Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -4215,7 +4242,7 @@
     "company_name": "KLA",
     "id": "e99b784e-8115-4c4d-a6d5-084115592c66",
     "title": "Algorithm Engineer Intern - GPU/CUDA",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -12248,7 +12275,7 @@
     "company_name": "General Motors",
     "id": "4913c550-8d67-43b2-b8e5-63063de8ada6",
     "title": "AV Sensor Design, Release and Integration Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -26876,7 +26903,7 @@
     "company_name": "Houlihan Lokey",
     "id": "d6edb373-31c9-46ca-b0c8-87877dcb9d6d",
     "title": "Financial Analyst - Corporate Valuation Advisory Services - Complex Securities",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -43266,7 +43293,7 @@
     "company_name": "Mondelez International",
     "id": "ba20a0de-d82d-4d5b-8c1d-c9e68e0d9741",
     "title": "Promotions Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -58457,7 +58484,7 @@
     "company_name": "Marvell",
     "id": "f096d22d-931f-4963-b87a-f425d5e8c161",
     "title": "Design for Test Intern - MS",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -65432,7 +65459,7 @@
     "company_name": "Analog Devices",
     "id": "f0bd2e8e-c29b-4598-a4f6-712a6741f8d6",
     "title": "Embedded Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -72194,7 +72221,7 @@
     "company_name": "Marvell",
     "id": "adb1e815-47fe-4268-911a-3c542a8a5b4e",
     "title": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -74600,7 +74627,7 @@
     "company_name": "BP",
     "id": "27d35509-4d8d-4dd3-9313-54dfaee11170",
     "title": "Data Strategist Intern - Global Data Strategists Team",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -80860,7 +80887,7 @@
     "company_name": "Boeing",
     "id": "e9253098-9370-47cb-b8ef-4727e7aa04f9",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -80886,7 +80913,7 @@
     "company_name": "Boeing",
     "id": "2e644f8f-171e-4397-97e7-d521c7f3b0e9",
     "title": "Data Analytics Intern - 6 Months",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -101193,7 +101220,7 @@
     "company_name": "Marvell",
     "id": "8012895f-f76b-4a76-8254-3da734e7748d",
     "title": "Analog Design Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -108117,7 +108144,7 @@
     "company_name": "Marquee Brands",
     "id": "cc58fac9-b0fa-47d6-8d76-5a9b5e373147",
     "title": "Consumer Insights Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -116963,7 +116990,7 @@
     "company_name": "AeroVironment",
     "id": "fa72707f-4823-4764-8588-290af3f65bee",
     "title": "Systems Test Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -118194,7 +118221,7 @@
     "company_name": "Flagship Pioneering",
     "id": "bea449aa-d978-4884-a1d9-1703017cfb0b",
     "title": "Agentic AI Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -199315,7 +199342,7 @@
     "company_name": "GE Healthcare",
     "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
     "title": "Engineering Development Program Intern - Software",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -338799,7 +338826,7 @@
     "company_name": "University of Arkansas",
     "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
     "title": "Cosmos Graduate Research Assistant - ML/AI",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -407755,15 +407782,15 @@
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "The Walt Disney Company",
-    "id": "3270150d-98fb-47ff-bb3f-e3796cc64641",
+    "id": "4bd7a558-22ed-40ad-8a92-482097089b3a",
     "title": "ABC Owned TV Stations Data Analytics Intern - Summer/Fall 2026",
     "active": false,
     "terms": [
       "Summer 2026"
     ],
-    "date_updated": 1771247180,
-    "date_posted": 1771247180,
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/ABC-Owned-TV-Stations-Data-Analytics-Intern--Summer-Fall-2026_10140060-1",
+    "date_updated": 1771250846,
+    "date_posted": 1771250846,
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/ABC-Owned-TV-Stations-Data-Analytics-Intern--Summer-Fall-2026_10140060",
     "locations": [
       "Glendale, CA"
     ],
@@ -407771,65 +407798,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Ensora Health",
-    "id": "a255c5ea-d28a-4192-851d-77153d224683",
-    "title": "Software Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771246130,
-    "date_posted": 1771246130,
-    "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---California/Software-Engineer-Intern_R450",
-    "locations": [
-      "California",
-      "New Mexico",
-      "Texas",
-      "Montana",
-      "Utah",
-      "Washington"
-    ],
-    "company_url": "https://simplify.jobs/c/Ensora-Health",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "The Walt Disney Company",
-    "id": "cd487e2e-f235-4059-8750-6496848370da",
-    "title": "ABC News Insights and Analytics Intern - Summer/Fall 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026",
-      "Fall 2026",
-      "Winter 2027"
-    ],
-    "date_updated": 1771239842,
-    "date_posted": 1771239842,
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Summer-Fall-2026_10138489",
-    "locations": [
-      "NYC"
-    ],
-    "company_url": "https://simplify.jobs/c/Disney",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
     "_sources": [
       "simplify-2026"
     ]
