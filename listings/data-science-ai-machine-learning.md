@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1536)
+# Data Science, AI & Machine Learning (1533)
 
 [← back to index](../README.md)
 
@@ -56,7 +56,6 @@
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/People-Analytics-Intern---Summer-2027---Franklin--TN_R00214301) | People Analytics Intern | Franklin, TN | Summer 2027 | 2026-10-14 | 1 | simplify-2026 |
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) | AI Robotics Research Intern | Santa Clara, CA | Summer 2027 | 2026-10-14 | 1 | simplify-2026 |
 | [ICF International](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522) | Software Engineer Intern | Reston, VA | Summer 2027 | 2026-10-14 | 1 | simplify-2026 |
-| [Whataburger](https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201) | Data Scientist Intern | San Antonio, TX | N/A | 2026-10-14 | 1 | simplify-2026 |
 | [Philips](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454) | Insights and Analytics Intern - Health Systems Marketing | Cambridge, MA | Summer 2027 | 2026-10-14 | 1 | simplify-2026 |
 | [Wash U](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1) | Data Analyst Emergency Management Intern - Enterprise Physical Operations | St. Louis, MO | N/A | 2026-10-14 | 1 | simplify-2026 |
 | [American University](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Data-Quality-Assistant--Student-_R5103) | Data Quality Assistant Intern | Washington, DC | N/A | 2026-10-14 | 1 | simplify-2026 |
@@ -99,7 +98,6 @@
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Teaching-Assistant---BA-840_REQ_0000083427-1) | Teaching Assistant Intern | Pennsylvania | Fall 2026 | 2026-10-13 | 2 | simplify-2026 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817) | Software Engineer Intern - AI | Ann Arbor, MI | N/A | 2026-10-13 | 2 | simplify-2026 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821) | AI Engineer Intern | Ann Arbor, MI | N/A | 2026-10-13 | 2 | simplify-2026 |
-| [KLA](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872) | Machine Learning Engineer Intern | Milpitas, CA | N/A | 2026-10-13 | 2 | simplify-2026 |
 | [General Dynamics Information Technology](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269) | AI and Data Analytics Intern | Sterling, VA | Summer 2027 | 2026-10-13 | 2 | simplify-2026 |
 | [Unity](https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965) | Machine Learning Engineer Intern | Washington, Mountain View, CA | N/A | 2026-10-13 | 2 | simplify-2026 |
 | [7-Eleven](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017) | AI Analyst / AI Automation Specialist Intern | Irving, TX | Summer 2027 | 2026-10-13 | 2 | simplify-2026 |
@@ -774,7 +772,6 @@
 | [Veeam Software](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955300101) | Data Analytics & Programs Intern | Georgia | Summer 2027 | 2026-09-11 | 34 | simplify-2026 |
 | [Veeam Software](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101) | Customer Care AI Analyst Intern - Summer 2027 | Columbus, OH | Summer 2027 | 2026-09-11 | 34 | simplify-2026 |
 | [Veeam Software](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101) | Machine Learning Intern - AI | San Jose, CA | Summer 2027 | 2026-09-11 | 34 | simplify-2026 |
-| [AMD](https://careers.amd.com/jobs/92342?icims=1) | Machine Learning System Engineering Intern/Co-op | San Jose, CA, Santa Clara, CA | Winter 2027, Summer 2027 | 2026-09-11 | 34 | simplify-2026 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) | Software Engineer Intern - Machine Learning | Toronto, ON, Canada | Summer 2027 | 2026-09-11 | 34 | simplify-2026 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | Data Science Intern - Algorithms | SF | Summer 2027 | 2026-09-11 | 34 | simplify-2026 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | Data Engineer Intern | Toronto, ON, Canada | Summer 2027 | 2026-09-11 | 34 | simplify-2026 |
