@@ -1,4 +1,4 @@
-# Product Management (220)
+# Product Management (221)
 
 [← back to index](../README.md)
 
@@ -88,6 +88,7 @@
 | [Publicis Groupe](https://careers.publicisgroupe.com/jobs/172574?icims=1) | Product Manager Intern - Class of 2028 | Chicago, IL | Summer 2027 | 2026-09-18 | 29 | simplify-2026 |
 | [Rundoo](https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application?embed=true) | Product Manager Intern | Redwood City, CA | Winter 2026 | 2026-09-18 | 29 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757) | Product Management Co-op - Patient Management Solutions | Danvers, MA | Winter 2026 | 2026-09-18 | 29 | simplify-2026 |
+| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538) | Product Management Intern - Digital Product | Austin, TX, Warren, MI | Summer 2027 | 2026-09-18 | 29 | simplify-2026 |
 | [W.R. Berkley](https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false) | Product Management Analyst Intern - Claims | Manassas, VA | Summer 2027 | 2026-09-17 | 30 | simplify-2026 |
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Private-Markets-Product_R-15545) | Early Career Intern - Private Markets Product | Atlanta, GA | Summer 2027 | 2026-09-17 | 30 | simplify-2026 |
 | [Watts Water](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586) | Product Specialist Intern | Fort Worth, TX | Summer 2027 | 2026-09-17 | 30 | simplify-2026 |

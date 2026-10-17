@@ -1,4 +1,4 @@
-# Hardware Engineering (856)
+# Hardware Engineering (857)
 
 [← back to index](../README.md)
 
@@ -30,6 +30,7 @@
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | Embedded Software Developer Intern | Ottawa, ON, Canada | Winter 2027 | 2026-10-15 | 2 | simplify-2026 |
 | [Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Electronics-Engineering-Degree-Apprentice_R0034218) | Electronics Engineering Apprentice | Southampton, UK | N/A | 2026-10-15 | 2 | simplify-2026 |
 | [Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Electronics-Degree-Apprentice_R0034266) | Electronics Engineer Apprentice | Basildon, UK | N/A | 2026-10-15 | 2 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705) | Electrical Engineer Intern | Marlborough, MA | Summer 2027 | 2026-10-15 | 2 | simplify-2026 |
 | [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811) | Electronics Design Co-op | Vancouver, BC, Canada | N/A | 2026-10-15 | 2 | simplify-2026 |
 | [Draper](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036) | Integrated Circuit Intern | Cambridge, MA | N/A | 2026-10-15 | 2 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Mason-Associate,-Software-Engineer-OH-45040/1440282700/?ats=successfactors) | Associate Software Engineer Intern | Mason, OH | N/A | 2026-10-14 | 3 | simplify-2026 |
