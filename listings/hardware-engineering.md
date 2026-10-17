@@ -1,4 +1,4 @@
-# Hardware Engineering (857)
+# Hardware Engineering (856)
 
 [← back to index](../README.md)
 
@@ -67,12 +67,12 @@
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54389?icims=1) | R&D Hardware Design Engineer Intern | Santa Rosa, CA | Spring 2027 | 2026-10-13 | 4 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54670?icims=1) | R&D Hardware Engineer Intern | Santa Rosa, CA | N/A | 2026-10-13 | 4 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005) | Digital RTL Design Engineer Intern | San Jose, CA | N/A | 2026-10-13 | 4 | simplify-2026 |
-| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) | UI/UX Design Intern | Delaware, OH, Fort Lauderdale, FL, Huntsville, AL | Summer 2027 | 2026-10-13 | 4 | simplify-2026 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) | UI/UX Design Intern | Delaware, OH, Fort Lauderdale, FL, Huntsville, AL | Summer 2027 | 2026-10-13 | 4 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005) | Analog/Mixed Signal System Test Engineer Intern | San Jose, CA | N/A | 2026-10-13 | 4 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | Analog/Mixed-Signal IC Design Engineer Intern | Toronto, ON, Canada | N/A | 2026-10-13 | 4 | simplify-2026 |
 | [KLA Corporation](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1) | Research Scientist Intern - Plasma Light Source Characterization | Ann Arbor, MI | Summer 2027 | 2026-10-13 | 4 | simplify-2026 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2) | Research Scientist Intern - Plasma Light Source Characterization | Ann Arbor, MI | Summer 2027 | 2026-10-13 | 4 | simplify-2026 |
-| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835) | Computer Engineer Intern | Manhattan Beach, CA | Summer 2027 | 2026-10-13 | 4 | simplify-2026 |
+| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835) | Computer Engineer Intern | Manhattan Beach, CA | Summer 2027 | 2026-10-13 | 4 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642032) | Product Development Intern - Electron Beam Instrumentation | Ann Arbor, MI | N/A | 2026-10-13 | 4 | simplify-2026 |
 | [Draper](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) | Acoustic and Vibration Technologies Intern - Summer 2027 | Cambridge, MA | Summer 2027 | 2026-10-13 | 4 | simplify-2026 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Masters-Level-Intern_1213425) | VLSI Design Verification Masters Level Intern | Fort Collins, CO | N/A | 2026-10-13 | 4 | simplify-2026 |
@@ -469,7 +469,6 @@
 | [Acron Aviation](https://jobs.lever.co/acronaviation/69dcdf12-38f2-41ab-81fb-9af7903e7329/apply) | Electrical Engineer Intern - Multiple Teams | Phoenix, AZ | Summer 2026 | 2026-09-14 | 33 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Student--Engineering-ADAS-Features_R00261316) | Student Engineer ADAS Vehicle Integration Intern | Auburn Hills, MI | N/A | 2026-09-14 | 33 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876) | Semiconductor Research & Technology Development Intern | Albany, NY | Summer 2027 | 2026-09-14 | 33 | simplify-2026 |
-| [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1) | Electrical Engineer Intern - Robotics R&D | Santa Clara, CA | Summer 2027 | 2026-09-14 | 33 | simplify-2026 |
 | [MBDA](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Electronics-Engineer---Undergraduate-Placement-2027_R38678) | Electronics Engineer | Stevenage, UK | N/A | 2026-09-14 | 33 | simplify-2026 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525) | Data Center Silicon Hardware Engineering Intern - Winter 2027 | Toronto, ON, Canada, Ottawa, ON, Canada | Winter 2027 | 2026-09-14 | 33 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027_R50319) | Electronics & Controls Intern | New Hudson, MI | Summer 2027 | 2026-09-14 | 33 | simplify-2026 |
