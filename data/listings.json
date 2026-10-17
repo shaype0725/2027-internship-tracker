@@ -3580,7 +3580,7 @@
     "company_name": "RTX",
     "id": "450e4484-4377-400a-9da6-573dd1196e57",
     "title": "Electrical Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -28724,7 +28724,7 @@
     "company_name": "Adobe",
     "id": "f9901050-1d31-45ee-b404-d04b7838e9c6",
     "title": "Applied and Research Scientist/Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -32742,7 +32742,7 @@
     "company_name": "KLA Corporation",
     "id": "fb99fc9f-da10-4a0c-9d4c-565dd66138c8",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -53499,7 +53499,7 @@
     "company_name": "KLA Corporation",
     "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
     "title": "Algorithm Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -62426,7 +62426,7 @@
     "company_name": "General Motors",
     "id": "f9a08de0-d633-4b19-b444-8002689fc795",
     "title": "Product Management Intern - Digital Product",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -69345,7 +69345,7 @@
     "company_name": "KBR",
     "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
     "title": "Image Processing Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -71946,7 +71946,7 @@
     "company_name": "Johnson & Johnson",
     "id": "4c2e5fe2-a3e6-4d00-ac53-11343dc121dc",
     "title": "Software Engineer Intern - Robotics R&D",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -72181,7 +72181,7 @@
     "company_name": "Xcel Energy",
     "id": "8367abf1-0004-45dc-9b38-6d41c668730a",
     "title": "Data Governance, Visualization and Automation Intern - Financial Data Governance - Data Visualization",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -76684,7 +76684,7 @@
     "company_name": "Johnson & Johnson",
     "id": "ca83c527-3aa7-4bc1-b842-d5e57efca6dd",
     "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -80789,7 +80789,7 @@
     "company_name": "Xcel Energy",
     "id": "e80d6106-b8f0-46f9-913a-bb970d461cdf",
     "title": "Load Research & Energy and Demand Forecasting Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -95118,7 +95118,7 @@
     "company_name": "Xcel Energy",
     "id": "9f3cbb1e-b4a0-4f15-b1fc-ea0c6a200973",
     "title": "Residential Energy Product Strategy Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -103412,7 +103412,7 @@
     "company_name": "Cox",
     "id": "97899cd4-de4e-4a30-88bb-d77f77c316cb",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -105131,7 +105131,7 @@
     "company_name": "Xcel Energy",
     "id": "eb864411-1731-4c2b-b415-4b9881d16890",
     "title": "Renewable Operations Center Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -380817,7 +380817,7 @@
     "company_name": "PennState University",
     "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
     "title": "Research and Development Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2026",
       "Fall 2026",
@@ -407430,32 +407430,6 @@
       "Grove City, PA"
     ],
     "company_url": "https://simplify.jobs/c/HF-Sinclair",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "Honeywell",
-    "id": "2954a3bc-b6dd-4b05-a105-6a85f9f59ba3",
-    "title": "Product Management Intern Engineer - m/w/d",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771497166,
-    "date_posted": 1771497166,
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140089",
-    "locations": [
-      "Neukirchen-Vluyn, Germany"
-    ],
-    "company_url": "https://simplify.jobs/c/Honeywell",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
