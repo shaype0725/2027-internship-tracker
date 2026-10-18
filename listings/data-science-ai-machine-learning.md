@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1512)
+# Data Science, AI & Machine Learning (1511)
 
 [← back to index](../README.md)
 
@@ -69,6 +69,7 @@
 | [National Laboratory of the Rockies](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563) | AI/ML for Cybersecurity Intern | Golden, CO | N/A | 2026-10-15 | 3 | simplify-2026 |
 | [Vertex Pharmaceuticals](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics--Market-Access_REQ-31008-1) | Commercial Analytics Co-op - Market Access | Boston, MA | Winter 2027 | 2026-10-15 | 3 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540) | Embodied AI Data Scaling Intern - Data Scaling - Embodied AI | Sunnyvale, CA | Summer 2027 | 2026-10-15 | 3 | simplify-2026 |
+| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539) | AI/ML Engineer Intern - Mapping - Masters | Warren, MI | Summer 2027 | 2026-10-15 | 3 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535) | Embodied AI Research Intern | Sunnyvale, CA | Summer 2027 | 2026-10-15 | 3 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543) | Onboard Autonomy Intern - Embodied AI | Sunnyvale, CA | Summer 2027 | 2026-10-15 | 3 | simplify-2026 |
 | [Danaher](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/CCM-Data-Governance---Intern-Summer-2027_R1318977) | Data Governance Intern - CCM | Logan, UT | Summer 2027 | 2026-10-15 | 3 | simplify-2026 |
@@ -295,6 +296,7 @@
 | [Apple Bank](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414) | IT Data Intern - Analytics, & Automation | NYC | Summer 2027 | 2026-10-07 | 11 | simplify-2026 |
 | [Dow Jones](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55872) | Research Analyst Intern | Houston, TX | Summer 2027 | 2026-10-07 | 11 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-1) | SCS Commercial Strategy & Growth Intern | Longmont, CO | Summer 2027 | 2026-10-07 | 11 | simplify-2026 |
+| [Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859) | Data Science and Analytics PhD Intern | Hillsboro, OR | N/A | 2026-10-07 | 11 | simplify-2026 |
 | [HCSC](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498) | Systems Analyst Intern | Chicago, IL, Richardson, TX | N/A | 2026-10-07 | 11 | simplify-2026 |
 | [HCSC](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505) | Enterprise Data Analyst Intern | Chicago, IL, Richardson, TX | N/A | 2026-10-07 | 11 | simplify-2026 |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993) | Data Engineer Intern | SF | Summer 2027 | 2026-10-07 | 11 | simplify-2026 |
@@ -390,7 +392,6 @@
 | [NBCUniversal](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371465) | Data Analytics Intern | London, UK | Summer 2027 | 2026-10-04 | 14 | simplify-2026 |
 | [X Development](https://x.company/careers/8865083002?gh_jid=8865083002) | PhD Resident - AI for Science - Early Stage Project | Mountain View, CA | Winter 2027 | 2026-10-03 | 15 | simplify-2026 |
 | [Brooks Running](https://jobs.lever.co/brooksrunning/b4462155-4109-43ce-adfa-8e58bb429215/apply) | Run Performance Graduate Intern - Run Research Team | Seattle, WA | Winter 2027 | 2026-10-03 | 15 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) | AI DSP Applied Research Co-op | Cedar Rapids, IA | N/A | 2026-10-03 | 15 | simplify-2026 |
 | [MasterControl](https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&gh_jid=4738478005) | AI/ML Engineer Intern | United States | Winter 2026 | 2026-10-02 | 16 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8248327) | Perception Intern - Evaluation | Mountain View, CA | Summer 2027 | 2026-10-02 | 16 | simplify-2026 |
 | [Intuit](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184) | Finance Transformation & Analytics Intern | Mountain View, CA | Summer 2027 | 2026-10-02 | 16 | simplify-2026 |
@@ -827,7 +828,6 @@
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265) | AI Engineer Intern | Oshkosh, WI | Summer 2027 | 2026-09-11 | 37 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266) | Autonomy & Active Safety Engineer Intern | Oshkosh, WI, Pittsburgh, PA | Summer 2027 | 2026-09-11 | 37 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868) | Data Engineer Intern | Oshkosh, WI | Summer 2026 | 2026-09-11 | 37 | simplify-2026 |
-| [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743) | Machine Learning Engineer Intern | Remote in USA | Summer 2027 | 2026-09-11 | 37 | simplify-2026 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709) | Machine Learning Engineer Intern - Technology & Medical Organizations | Remote in USA | Summer 2027 | 2026-09-11 | 37 | simplify-2026 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722) | Data Scientist Intern - Amgen’s Technology & Medical Organizations | Remote in USA | Summer 2027 | 2026-09-11 | 37 | simplify-2026 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704) | Data Scientist Intern | Remote in USA | Summer 2027 | 2026-09-11 | 37 | simplify-2026 |
@@ -1023,7 +1023,6 @@
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008762) | Machine Learning Co-op | Marshalltown, IA | Winter 2026 | 2026-09-01 | 47 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009488) | Data Science Engineering Intern | Boulder, CO | Winter 2026 | 2026-09-01 | 47 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009200) | Data Analyst Co-op | Marshalltown, IA | Winter 2026 | 2026-09-01 | 47 | simplify-2026 |
-| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035) | Aerospace Engineering Intern - APU Programs Support | Longueuil, QC, Canada | Winter 2027 | 2026-09-01 | 47 | simplify-2026 |
 | [United Parcel Service](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Americas-Region-Business-Analytics-Summer-2027-Intern_R26030513) | Business Analytics Intern - Americas Region | Atlanta, GA | Summer 2027 | 2026-09-01 | 47 | simplify-2026 |
 | [Baird](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2) | Capital Markets Compliance Data & Analytics Intern | Milwaukee, WI | Summer 2027 | 2026-09-01 | 47 | simplify-2026 |
 | [Michelin](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979) | Data Engineering Intern | Ardmore, OK | Summer 2027 | 2026-09-01 | 47 | simplify-2026 |

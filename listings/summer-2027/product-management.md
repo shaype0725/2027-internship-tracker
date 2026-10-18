@@ -71,7 +71,7 @@ Auto-generated. Do not hand-edit.
 | [RF-SMART](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) | Product Strategy Intern | Jacksonville, FL | 2026-09-08 | 39 |
 | [Hormel Foods](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35735) | R&D Product Development Intern - Campus Recruiting | Northbrook, IL | 2026-09-08 | 39 |
 | [ID.me](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) | Product Intern | Mountain View, CA | 2026-09-08 | 39 |
-| [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922) | Product Management Intern - Product Management | London, UK | 2026-09-08 | 39 |
+| [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922) | Product Management Intern - Product Management | London, UK | 2026-09-08 | 40 |
 | [Dick's Sporting Goods](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) | Product Management Intern - Corporate Internship | Pittsburgh, PA | 2026-09-08 | 40 |
 | [Ernst & Young](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Product Manager Intern - Tax - Other Tax | NYC | 2026-09-04 | 43 |
 | [Roblox](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | Product Management Intern | San Mateo, CA | 2026-09-03 | 45 |

@@ -7750,7 +7750,7 @@
     "company_name": "General Motors",
     "id": "6be326d4-b4e5-4d1a-9440-abd55d5a377d",
     "title": "AI/ML Engineer Intern - Mapping - Masters",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -24048,7 +24048,7 @@
     "company_name": "Intel",
     "id": "6e326004-e660-4a06-a3f7-9378a0812a4e",
     "title": "Data Science and Analytics PhD Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -34228,7 +34228,7 @@
     "company_name": "NVIDIA",
     "id": "4cf30745-6f3b-4afc-b4a7-8c156b74804c",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -36518,7 +36518,7 @@
     "company_name": "RTX",
     "id": "44d51ce5-b0d7-47ab-93d2-24148841c53d",
     "title": "AI DSP Applied Research Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -50565,7 +50565,7 @@
     "company_name": "Zurn Elkay Water Solutions",
     "id": "6f1236f3-5a1c-4bb1-998f-e7b8fca40550",
     "title": "Embedded Hardware Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -58044,7 +58044,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "3e9bc6fa-0837-4aef-9543-d3529a2c2943",
     "title": "Software Development Intern - Wealth Management Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -88780,7 +88780,7 @@
     "company_name": "Amgen",
     "id": "97071ed7-a906-402b-b755-8a9a9f9968c7",
     "title": "Machine Learning Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -114059,7 +114059,7 @@
     "company_name": "RTX",
     "id": "81abb668-54a5-4399-998b-383a36dba872",
     "title": "Aerospace Engineering Intern - APU Programs Support",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
