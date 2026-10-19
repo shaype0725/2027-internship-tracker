@@ -1,9 +1,10 @@
-# Product Management (218)
+# Product Management (219)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8285180) | Product Co-op | Toronto, ON, Canada | Spring 2027 | 2026-10-19 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7697105572165519621) | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Summer 2026 | 2026-10-17 | 2 | simplify-2026 |
 | [Behaviour Interactive](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Product Management Intern - 7 Days to Die | Montreal, QC, Canada | Winter 2027 | 2026-10-16 | 3 | simplify-2026 |
 | [Citco](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19073) | Product Intern | London, UK | N/A | 2026-10-16 | 3 | simplify-2026 |
@@ -83,10 +84,10 @@
 | [Zimmer Biomet Holdings](https://careers.zimmerbiomet.com/us/en/job/12745) | Product Management Intern - Artificial Intelligence Product Management | Remote in USA | Summer 2027 | 2026-09-21 | 28 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014306) | Digital Product Management Intern - Undergraduate GMNS | London, UK | Winter 2026 | 2026-09-21 | 28 | simplify-2026 |
 | [AutoZone](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427) | Ecommerce Intern | Memphis, TN | Summer 2027 | 2026-09-21 | 28 | simplify-2026 |
-| [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1) | Product Management Intern | Montreal, QC, Canada | Winter 2027 | 2026-09-19 | 30 | simplify-2026 |
 | [Publicis Groupe](https://careers.publicisgroupe.com/jobs/172574?icims=1) | Product Manager Intern - Class of 2028 | Chicago, IL | Summer 2027 | 2026-09-18 | 31 | simplify-2026 |
 | [Rundoo](https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application?embed=true) | Product Manager Intern | Redwood City, CA | Winter 2026 | 2026-09-18 | 31 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757) | Product Management Co-op - Patient Management Solutions | Danvers, MA | Winter 2026 | 2026-09-18 | 31 | simplify-2026 |
+| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538) | Product Management Intern - Digital Product | Austin, TX, Warren, MI | Summer 2027 | 2026-09-18 | 31 | simplify-2026 |
 | [W.R. Berkley](https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false) | Product Management Analyst Intern - Claims | Manassas, VA | Summer 2027 | 2026-09-17 | 32 | simplify-2026 |
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Private-Markets-Product_R-15545) | Early Career Intern - Private Markets Product | Atlanta, GA | Summer 2027 | 2026-09-17 | 32 | simplify-2026 |
 | [Watts Water](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586) | Product Specialist Intern | Fort Worth, TX | Summer 2027 | 2026-09-17 | 32 | simplify-2026 |
