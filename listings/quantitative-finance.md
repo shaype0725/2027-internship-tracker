@@ -1,11 +1,10 @@
-# Quantitative Finance (218)
+# Quantitative Finance (217)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8300829) | Sports Trader Intern | Jersey City, NJ | Summer 2027 | 2026-10-20 | 1 | simplify-2026 |
-| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-3) | Retail Risk Modeling Analyst Intern | Toronto, ON, Canada | Winter 2027 | 2026-10-20 | 1 | simplify-2026 |
 | [Graviton](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) | Quantitative Researcher Intern | London, UK, Amsterdam, Netherlands, NYC, Singapore | Summer 2027 | 2026-10-19 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-1) | Quantitative Intern - Portfolio Engineering and Analytics | Boston, MA | Summer 2026 | 2026-10-16 | 5 | simplify-2026 |
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803) | Quantitative Research Intern | NYC | N/A | 2026-10-16 | 5 | simplify-2026 |
