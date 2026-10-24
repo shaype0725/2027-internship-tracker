@@ -1,6 +1,84 @@
 [
   {
     "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "HCSC",
+    "id": "fbf3d29b-15cb-4390-9bb9-28010e5bcb46",
+    "title": "Security Data Classification Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1792845568,
+    "date_posted": 1791417600,
+    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/HCSC",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "The Federal Reserve System",
+    "id": "b45ea2d4-167c-47bc-bce8-92927650a1bc",
+    "title": "Policy & Analysis Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1792841617,
+    "date_posted": 1792454400,
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "University of Texas at Austin",
+    "id": "e7b8ba38-13c5-4926-9962-f314ca280f9d",
+    "title": "Postdoctoral Scholar Intern",
+    "active": true,
+    "terms": [
+      "Spring 2022"
+    ],
+    "date_updated": 1792839428,
+    "date_posted": 1783165050,
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "Quant",
     "company_name": "Fidelity Investments",
     "id": "dd0253eb-1b0d-4b57-abfc-061656bcb829",
@@ -16770,7 +16848,7 @@
     "company_name": "BP",
     "id": "af8e2287-6e78-4d36-b2f7-9d52ca496ede",
     "title": "Geophysics Intern - Upstream R&D - Imaging Geophysics PhD",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -20669,7 +20747,7 @@
     "company_name": "RTX",
     "id": "a5702f5f-906d-4b1f-8b18-e4034368a2cb",
     "title": "Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -46890,7 +46968,7 @@
     "company_name": "Badger Meter",
     "id": "64ffe791-24fc-4b7a-b06b-90a8bc63b978",
     "title": "Software Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -58330,7 +58408,7 @@
     "company_name": "Intel",
     "id": "fa6b1c85-77ab-4c0f-abf9-2175172bb65b",
     "title": "AI Solution Architect Graduate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -73021,7 +73099,7 @@
     "company_name": "Zurn Elkay Water Solutions",
     "id": "c15b6c17-1727-4aaf-8fe1-537a96872d7b",
     "title": "Product Management Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -90927,7 +91005,7 @@
     "company_name": "Central Hudson",
     "id": "4df28339-408f-45f0-8a26-bbaef8413cca",
     "title": "GIS Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -155013,7 +155091,7 @@
     "company_name": "Flex",
     "id": "ab9e71a3-a1bb-4ee3-8beb-d84f475d8796",
     "title": "Electrical Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -419873,34 +419951,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Kaiser Permanente",
-    "id": "61155f11-cdf7-49e8-bc5b-c3b1c34b3102",
-    "title": "Consulting and Data Analytics Master's Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772103299,
-    "date_posted": 1772103299,
-    "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1410311",
-    "locations": [
-      "LA"
-    ],
-    "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's",
-      "MBA"
     ],
     "_sources": [
       "simplify-2026"

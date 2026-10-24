@@ -1,4 +1,4 @@
-# Summer 2027 — Product (155)
+# Summer 2027 — Product (154)
 
 Auto-generated. Do not hand-edit.
 
@@ -69,7 +69,6 @@ Auto-generated. Do not hand-edit.
 | [Watts Water](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586) | Product Specialist Intern | Fort Worth, TX | 2026-09-17 | 37 |
 | [Zurn Elkay Water Solutions](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) | Product Management Intern | Paso Robles, CA | 2026-09-17 | 37 |
 | [Gordon Food Service](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336) | Digital Product Management Intern | Wyoming, MI | 2026-09-17 | 37 |
-| [Zurn Elkay Water Solutions](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1) | Product Management Intern - Summer 2027 | Erie, PA | 2026-09-16 | 38 |
 | [AspenTech](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) | Product Owner Intern - Product Management | Houston, TX, Bedford, MA | 2026-09-16 | 38 |
 | [Altar'd State](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Ecommerce-Product-Owner-Intern_SOSJ12489) | IT Ecommerce Product Owner Intern | Knoxville, TN | 2026-09-16 | 38 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Salesforce Product Owner Intern - MBA | LA | 2026-09-15 | 38 |
@@ -87,7 +86,7 @@ Auto-generated. Do not hand-edit.
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8168322) | Associate Product Manager Intern - Multiple Teams | SF | 2026-09-09 | 45 |
 | [RF-SMART](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) | Product Strategy Intern | Jacksonville, FL | 2026-09-08 | 45 |
 | [ID.me](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) | Product Intern | Mountain View, CA | 2026-09-08 | 45 |
-| [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922) | Product Management Intern - Product Management | London, UK | 2026-09-08 | 45 |
+| [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922) | Product Management Intern - Product Management | London, UK | 2026-09-08 | 46 |
 | [Trimble](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) | Product Management Intern | Westminster, CO, San Diego, CA | 2026-09-08 | 46 |
 | [Dick's Sporting Goods](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) | Product Management Intern - Corporate Internship | Pittsburgh, PA | 2026-09-08 | 46 |
 | [Ernst & Young](https://eyglobal.yello.co/jobs/j21FS2VcGwQq6MZcPdNRoQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Tax Technology and Transformation Products Intern - Tax | Dallas, TX, NYC | 2026-09-04 | 49 |

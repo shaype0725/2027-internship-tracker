@@ -57,7 +57,6 @@ Auto-generated. Do not hand-edit.
 | [Roche](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915) | Computer Science Industrial Placement Student Intern - Data Capability | Welwyn, UK | 2026-10-21 | 3 |
 | [Uline](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) | Operations Analyst Intern | Pleasant Prairie, WI | 2026-10-21 | 3 |
 | [Uline](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R268434) | Executive Operations Analyst Intern | Pleasant Prairie, WI | 2026-10-21 | 3 |
-| [BP](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Upstream-R-D---Imaging-Geophysics-PhD---UK_RQ117171) | Geophysics Intern - Upstream R&D - Imaging Geophysics PhD | Sunbury-on-Thames, UK | 2026-10-21 | 3 |
 | [Paccar](https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors) | Engineering Operations Intern | Kirkland, WA | 2026-10-20 | 3 |
 | [Paccar](https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors) | Field Service Data Analyst Intern | Kirkland, WA | 2026-10-20 | 3 |
 | [Metamorphic](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application?embed=true) | Engineering Intern | Palo Alto, CA | 2026-10-20 | 3 |
@@ -65,6 +64,7 @@ Auto-generated. Do not hand-edit.
 | [The New York Times](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005) | AI Initiatives Fellow | NYC | 2026-10-20 | 4 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) | Machine Learning Summer Associate Intern - NLP | Palo Alto, CA, Seattle, WA, NYC | 2026-10-20 | 4 |
 | [Paccar](https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors) | Dealer Development Marketing Data Analytics Intern | Kirkland, WA | 2026-10-20 | 4 |
+| [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766) | Policy & Analysis Intern | Dallas, TX | 2026-10-20 | 4 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027) | Applied Research Intern - Integrated Sensing and Communications | Santa Clara, CA | 2026-10-20 | 4 |
 | [Toyota](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) | Data Science Intern | Plano, TX | 2026-10-20 | 4 |
 | [Sony](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746-1) | Data Quality & Systems Intern | Weybridge, UK | 2026-10-20 | 4 |
@@ -609,7 +609,7 @@ Auto-generated. Do not hand-edit.
 | [Stryker](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) | Data Analytics Intern - Multiple Teams | Portage, MI | 2026-08-31 | 54 |
 | [Lendable](https://jobs.ashbyhq.com/lendable/e001dc0b-6e0f-46a7-95ba-38a3733db2f4/application?embed=true) | Intern | London, UK | 2026-08-29 | 56 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351) | Service Technology Research Intern - Summer 2027 | Westerville, OH | 2026-08-28 | 56 |
-| [CSX](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817) | Intermodal Intern - Summer 2027 - Paid | Jacksonville, FL | 2026-08-28 | 56 |
+| [CSX](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817) | Intermodal Intern - Summer 2027 - Paid | Jacksonville, FL | 2026-08-28 | 57 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143) | Data Scientist Intern - Summer Games | Rome, NY | 2026-08-28 | 57 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) | Data Scientist Intern - University | Charleston, SC | 2026-08-28 | 57 |
 | [Booz Allen](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140) | Data Scientist Intern - University | Atlanta, GA | 2026-08-28 | 57 |

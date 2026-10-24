@@ -1,4 +1,4 @@
-# Hardware Engineering (922)
+# Hardware Engineering (921)
 
 [← back to index](../README.md)
 
@@ -866,7 +866,6 @@
 | [HPR (Hyannis Port Research)](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) | FPGA Engineer Intern | Needham, MA | Summer 2027 | 2026-08-01 | 84 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8657286002) | Hardware Engineer Intern - FPGA | Austin, TX | Summer 2027 | 2026-07-31 | 85 | simplify-2026 |
 | [Persona AI](https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed/application?embed=true) | Electrical Engineer Intern | Houston, TX, Pensacola, FL | Fall 2026, Spring 2027, Summer 2027 | 2026-07-30 | 86 | simplify-2026 |
-| [Flex](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/Electrical-Engineering-Co-op_WD226386) | Electrical Engineering Co-op | Hollis, NH | Winter 2027 | 2026-07-30 | 86 | simplify-2026 |
 | [University of Rochester](https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-1_R273410) | Research Co-op | Rochester, NY | Fall 2026 | 2026-07-30 | 86 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | Powertrain Controls Software Engineer Intern | Southfield, MI | Fall 2026 | 2026-07-27 | 89 | simplify-2026 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | FPGA Engineer Intern | Austin, TX | Summer 2027 | 2026-07-21 | 95 | simplify-2026 |
