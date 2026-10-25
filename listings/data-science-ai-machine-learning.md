@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1530)
+# Data Science, AI & Machine Learning (1531)
 
 [← back to index](../README.md)
 
@@ -766,6 +766,7 @@
 | [The Brattle Group](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) | Energy Analyst Intern - Economics | Boston, MA | Summer 2027 | 2026-09-18 | 37 | simplify-2026 |
 | [The Brattle Group](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) | Energy Analyst Intern - Economics - Multiple Teams | Toronto, ON, Canada | Summer 2027 | 2026-09-18 | 37 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oW1PAfw6?nl=1&nl=1&fr=false) | Ridership Analysis and Modeling Emerging Talent Intern | NYC | Spring 2027 | 2026-09-18 | 37 | simplify-2026 |
+| [Mytra](https://ats.rippling.com/mytra/jobs/ce0c1a3b-21b5-42df-a710-1def7071dfd8) | Robotics Intern - Winter 2026 | Brisbane, CA | Winter 2026 | 2026-09-18 | 37 | simplify-2026 |
 | [Echelon Insights](https://echelon.applytojob.com/apply/1OQKKfWvRO/Echelon-Fellowship-Internship-Spring-2027) | Fellow Intern | Alexandria, VA | Spring 2027 | 2026-09-18 | 37 | simplify-2026 |
 | [Together AI](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) | Research Intern - Frontier Agents | SF | Summer 2027 | 2026-09-18 | 37 | simplify-2026 |
 | [Qorvo](https://careers.qorvo.com/job/Salem-Data-Engineering-Intern-OR-97302/1431485300/?ats=successfactors) | Data Engineering Intern | Salem, OR | Winter 2026 | 2026-09-18 | 37 | simplify-2026 |
