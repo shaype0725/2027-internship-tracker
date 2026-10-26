@@ -1,4 +1,4 @@
-# Summer 2027 — Quant (140)
+# Summer 2027 — Quant (135)
 
 Auto-generated. Do not hand-edit.
 
@@ -12,10 +12,8 @@ Auto-generated. Do not hand-edit.
 | [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8300829) | Sports Trader Intern | Jersey City, NJ | 2026-10-20 | 5 |
 | [Graviton](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) | Quantitative Researcher Intern | London, UK, Amsterdam, Netherlands, NYC, Singapore | 2026-10-19 | 7 |
 | [State of Wisconsin Investment Board](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Liquidity-Optimization-Intern_R-001346) | Liquidity Optimization Intern | Madison, WI | 2026-10-15 | 11 |
-| [LSEG](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Quantitative-Services_R0124311-2) | Quantitative Services Intern | London, UK | 2026-10-14 | 12 |
 | [Acadian Asset Management](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006) | Quantitative Investment Intern | Boston, MA | 2026-10-13 | 12 |
 | [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2) | Quant Research Intern | London, UK | 2026-10-13 | 13 |
-| [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608) | Quantitative Developer Intern | NYC | 2026-10-13 | 13 |
 | [Aon](https://jobs.aon.com/jobs/107787?icims=1) | Actuarial Consulting Intern - Pensions | London, UK | 2026-10-12 | 14 |
 | [State of Wisconsin Investment Board](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Systematic-Multi-Strategy-Intern_R-001342) | Systematic Multi-Strategy Intern | Madison, WI | 2026-10-09 | 17 |
 | [Mitsubishi UFG](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD-1) | Summer Analyst Programme: Global Markets Intern - Markets Engineering | London, UK | 2026-10-09 | 17 |
@@ -25,7 +23,6 @@ Auto-generated. Do not hand-edit.
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061) | Consumer & Community Banking Internship - Risk Modeling Associate Program | Palo Alto, CA, Plano, TX, Jersey City, NJ, Columbus, OH, Wilmington, DE | 2026-10-06 | 19 |
 | [Capstone Investment Advisors](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8867730002) | Risk Tech Intern | London, UK, NYC | 2026-10-05 | 21 |
 | [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1) | Quant Research Intern - Systematic Trading | NYC | 2026-10-05 | 21 |
-| [Houlihan Lokey](https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2027-Summer-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services--Complex-Securities---Multiple-Locations_R3632) | Financial Analyst - Corporate Valuation Advisory Services - Complex Securities | LA, NYC | 2026-10-02 | 24 |
 | [American Bankers Association](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614) | Quantitative Research Intern | Washington, DC | 2026-10-02 | 24 |
 | [Principal Financial Group](https://careers.principal.com/jobs/52721?icims=1) | Quantitative Analyst Intern - Quantitative Research | Des Moines, IA, NYC | 2026-10-01 | 24 |
 | [Capstone Investment Advisors](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002) | Quant Intern | London, UK | 2026-09-30 | 25 |
@@ -63,19 +60,18 @@ Auto-generated. Do not hand-edit.
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) | Quantitative Research Intern | Miami, FL | 2026-09-04 | 51 |
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) | Quantitative Research Intern | NYC | 2026-09-04 | 51 |
 | [AXQ Capital](https://job-boards.greenhouse.io/axq/jobs/6181069004) | Quantitative Research Intern - Summer 2027 | NYC | 2026-09-03 | 52 |
-| [Garda Capital Partners](https://job-boards.greenhouse.io/gardacp/jobs/6179468004) | Trading Analyst Intern - Mortgages | NYC | 2026-09-03 | 53 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) | Quantitative Research Intern | London, UK | 2026-09-03 | 53 |
-| [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8037860) | Quantitative Trader/Researcher Intern | London, UK | 2026-09-01 | 54 |
-| [Deutsche Bank](https://db.recsolu.com/external/requisitions/7YdoahPnz0FeSk6E58AGDw) | Quantitative Analyst Intern - GSA | London, UK | 2026-09-01 | 54 |
-| [Deutsche Bank](https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog) | Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs | London, UK | 2026-09-01 | 54 |
-| [Deutsche Bank](https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA) | Quantitative FIC Intern - Quantitative Trading | London, UK | 2026-09-01 | 54 |
+| [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8037860) | Quantitative Trader/Researcher Intern | London, UK | 2026-09-01 | 55 |
+| [Deutsche Bank](https://db.recsolu.com/external/requisitions/7YdoahPnz0FeSk6E58AGDw) | Quantitative Analyst Intern - GSA | London, UK | 2026-09-01 | 55 |
+| [Deutsche Bank](https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog) | Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs | London, UK | 2026-09-01 | 55 |
+| [Deutsche Bank](https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA) | Quantitative FIC Intern - Quantitative Trading | London, UK | 2026-09-01 | 55 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) | Quantitative Research Analyst Intern - Client Solutions & Analytics | London, UK | 2026-09-01 | 55 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA | 2026-09-01 | 55 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) | Quantitative Portfolio Management Intern | Newport Beach, CA | 2026-09-01 | 55 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) | Quantitative Research Analyst Intern - Portfolio Management | Newport Beach, CA | 2026-09-01 | 55 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) | Futures & Options Trading Analyst Intern - Summer 2027 | NYC | 2026-08-26 | 61 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401) | Model Risk Management Intern - 2027 Internship Program | Jersey City, NJ | 2026-08-25 | 61 |
-| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Arbitrage Research Summer Analyst Intern - AQR Arbitrage | Greenwich, CT | 2026-08-25 | 61 |
+| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Arbitrage Research Summer Analyst Intern - AQR Arbitrage | Greenwich, CT | 2026-08-25 | 62 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) | Trading Intern - Summer 2027 - DV Commodities | NYC | 2026-08-17 | 69 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | Quantitative Developer Intern | London, UK, NYC | 2026-08-17 | 69 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4371217009) | Quantitative Researcher Intern | London, UK, NYC | 2026-08-17 | 69 |
@@ -100,9 +96,9 @@ Auto-generated. Do not hand-edit.
 | [Goldman Sachs](https://higher.gs.com/roles/181628?type=students) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | 2026-08-15 | 72 |
 | [Quantbot Technologies](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) | Quantitative Researcher Intern | London, UK | 2026-08-11 | 75 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Quantitative Prediction Markets Research Summer Analyst Intern | Greenwich, CT | 2026-08-11 | 75 |
-| [Quantbot Technologies](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | Quantitative Developer Intern | NYC | 2026-08-11 | 75 |
-| [Quantbot Technologies](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | Quantitative Researcher Intern | NYC | 2026-08-11 | 75 |
-| [Quantbot Technologies](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | Data Trading Analyst Intern | NYC | 2026-08-11 | 75 |
+| [Quantbot Technologies](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | Quantitative Developer Intern | NYC | 2026-08-11 | 76 |
+| [Quantbot Technologies](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | Quantitative Researcher Intern | NYC | 2026-08-11 | 76 |
+| [Quantbot Technologies](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | Data Trading Analyst Intern | NYC | 2026-08-11 | 76 |
 | [ConocoPhillips](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) | Trading Analytics Intern | Houston, TX | 2026-08-11 | 76 |
 | [Capula](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) | Trading and Research Intern | London, UK | 2026-08-08 | 79 |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply) | Quantitative Trading Intern - Summer 2027 | Chicago, IL | 2026-08-07 | 79 |
@@ -142,5 +138,4 @@ Auto-generated. Do not hand-edit.
 | [TransMarket Group](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | Quantitative Trader Intern | Chicago, IL | 2026-06-02 | 145 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | Research and Portfolio Management Engineering Summer Analyst Intern | Greenwich, CT | 2026-05-26 | 152 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | Research Summer Analyst Intern | Greenwich, CT | 2026-05-15 | 164 |
-| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | Portfolio Implementation – Trading and Portfolio Finance Analyst Intern | Greenwich, CT | 2026-05-15 | 164 |
 | [Aquatic Capital Management](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | Quantitative Researcher – Intern | London, UK, Chicago, IL | 2026-04-01 | 207 |
