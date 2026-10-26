@@ -8,10 +8,10 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Adobe** | Machine Learning Engineer Intern | San Jose, CA, Waltham, MA, San Francisco, CA, Austin, TX, Seattle, WA, Lehi, UT, New York, NY |  | 2026-10-24 (2d ago) | [Apply](https://go.vansh.nyc/BO) |
-| 2 | **Amazon** | Software Development Engineer Intern, Amazon Leo | Redmond, WA |  | 2026-10-23 (3d ago) | [Apply](https://go.vansh.nyc/hR) |
-| 3 | **Microsoft** | Software Engineer Intern, Security & Identity | United States |  | 2026-10-23 (3d ago) | [Apply](https://go.vansh.nyc/hN) |
-| 4 | **Meta** | Research Scientist Intern - Dexterous Manipulation and Contact-Rich Control - PhD | Redmond, WA | N/A | 2026-10-24 (2d ago) | [Apply](https://www.metacareers.com/jobs/2053489871986285) |
+| 1 | **Meta** | Research Intern - Embedded AI on Wearables - PhD | Redmond, WA | N/A | 2026-10-26 (0d ago) | [Apply](https://www.metacareers.com/jobs/4070678619908522) |
+| 2 | **Adobe** | Machine Learning Engineer Intern | San Jose, CA, Waltham, MA, San Francisco, CA, Austin, TX, Seattle, WA, Lehi, UT, New York, NY |  | 2026-10-24 (2d ago) | [Apply](https://go.vansh.nyc/BO) |
+| 3 | **Amazon** | Software Development Engineer Intern, Amazon Leo | Redmond, WA |  | 2026-10-23 (3d ago) | [Apply](https://go.vansh.nyc/hR) |
+| 4 | **Microsoft** | Software Engineer Intern, Security & Identity | United States |  | 2026-10-23 (3d ago) | [Apply](https://go.vansh.nyc/hN) |
 | 5 | **Waymo** | Software Engineer Intern - MS/PhD - ML Frameworks and Efficiency | Mountain View, CA | Summer 2027 | 2026-10-23 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8287385) |
 | 6 | **MongoDB** | Software Engineer Intern | Palo Alto, CA, Seattle, WA, SF, Austin, TX, NYC | Summer 2027 | 2026-10-23 (3d ago) | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
 | 7 | **DoorDash** | Operations Research Intern | Sunnyvale, CA | Summer 2027 | 2026-10-23 (3d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Verne Robotics** | Engineering Intern | San Bruno, CA | Fall 2026 | 2026-07-04 (114d ago) | [Apply](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) |
 
 ---
-*Generated 2026-10-26 12:31 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-26 15:53 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
