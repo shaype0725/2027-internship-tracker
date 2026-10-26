@@ -1,4 +1,4 @@
-# Summer 2027 — Quant (135)
+# Summer 2027 — Quant (134)
 
 Auto-generated. Do not hand-edit.
 
@@ -132,7 +132,6 @@ Auto-generated. Do not hand-edit.
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Quantitative Trader Intern | Chicago, IL | 2026-07-01 | 116 |
 | [IMC Trading](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) | Quantitative Research Intern | Chicago, IL | 2026-07-01 | 116 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | Quantitative Research Intern - Quant Research - Undergrad | NYC | 2026-06-26 | 121 |
-| [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Quantitative Developer Intern | Boston, MA | 2026-06-10 | 138 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) | PhD Quantitative Researcher Intern | Boston, MA | 2026-06-10 | 138 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | Equity Volatility Quant Researcher Intern | Miami, FL | 2026-06-10 | 138 |
 | [TransMarket Group](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | Quantitative Trader Intern | Chicago, IL | 2026-06-02 | 145 |
