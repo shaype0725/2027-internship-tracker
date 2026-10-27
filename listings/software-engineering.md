@@ -1,9 +1,12 @@
-# Software Engineering (1342)
+# Software Engineering (1345)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Mayo Clinic](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190) | Graduate Engineer Intern - Software Development | Rochester, MN | Summer 2027, Fall 2027 | 2026-10-27 | 0 | simplify-2026 |
+| [Visa](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W) | Sophomore Program Software Engineer Intern | Ashburn, VA | N/A | 2026-10-27 | 0 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939) | Software Engineer Intern - AI Agents and Backend Infrastructure | Bristol, UK, Belfast, UK, Remote in UK, Reading, UK | N/A | 2026-10-27 | 0 | simplify-2026 |
 | [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/Xb4whC202X/Student-Software-Engineer) | Software Engineer Intern | Logan, UT | N/A | 2026-10-26 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Boston Scientific](https://bostonscientific.eightfold.ai/careers/job/563602813600558) | Software Engineer Intern - Graduates | Arden Hills, MN | Summer 2026 | 2026-10-26 | 1 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) | Software Developer Intern - Machine Learning | United Kingdom | N/A | 2026-10-26 | 1 | simplify-2026 |
