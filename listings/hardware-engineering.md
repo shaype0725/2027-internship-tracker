@@ -1,4 +1,4 @@
-# Hardware Engineering (897)
+# Hardware Engineering (894)
 
 [← back to index](../README.md)
 
@@ -258,7 +258,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/285641) | Process Engineer Intern - Dielectric Deposition | Austin, TX | Spring 2027 | 2026-10-06 | 21 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/19848?icims=1) | Software Engineer Intern | Tucson, AZ | N/A | 2026-10-06 | 21 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506799) | Applications Intern | Princeton, NJ | Summer 2027 | 2026-10-06 | 21 | simplify-2026 |
-| [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/E1nubjCRhW/ElectroOptical-Engineer-Intern) | Electro-Optical Engineer Intern | North Logan, UT | Summer 2027 | 2026-10-06 | 21 | simplify-2026 |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | Hardware Intern - AI HW & System on a Chip | Toronto, ON, Canada, Ottawa, ON, Canada | N/A | 2026-10-06 | 21 | simplify-2026 |
 | [MistyWest](https://apply.workable.com/mistywest/j/5D68DE0118/apply) | Engineering Co-op | Vancouver, BC, Canada | Winter 2027 | 2026-10-06 | 21 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728619005) | Packaging Engineer Intern | San Jose, CA | N/A | 2026-10-06 | 21 | simplify-2026 |
@@ -366,7 +365,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/277009) | Software Integration Engineer Intern - AI Platforms | Palo Alto, CA | Spring 2027 | 2026-09-29 | 28 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/285120) | AI Hardware Signal & Power Integrity Engineer Intern - AI Hardware | Palo Alto, CA, Austin, TX | Winter 2027, Spring 2027 | 2026-09-29 | 28 | simplify-2026 |
 | [AMCA](https://job-boards.greenhouse.io/amca/jobs/4396690009) | Electrical Engineering Internship - Summer 2027 | El Segundo, CA | Summer 2027 | 2026-09-29 | 28 | simplify-2026 |
-| [L3Harris Technologies](https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Test-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1434804100/?ats=successfactors) | Systems Engineering Co-op | Waterdown, Hamilton, ON, Canada | Winter 2026 | 2026-09-29 | 28 | simplify-2026 |
 | [Société Générale de Surveillance](https://jobs.smartrecruiters.com/SGS/744000152533359) | Project Engineer Intern | Suwanee, GA | Winter 2026 | 2026-09-29 | 28 | simplify-2026 |
 | [GITAI](https://job-boards.greenhouse.io/gitai/jobs/5437128008) | Software Engineer Intern | LA | Winter 2026 | 2026-09-29 | 28 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/20255?icims=1) | Software Engineering Intern | Boulder, CO | Winter 2026 | 2026-09-29 | 28 | simplify-2026 |
@@ -662,7 +660,6 @@
 | [Tesla](https://www.tesla.com/careers/search/job/282331) | Embedded Systems Software Engineer Intern - AI Platforms | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-03 | 54 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/282340) | Embedded Software Engineer Intern - Optimus | Palo Alto, CA | Spring 2027, Summer 2027 | 2026-09-03 | 54 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/282342) | Software Integration Engineer Intern - Optimus | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-09-03 | 54 | simplify-2026 |
-| [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000147563929) | Software Engineering Co-op - Months | Calgary, AB, Canada | Winter 2027 | 2026-09-03 | 54 | simplify-2026 |
 | [Reflect Orbital](https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2/application?embed=true) | Flight Software Engineer Intern | Hawthorne, CA | Winter 2026 | 2026-09-03 | 54 | simplify-2026 |
 | [Reflect Orbital](https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b/application?embed=true) | Embedded Firmware Engineer Intern | Hawthorne, CA | Winter 2026 | 2026-09-03 | 54 | simplify-2026 |
 | [General Matter](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) | Embedded Software Engineer Intern | LA | Summer 2027 | 2026-09-03 | 54 | simplify-2026 |
