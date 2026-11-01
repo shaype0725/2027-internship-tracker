@@ -72,10 +72,10 @@ Auto-generated. Do not hand-edit.
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) | Quantitative Research Intern | Miami, FL | 2026-09-04 | 57 |
 | [AXQ Capital](https://job-boards.greenhouse.io/axq/jobs/6181069004) | Quantitative Research Intern - Summer 2027 | NYC | 2026-09-03 | 58 |
 | [Marshall Wace](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) | Quantitative Research Intern | London, UK | 2026-09-03 | 59 |
-| [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8037860) | Quantitative Trader/Researcher Intern | London, UK | 2026-09-01 | 60 |
-| [Deutsche Bank](https://db.recsolu.com/external/requisitions/7YdoahPnz0FeSk6E58AGDw) | Quantitative Analyst Intern - GSA | London, UK | 2026-09-01 | 60 |
-| [Deutsche Bank](https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog) | Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs | London, UK | 2026-09-01 | 60 |
-| [Deutsche Bank](https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA) | Quantitative FIC Intern - Quantitative Trading | London, UK | 2026-09-01 | 60 |
+| [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=8037860) | Quantitative Trader/Researcher Intern | London, UK | 2026-09-01 | 61 |
+| [Deutsche Bank](https://db.recsolu.com/external/requisitions/7YdoahPnz0FeSk6E58AGDw) | Quantitative Analyst Intern - GSA | London, UK | 2026-09-01 | 61 |
+| [Deutsche Bank](https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog) | Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs | London, UK | 2026-09-01 | 61 |
+| [Deutsche Bank](https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA) | Quantitative FIC Intern - Quantitative Trading | London, UK | 2026-09-01 | 61 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) | Quantitative Research Analyst Intern - Client Solutions & Analytics | London, UK | 2026-09-01 | 61 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA | 2026-09-01 | 61 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) | Quantitative Portfolio Management Intern | Newport Beach, CA | 2026-09-01 | 61 |
@@ -108,8 +108,8 @@ Auto-generated. Do not hand-edit.
 | [Goldman Sachs](https://higher.gs.com/roles/181628?type=students) | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | 2026-08-15 | 78 |
 | [Quantbot Technologies](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) | Quantitative Researcher Intern | London, UK | 2026-08-11 | 81 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Quantitative Prediction Markets Research Summer Analyst Intern | Greenwich, CT | 2026-08-11 | 81 |
-| [Quantbot Technologies](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | Quantitative Developer Intern | NYC | 2026-08-11 | 81 |
-| [Quantbot Technologies](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | Quantitative Researcher Intern | NYC | 2026-08-11 | 81 |
+| [Quantbot Technologies](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | Quantitative Developer Intern | NYC | 2026-08-11 | 82 |
+| [Quantbot Technologies](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | Quantitative Researcher Intern | NYC | 2026-08-11 | 82 |
 | [iSAM](https://job-boards.eu.greenhouse.io/isam/jobs/4949792101) | PhD Quantitative Research Intern | London, UK | 2026-08-10 | 83 |
 | [Capula](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) | Trading and Research Intern | London, UK | 2026-08-08 | 85 |
 | [Belvedere Trading](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply) | Quantitative Trading Intern - Summer 2027 | Chicago, IL | 2026-08-07 | 85 |
