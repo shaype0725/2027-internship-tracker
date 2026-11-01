@@ -11,9 +11,9 @@ Auto-generated. Do not hand-edit.
 | [Amazon](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027) | PhD Economics Intern - Finance, Macroeconomics, And Forecasting | Seattle, WA, Arlington County, Arlington, VA, NYC, Bellevue, WA | 2026-10-27 | 4 |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Investment-Processes-Intern--Summer-2027_R1557) | Investment Processes Intern | Boston, MA | 2026-10-27 | 5 |
 | [Aegon Asset Management](https://transamerica.wd5.myworkdayjobs.com/AUK_JobSite/job/Edinburgh-UK/Actuarial-Intern--Summer-2027-_R20063117) | Actuarial Intern | Edinburgh, UK | 2026-10-26 | 6 |
-| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14057?icims=1) | Quantitative Research Intern | Atlanta, GA | 2026-10-23 | 8 |
-| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14053?icims=1) | Quantitative Engineer Intern | Atlanta, GA | 2026-10-23 | 8 |
-| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14055?icims=1) | Quantitative Financial Analytics Intern | Atlanta, GA | 2026-10-23 | 8 |
+| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14057?icims=1) | Quantitative Research Intern | Atlanta, GA | 2026-10-23 | 9 |
+| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14053?icims=1) | Quantitative Engineer Intern | Atlanta, GA | 2026-10-23 | 9 |
+| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14055?icims=1) | Quantitative Financial Analytics Intern | Atlanta, GA | 2026-10-23 | 9 |
 | [Glencore](https://job-boards.eu.greenhouse.io/glencoreuk/jobs/5013289101) | Industrial Placement Intern - Quantitative Research - Analytics | London, UK | 2026-10-23 | 9 |
 | [Amazon](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) | Economics Intern - Structural IO | Seattle, WA, Arlington County, Arlington, VA, NYC, Bellevue, WA | 2026-10-23 | 9 |
 | [Amazon](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) | PhD Economics Intern - Reduced Form Causal Inference | Seattle, WA, Arlington County, Arlington, VA, NYC, Bellevue, WA | 2026-10-23 | 9 |
@@ -28,7 +28,7 @@ Auto-generated. Do not hand-edit.
 | [Mitsubishi UFG](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD-1) | Summer Analyst Programme: Global Markets Intern - Markets Engineering | London, UK | 2026-10-09 | 23 |
 | [MUFG](https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD) | Summer Analyst Programme: Global Markets Intern - Markets Engineering | London, UK | 2026-10-09 | 23 |
 | [PDT Partners](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) | Quantitative Research Intern | NYC | 2026-10-07 | 24 |
-| [Pretium](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868465002) | Quantitative Strategies Intern | NYC | 2026-10-07 | 24 |
+| [Pretium](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868465002) | Quantitative Strategies Intern | NYC | 2026-10-07 | 25 |
 | [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) | Quant Modelling Intern | NYC | 2026-10-07 | 25 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061) | Consumer & Community Banking Internship - Risk Modeling Associate Program | Palo Alto, CA, Plano, TX, Jersey City, NJ, Columbus, OH, Wilmington, DE | 2026-10-06 | 25 |
 | [Capstone Investment Advisors](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8867730002) | Risk Tech Intern | London, UK, NYC | 2026-10-05 | 27 |
@@ -82,7 +82,7 @@ Auto-generated. Do not hand-edit.
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) | Quantitative Research Analyst Intern - Portfolio Management | Newport Beach, CA | 2026-09-01 | 61 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) | Futures & Options Trading Analyst Intern - Summer 2027 | NYC | 2026-08-26 | 67 |
 | [DTCC](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401) | Model Risk Management Intern - 2027 Internship Program | Jersey City, NJ | 2026-08-25 | 67 |
-| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Arbitrage Research Summer Analyst Intern - AQR Arbitrage | Greenwich, CT | 2026-08-25 | 67 |
+| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Arbitrage Research Summer Analyst Intern - AQR Arbitrage | Greenwich, CT | 2026-08-25 | 68 |
 | [Freddie Mac](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) | Quantitative Risk Management Intern | McLean, VA | 2026-08-24 | 69 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) | Trading Intern - Summer 2027 - DV Commodities | NYC | 2026-08-17 | 75 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | Quantitative Developer Intern | London, UK, NYC | 2026-08-17 | 75 |
