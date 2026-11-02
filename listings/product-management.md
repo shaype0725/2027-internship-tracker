@@ -4,6 +4,8 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [ParetoHealth](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) | Product Manager Intern | Philadelphia, PA | Summer 2027 | 2026-11-02 | 0 | simplify-2026 |
+| [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860) | Supervision & Regulation Intern - Business Relationship | Atlanta, GA | Summer 2027 | 2026-11-02 | 0 | simplify-2026 |
 | [MANN+HUMMEL](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) | Product Management & Market Intelligence Intern | Gastonia, NC | Spring 2027 | 2026-10-30 | 3 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701486873210390837) | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA | Winter 2027 | 2026-10-30 | 3 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701480558070597893) | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA | Winter 2027 | 2026-10-30 | 3 | simplify-2026 |
@@ -73,7 +75,6 @@
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098) | Product Management Intern | Greater Manchester, UK | Summer 2027 | 2026-10-14 | 19 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) | Product Management Intern - Vehicle Autonomy | Sunnyvale, CA | Summer 2027 | 2026-10-14 | 19 | simplify-2026 |
 | [Avis Budget Group](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Product-Innovation-Intern---Summer-2027_R0191163) | Product Innovation Intern | Parsippany-Troy Hills, NJ | Summer 2027 | 2026-10-13 | 20 | simplify-2026 |
-| [CoStar Group](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900) | Product Intern | Richmond, VA | Summer 2027 | 2026-10-13 | 20 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Prologis](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840) | AI Product Management Intern | Denver, CO | Summer 2026 | 2026-10-13 | 20 | simplify-2026 |
 | [Canadian Tire](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980) | Product Strategy Student Intern | Oakville, ON, Canada | Winter 2027 | 2026-10-13 | 20 | simplify-2026 |
 | [Arcesium](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) | Product Management Intern | NYC | N/A | 2026-10-12 | 21 | simplify-2026 |
@@ -112,7 +113,6 @@
 | [Rubrik](https://www.rubrik.com/company/careers/departments/job.8224424?gh_jid=8224424) | Product Growth Intern - MBA | Palo Alto, CA | Summer 2027 | 2026-10-01 | 32 | simplify-2026 |
 | [CoStar Group](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946) | Associate Product Manager | Sunnyvale, CA | N/A | 2026-10-01 | 32 | simplify-2026 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1) | MBA Product Intern | McLean, VA, Richmond, VA, Chicago, IL, NYC | Summer 2027 | 2026-10-01 | 32 | simplify-2026 |
-| [Epic Games](https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004) | Technical Product Management Intern | Cary, NC | Winter 2026 | 2026-09-30 | 33 | simplify-2026 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/AI-Enablement-Intern-Summer-2027/216185) | AI Enablement Intern | Austin, TX | Summer 2027 | 2026-09-30 | 33 | simplify-2026 |
 | [Schneider Electric](https://se.jibeapply.com/jobs/135310?icims=1) | Graduate Product Management Intern | Nashville, TN | Summer 2027 | 2026-09-30 | 33 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261) | Product Management Intern - Digital Client | Mequon, WI | Winter 2026 | 2026-09-30 | 33 | simplify-2026 |
