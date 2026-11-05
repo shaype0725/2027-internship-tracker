@@ -1,4 +1,4 @@
-# Summer 2027 — Hardware (352)
+# Summer 2027 — Hardware (348)
 
 Auto-generated. Do not hand-edit.
 
@@ -24,8 +24,8 @@ Auto-generated. Do not hand-edit.
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721914045) | SoC Engineering Intern | Markham, ON, Canada | 2026-11-02 | 2 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721913769) | Verification Engineer Intern | Toronto, ON, Canada | 2026-11-02 | 2 |
 | [Corning](https://corningjobs.corning.com/job/Corning-Intern,-Haptic-Metrology-&-Stylus-Tablet-Development-Summer-2027-NY-14831/1446860600/?ats=successfactors) | Haptic Metrology & Stylus Tablet Development Intern | Corning, NY | 2026-11-02 | 2 |
-| [ViaSat](https://careers.viasat.com/jobs/7088?icims=1) | Digital and Programmable Logic Engineer Intern | Tempe, AZ | 2026-11-02 | 2 |
-| [ViaSat](https://careers.viasat.com/jobs/7757?icims=1) | Software Engineer Intern | Germantown, MD | 2026-11-02 | 2 |
+| [ViaSat](https://careers.viasat.com/jobs/7088?icims=1) | Digital and Programmable Logic Engineer Intern | Tempe, AZ | 2026-11-02 | 3 |
+| [ViaSat](https://careers.viasat.com/jobs/7757?icims=1) | Software Engineer Intern | Germantown, MD | 2026-11-02 | 3 |
 | [Metalenz](https://jobs.ashbyhq.com/metalenz/c8150d66-9f72-4508-ac94-8a7efa54e206/application?embed=true) | Meta-Optics Intern | Boston, MA | 2026-11-02 | 3 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708) | Hardware/Software System and Application Engineer Intern | Chandler, AZ | 2026-11-02 | 3 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) | Design Verification Engineer Intern | Richardson, TX | 2026-11-02 | 3 |
@@ -137,7 +137,7 @@ Auto-generated. Do not hand-edit.
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2/apply) | Mixed Signal Products Applications Engineer Intern | Austin, TX | 2026-10-05 | 30 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027/apply) | Validation Engineer Intern | Austin, TX | 2026-10-05 | 30 |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply) | Analog Design Engineer Intern | Austin, TX | 2026-10-05 | 30 |
-| [Astronics](https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009) | Software Engineer Intern | Kirkland, WA | 2026-10-05 | 30 |
+| [Astronics](https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009) | Software Engineer Intern | Kirkland, WA | 2026-10-05 | 31 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820) | ADAS Software Engineer Intern - Adpt | Milford, MI, Warren, MI | 2026-10-05 | 31 |
 | [Hitachi Energy](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) | Electrical Component Engineer Intern | Toronto, ON, Canada | 2026-10-05 | 31 |
 | [Arc](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) | Electrical Hardware Engineering Intern | Torrance, CA | 2026-10-02 | 33 |
@@ -186,10 +186,7 @@ Auto-generated. Do not hand-edit.
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692) | Software Intern - WaveLogic | Atlanta, GA | 2026-09-24 | 42 |
 | [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620) | Digital IC Design Intern | Ottawa, ON, Canada | 2026-09-24 | 42 |
 | [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | Firmware Intern | Ottawa, ON, Canada | 2026-09-24 | 42 |
-| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628) | Validation Engineering Intern - Signal Integrity Products Group | Burlington, ON, Canada | 2026-09-24 | 42 |
-| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623) | Analog Design Engineer Intern | Calgary, AB, Canada | 2026-09-24 | 42 |
 | [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625) | Analog Design Intern | Ottawa, ON, Canada | 2026-09-24 | 42 |
-| [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622) | Analog Design Engineer Intern - Signal Integrity Products Group | Burlington, ON, Canada | 2026-09-24 | 42 |
 | [Semtech](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618) | Validation Engineering Intern | Ottawa, ON, Canada | 2026-09-24 | 42 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721229661) | Firmware Development Intern - PAL | Markham, ON, Canada | 2026-09-23 | 42 |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4704784006) | Electrical Engineer Intern | SF | 2026-09-23 | 43 |
@@ -214,7 +211,7 @@ Auto-generated. Do not hand-edit.
 | [SRC, Inc](https://jobs.jobvite.com/src-inc/job/ow4GAfwA?nl=1&nl=1&fr=false) | Engineering Technician Intern | Syracuse, NY | 2026-09-16 | 49 |
 | [SRC, Inc](https://jobs.jobvite.com/src-inc/job/on4GAfwr?nl=1&nl=1&fr=false) | Engineering Intern | Syracuse, NY | 2026-09-16 | 49 |
 | [AMD](https://careers.amd.com/jobs/91953?icims=1) | Technical Marketing Performance Analysis Intern/Co-op | Markham, ON, Canada | 2026-09-16 | 49 |
-| [Rendezvous Robotics](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009) | Software Engineer Intern | Golden, CO | 2026-09-16 | 49 |
+| [Rendezvous Robotics](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009) | Software Engineer Intern | Golden, CO | 2026-09-16 | 50 |
 | [Antares Nuclear](https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true) | Software Engineer Intern | Torrance, CA | 2026-09-16 | 50 |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply) | Electrical Engineer Intern - Hardware | Westminster, CO | 2026-09-16 | 50 |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply) | Embedded Software Engineer Intern | Westminster, CO | 2026-09-16 | 50 |
@@ -226,16 +223,15 @@ Auto-generated. Do not hand-edit.
 | [onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506613) | Reliability Testing and Failure Analysis Intern | Hopewell Junction, NY | 2026-09-15 | 50 |
 | [Anduril](https://boards.greenhouse.io/andurilindustries/jobs/5239083007) | Flight Software Engineer Intern | Costa Mesa, CA | 2026-09-15 | 50 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54226?icims=1) | Compound Semiconductor Device Characterization Intern | Santa Rosa, CA | 2026-09-14 | 51 |
-| [Google](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) | Silicon Engineering Intern | Madison, WI, Austin, TX, Sunnyvale, CA | 2026-09-14 | 51 |
-| [Google](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) | Hardware Engineer Intern - PhD | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | 2026-09-14 | 51 |
-| [EquipmentShare](https://www.equipmentshare.com/careers/openings/?gh_jid=8142763) | Electrical Engineering Intern - Embedded | Columbia, MO | 2026-09-14 | 51 |
-| [Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application?embed=true) | Hardware Engineer Intern - Machine Integration & Test | SF | 2026-09-14 | 51 |
-| [North Atlantic Industries](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501298) | Test Engineer Intern | Bohemia, NY | 2026-09-14 | 51 |
-| [North Atlantic Industries](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501330) | Electrical Design Engineer Intern | Bohemia, NY | 2026-09-14 | 51 |
+| [Google](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) | Silicon Engineering Intern | Madison, WI, Austin, TX, Sunnyvale, CA | 2026-09-14 | 52 |
+| [Google](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) | Hardware Engineer Intern - PhD | Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA | 2026-09-14 | 52 |
+| [EquipmentShare](https://www.equipmentshare.com/careers/openings/?gh_jid=8142763) | Electrical Engineering Intern - Embedded | Columbia, MO | 2026-09-14 | 52 |
+| [Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application?embed=true) | Hardware Engineer Intern - Machine Integration & Test | SF | 2026-09-14 | 52 |
+| [North Atlantic Industries](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501298) | Test Engineer Intern | Bohemia, NY | 2026-09-14 | 52 |
+| [North Atlantic Industries](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501330) | Electrical Design Engineer Intern | Bohemia, NY | 2026-09-14 | 52 |
 | [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770) | Hardware Engineering Intern - Infrastructure Solutions Group | Round Rock, TX, Hopkinton, MA | 2026-09-14 | 52 |
 | [MBDA](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Electronic-Engineer---Summer-Placement-2027_R37926) | Electronic Engineer Intern | Stevenage, UK | 2026-09-14 | 52 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) | PhD Research Intern - Circuits | Santa Clara, CA, Durham, NC | 2026-09-13 | 53 |
-| [AMD](https://careers.amd.com/jobs/92350?icims=1) | SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | 2026-09-11 | 54 |
 | [AMD](https://careers.amd.com/jobs/92346?icims=1) | Analog/Mixed-Signal Design Intern/Co-op | San Jose, CA, Santa Clara, CA | 2026-09-11 | 54 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801) | Hardware Design Engineer Intern | Round Rock, TX | 2026-09-11 | 54 |
 | [TTP](https://jobs.smartrecruiters.com/TTP1/744000149038070) | Electronic Engineer Intern | Melbourn, Royston, UK | 2026-09-11 | 54 |
@@ -318,7 +314,7 @@ Auto-generated. Do not hand-edit.
 | [ByteDance](https://jobs.bytedance.com/en/position/7679552807864879365/detail) | Cloud Acceleration Research Intern - DPU & AI Infra | San Jose, CA | 2026-08-31 | 65 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7679562740656933125/detail) | Cloud Acceleration Research Intern - DPU & AI Infra | Seattle, WA | 2026-08-31 | 65 |
 | [Aerotech](https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027) | Electrical/Computer Engineering Intern Co-op | Pittsburgh, PA | 2026-08-31 | 65 |
-| [Garmin](https://careers.garmin.com/jobs/19858?icims=1) | Software Engineer Intern | Chandler, AZ | 2026-08-31 | 65 |
+| [Garmin](https://careers.garmin.com/jobs/19858?icims=1) | Software Engineer Intern | Chandler, AZ | 2026-08-31 | 66 |
 | [Stryten](https://jobs.stryten.com/jobs/5809?icims=1) | Industrial or Mechanical Engineering Intern | Salina, KS | 2026-08-31 | 66 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Telematics-Intern--Summer-2027-_R49827) | Telematics Intern | Orlando, FL | 2026-08-31 | 66 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2027-_R49745) | Software Engineer Intern - Software - Summer 2027 | Greenville, WI, Oshkosh, WI | 2026-08-31 | 66 |
@@ -326,11 +322,11 @@ Auto-generated. Do not hand-edit.
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957) | Firmware Engineer Intern - Summer 2027 | Delaware, OH | 2026-08-26 | 70 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/SiGe-HBT-Device-Modelling-Intern--Summer-2027-_JR-2604271) | SiGe HBT Device Modelling Intern - Summer 2027 | Essex Junction, VT | 2026-08-26 | 71 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562) | Embedded Engineer Intern | United States | 2026-08-25 | 71 |
-| [Verkada](https://job-boards.greenhouse.io/verkada/jobs/5211595007) | Embedded Software Engineer Intern | San Mateo, CA | 2026-08-25 | 71 |
+| [Verkada](https://job-boards.greenhouse.io/verkada/jobs/5211595007) | Embedded Software Engineer Intern | San Mateo, CA | 2026-08-25 | 72 |
 | [AMD](https://careers.amd.com/jobs/91466?icims=1) | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | 2026-08-25 | 72 |
 | [MSA Safety](https://careers.msasafety.com/jobs/9993?icims=1) | Software Engineer Intern - Product Development - Summer 2027 | Cranberry Township, PA | 2026-08-24 | 72 |
-| [Garmin](https://careers.garmin.com/jobs/19693?icims=1) | Software Engineer Intern | Olathe, KS | 2026-08-24 | 72 |
-| [Apple](https://jobs.apple.com/en-us/details/200679650) | GPU Intern | London, UK, Cambridge, UK, St Albans, UK | 2026-08-24 | 72 |
+| [Garmin](https://careers.garmin.com/jobs/19693?icims=1) | Software Engineer Intern | Olathe, KS | 2026-08-24 | 73 |
+| [Apple](https://jobs.apple.com/en-us/details/200679650) | GPU Intern | London, UK, Cambridge, UK, St Albans, UK | 2026-08-24 | 73 |
 | [AMD](https://careers.amd.com/jobs/91230?icims=1) | Product Development Engineering Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | 2026-08-21 | 76 |
 | [AMD](https://careers.amd.com/jobs/90801?icims=1) | Firmware Engineer Intern/Co-op | Secaucus, NJ, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Massachusetts | 2026-08-21 | 76 |
 | [AMD](https://careers.amd.com/jobs/90807?icims=1) | Firmware Engineering Intern Co-op - Undergrad | San Jose, CA, Santa Clara, CA | 2026-08-21 | 76 |
