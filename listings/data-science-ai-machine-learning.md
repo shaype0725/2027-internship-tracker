@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1753)
+# Data Science, AI & Machine Learning (1752)
 
 [← back to index](../README.md)
 
@@ -310,7 +310,6 @@
 | [Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1) | AI/ML & Data Engineering Intern | Cambridge, MA, Armonk, NY, Warren, NJ, Sleepy Hollow, NY, Tarrytown, NY | Summer 2027 | 2026-10-28 | 10 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1) | Data Science & Digital Innovation Intern - Industrial Operations and Product Supply | Rensselaer, NY | Summer 2027 | 2026-10-28 | 10 | simplify-2026 |
 | [Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1) | Data Analytics Intern - Dashboards & Business Process Automation | Armonk, NY, Warren, NJ, Tarrytown, NY | Summer 2027 | 2026-10-28 | 10 | simplify-2026 |
-| [ASML](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626) | Data Engineer Co-op Intern | San Diego, CA | N/A | 2026-10-28 | 10 | simplify-2026 |
 | [Revantage Corporate Services](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539) | Insurance Technology & AI Analytics Intern | Dallas, TX, Chicago, IL | Summer 2027 | 2026-10-28 | 10 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Boston Dynamics](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Atlas-VLA-Research-Intern_R3317) | VLA Research Intern | Waltham, MA | N/A | 2026-10-28 | 10 | simplify-2026 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409) | Data Scientist Intern | Austin, TX | Summer 2027 | 2026-10-28 | 10 | simplify-2026, vanshb03-2026, vanshb03-2027 |
