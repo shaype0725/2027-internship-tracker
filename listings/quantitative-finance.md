@@ -1,4 +1,4 @@
-# Quantitative Finance (221)
+# Quantitative Finance (220)
 
 [← back to index](../README.md)
 
@@ -10,7 +10,6 @@
 | [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/36317?icims=1) | Quantitative Modeling Intern | Raleigh, NC | Summer 2027 | 2026-10-30 | 10 | simplify-2026 |
 | [Synthesis](https://apply.workable.com/synthesisim/j/C2932F1DE5/apply) | Quantitative Research Intern | London, UK | Summer 2027 | 2026-10-29 | 11 | simplify-2026 |
 | [SCM](https://job-boards.greenhouse.io/scmaea/jobs/998317) | Quantitative Research Analyst Intern | Radnor, PA | Summer 2026 | 2026-10-29 | 11 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369) | Analyst Co-op | Montreal, QC, Canada | Winter 2027 | 2026-10-29 | 11 | simplify-2026 |
 | [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) | Quantitative Trading Analyst Co-op | Toronto, ON, Canada | Summer 2027 | 2026-10-29 | 11 | simplify-2026 |
 | [Keyrock](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24/application?embed=true) | DeFi Quant Trader Intern - Credit | London, UK, Brussels, Belgium | Winter 2027 | 2026-10-29 | 11 | simplify-2026 |
 | [NatWest Group](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/NatWest-Markets---Quantitative-Analytics--Internship_R-00285741) | Quantitative Analytics Intern | London, UK | N/A | 2026-10-28 | 12 | simplify-2026 |
