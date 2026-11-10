@@ -1,9 +1,13 @@
-# Other (1730)
+# Other (1735)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [CTGT](https://go.vansh.nyc/1pM) | AI Evaluation Research Intern | San Francisco, CA |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
+| [i3](https://go.vansh.nyc/1pN) | Data Management Intern | Huntsville, AL |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
+| [NBCUniversal](https://go.vansh.nyc/1pO) | Digital Transformation AR/VR Intern | North Hollywood, CA |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Steel Dynamics](https://go.vansh.nyc/1pP) | Information Security Intern | Fort Wayne, IN |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Trimble](https://go.vansh.nyc/1pD) | Software Engineer Intern | Lake Oswego, OR |  | 2026-11-09 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/1pw) | Firmware Engineering Intern | Toronto, Canada |  | 2026-11-09 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Illumio](https://go.vansh.nyc/1pl) | Engineering Intern, SRE | Sunnyvale, CA |  | 2026-11-09 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -23,6 +27,7 @@
 | [Nasdaq](https://go.vansh.nyc/1p2) | Technical Research Intern | Richmond, VA |  | 2026-11-09 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Lila Sciences](https://go.vansh.nyc/1oX) | IT/OT Security Analyst Co-op | Cambridge, MA |  | 2026-11-09 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Lila Sciences](https://go.vansh.nyc/1oY) | Applied AI Platform Engineer Co-op, Software | San Francisco, CA |  | 2026-11-09 | 1 | vanshb03-2026, vanshb03-2027 |
+| [DreamWorks Animation](https://go.vansh.nyc/1pJ) | Data Science Intern, Advertising & Partnerships | New York, NY |  | 2026-11-09 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Viavi Solutions](https://go.vansh.nyc/1oU) | Digital Hardware Engineering Intern | Lenexa, KS |  | 2026-11-09 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Johns Hopkins APL](https://go.vansh.nyc/1oQ) | Artificial Intelligence Intern, Information Fusion | Laurel, MD |  | 2026-11-09 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Citizens Energy Group](https://go.vansh.nyc/1oR) | IT Security Intern | Indianapolis, IN |  | 2026-11-09 | 1 | vanshb03-2026, vanshb03-2027 |
