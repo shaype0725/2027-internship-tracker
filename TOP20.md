@@ -8,7 +8,7 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **NVIDIA** | AI Operations Intern, AI Clouds | Santa Clara, CA |  | 2026-11-10 (0d ago) | [Apply](https://go.vansh.nyc/1qq) |
+| 1 | **NVIDIA** | AI Operations Intern - AI Clouds | Santa Clara, CA | Summer 2027 | 2026-11-10 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1) |
 | 2 | **Tesla** | Mobile Application Developer Intern | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-10 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/289480) |
 | 3 | **Meta** | Research Scientist Intern - AI Core Machine Learning | Menlo Park, CA, Sunnyvale, CA | N/A | 2026-11-10 (0d ago) | [Apply](https://www.metacareers.com/jobs/2432079507324778) |
 | 4 | **Waymo** | Software Engineer Intern, Multiverse | San Francisco, CA |  | 2026-11-09 (1d ago) | [Apply](https://go.vansh.nyc/1qh) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (10d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-10 14:33 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-10 16:49 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
