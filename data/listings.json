@@ -1,5 +1,47 @@
 [
   {
+    "date_updated": 1794346692,
+    "url": "https://go.vansh.nyc/1s5",
+    "locations": [
+      "Columbus, GA"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Global Payments",
+    "title": "CyberSecurity Intern",
+    "source": "vanshb03",
+    "id": "5a76f055-1a11-465f-8f04-89acbb6b621c",
+    "date_posted": 1794346594,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1794345126,
+    "url": "https://go.vansh.nyc/1s3",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Addepar",
+    "title": "Product Intern",
+    "source": "vanshb03",
+    "id": "acc518a7-582f-494a-b92b-bae38debd6ae",
+    "date_posted": 1794327530,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "date_updated": 1794341351,
     "url": "https://go.vansh.nyc/19l",
     "locations": [
@@ -80,7 +122,8 @@
     "is_visible": true,
     "season": "Summer",
     "_sources": [
-      "vanshb03-2026"
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -21956,7 +21999,7 @@
     "company_name": "ViaSat",
     "id": "0d220c65-d483-4ced-b1bf-02c913e9a686",
     "title": "Pointing and Tracking Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -55352,7 +55395,7 @@
     "company_name": "Astronics",
     "id": "1411f04b-0318-4e7d-9f6a-3d8abbd29414",
     "title": "Electrical Test Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -132543,7 +132586,7 @@
     "company_name": "Procter & Gamble",
     "id": "48ff6fa7-bfd0-4c9b-9833-697dc6307130",
     "title": "R&D PhD Imaging Technologies Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -145299,7 +145342,7 @@
     "company_name": "Nordson",
     "id": "2e00548b-f99d-4989-8242-5b661ea5f91b",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -152259,7 +152302,7 @@
     "company_name": "Marvell",
     "id": "05682b26-d33e-4a92-91e9-6790192bf697",
     "title": "AMS Validation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -178905,7 +178948,7 @@
     "company_name": "Intel",
     "id": "02e5128c-f9d6-4224-9ba7-5ab3d06f1352",
     "title": "Operations Research Engineering Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -179744,7 +179787,7 @@
     "company_name": "Vusion",
     "id": "5205ce61-1e2e-4829-be7d-0ea7eedb6145",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -208260,7 +208303,7 @@
     "company_name": "Microchip Technology",
     "id": "44a79434-cb49-4a52-8802-c11a233c37b1",
     "title": "Engineering Intern - ASIC Verification",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -224780,7 +224823,7 @@
     "company_name": "AQR Capital Management",
     "id": "45430dd6-d10c-488f-9e97-caa01db1f0b0",
     "title": "Quantitative Prediction Markets Research Summer Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -228796,7 +228839,7 @@
     "company_name": "Tesla",
     "id": "de8cb307-6829-4afa-8e31-0fefe60818e7",
     "title": "Software Engineer Intern - Finance Programs",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],

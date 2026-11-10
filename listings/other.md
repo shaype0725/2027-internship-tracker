@@ -1,9 +1,10 @@
-# Other (1765)
+# Other (1767)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Global Payments](https://go.vansh.nyc/1s5) | CyberSecurity Intern | Columbus, GA |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [SRC, Inc](https://go.vansh.nyc/1rU) | Machine Learning Engineer Intern | United States |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Trimble](https://go.vansh.nyc/1rP) | Software Engineering Intern | Knoxville, TN |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Hewlett Packard (HP)](https://go.vansh.nyc/1rR) | Performance Engineering Co-op | Fort Collins, CO |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -45,6 +46,7 @@
 | [Addepar](https://go.vansh.nyc/1rX) | AI Engineering Intern | New York, NY |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Addepar](https://go.vansh.nyc/1rW) | Software Engineering Intern | New York, NY |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Zebra Technologies](https://go.vansh.nyc/1qC) | Security Intern | Lincolnshire, IL |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Addepar](https://go.vansh.nyc/1s3) | Product Intern | New York, NY |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [AFL](https://go.vansh.nyc/1qw) | Business Intelligence (BI) Co-op | Duncan, SC |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [OneAmerica Financial](https://go.vansh.nyc/1qx) | Cyber Security Intern | Indianapolis, IN |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Clarios](https://go.vansh.nyc/1qy) | IT Digital/AI Intern | Milwaukee, WI |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -60,7 +62,7 @@
 | [Lockheed Martin](https://go.vansh.nyc/1q0) | Software Engineer Intern | Mt Laurel Township, NJ |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Morgan Stanley](https://go.vansh.nyc/1q1) | Software Engineer Co-op, Parametric | New York, NY, Alpharetta, GA |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Aerospace Corporation](https://go.vansh.nyc/1pU) | Defensive Cyber Operations Grad Intern | El Segundo, CA |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
-| [Hunt Oil Company](https://go.vansh.nyc/1s2) | Application Developer Intern | Dallas, TX |  | 2026-11-10 | 0 | vanshb03-2026 |
+| [Hunt Oil Company](https://go.vansh.nyc/1s2) | Application Developer Intern | Dallas, TX |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [T-Mobile](https://go.vansh.nyc/1qz) | Software Engineer Intern, T-Ads | Philadelphia, PA |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Mission Systems](https://go.vansh.nyc/1qr) | Linux Automation Intern, Linux Integration and Test Engineer | San Antonio, TX |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Pika](https://go.vansh.nyc/1pR) | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA |  | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
