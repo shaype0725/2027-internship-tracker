@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1791)
+# Data Science, AI & Machine Learning (1793)
 
 [← back to index](../README.md)
 
@@ -1212,6 +1212,7 @@
 | [AspenTech](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459) | Data Science Intern | Bedford, MA | Summer 2027 | 2026-09-15 | 60 | simplify-2026 |
 | [Texas Rangers](https://rangersmlb.wd5.myworkdayjobs.com/Rangers/job/Arlington-TX/Data-Apprentice_R2405) | Data Apprentice | Arlington, TX | Winter 2026 | 2026-09-15 | 60 | simplify-2026 |
 | [The Toro Company](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/ISC-Analytics-Intern---The-Toro-Company_JR17246) | ISC Analytics Intern | Bloomington, MN | Summer 2027 | 2026-09-15 | 60 | simplify-2026 |
+| [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Autonomy-Engineering-Intern_R49418) | Autonomy Engineering Intern | Frederick, MD | Winter 2026 | 2026-09-15 | 60 | simplify-2026 |
 | [ibotta](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) | Data Engineer Intern | Denver, CO | Summer 2027 | 2026-09-14 | 61 | simplify-2026 |
 | [Highgate](https://externalhourly-highgate.icims.com/jobs/82546/job?hub=7&mobile=true&needsRedirect=false) | Data Services Intern - Summer 2027 | Irving, TX | Summer 2027 | 2026-09-14 | 61 | simplify-2026 |
 | [Ernst & Young](https://eyglobal.yello.co/jobs/nuM1c7MBNjknCC8oSMvZMg?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Data Engineer Intern - Multiple Teams | Chicago, IL, NYC | Summer 2027 | 2026-09-14 | 61 | simplify-2026 |
@@ -1706,6 +1707,7 @@
 | [TikTok](https://lifeattiktok.com/search/7528196025854380306) | Researcher Intern - Vision and Graphics | San Jose, CA | Summer 2026 | 2026-06-15 | 152 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7616659899507591477) | Data Analyst Intern - FMCG | London, UK | N/A | 2026-06-15 | 152 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7559026733786548488) | General Hire – Research Scientist Intern - Monetization Technology - 2026 Start - PhD | San Jose, CA | Summer 2026 | 2026-06-15 | 152 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7629248119245261061) | Applied Scientist Intern - Monetization Technology - Global Frontier Tech Recruitment Program | San Jose, CA | Fall 2026 | 2026-06-15 | 152 | simplify-2026 |
 | [Boston Consulting Group](https://careers.bcg.com/global/en/job/56634) | Forward Deployed AI Scientist Intern - United Kingdom - BCG X | London, UK | Winter 2026 | 2026-06-14 | 153 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Berks/Part-Time---Science---Summer-Research_REQ_0000079403-1) | Science | Reading, PA | N/A | 2026-06-13 | 154 | simplify-2026 |
 | [Marsh](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1) | Data & Analytics Research Fellow - Data & Analytics Research Fellowship | Newcastle upon Tyne, UK | N/A | 2026-06-13 | 154 | simplify-2026 |

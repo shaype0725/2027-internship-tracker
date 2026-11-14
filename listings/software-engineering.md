@@ -1,4 +1,4 @@
-# Software Engineering (1446)
+# Software Engineering (1447)
 
 [← back to index](../README.md)
 
@@ -10,6 +10,7 @@
 | [Samsung](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003) | ML Compiler Intern - Kernel Auto-Tuning | San Jose, CA | Summer 2026 | 2026-11-13 | 1 | simplify-2026 |
 | [Cantor Fitzgerald](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537) | Technology Summer Internship - Development | London, UK | Summer 2027 | 2026-11-13 | 1 | simplify-2026 |
 | [Samsung](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) | Compiler Engineer Intern | San Jose, CA | N/A | 2026-11-13 | 1 | simplify-2026 |
+| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) | Technical Solution Engineer Intern - SE&I | Montreal, QC, Canada, Ottawa, ON, Canada | Winter 2027 | 2026-11-13 | 1 | simplify-2026 |
 | [Shield AI](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true) | Engineer 1 New Grad - Software | Arlington County, Arlington, VA | N/A | 2026-11-13 | 1 | simplify-2026 |
 | [TC Energy](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919) | Intelligent Operations Technology Intern | Spokane, WA | Summer 2027 | 2026-11-13 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Capital Group](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) | Global Technology Summer Associate Intern | Irvine, CA | Summer 2027 | 2026-11-13 | 1 | simplify-2026 |
