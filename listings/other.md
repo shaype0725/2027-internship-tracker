@@ -24,7 +24,6 @@
 | [CrowdStrike](https://go.vansh.nyc/1z6) | Insider Risk Engineering Intern | Arlington, VA, Redmond, WA, Sunnyvale, CA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Samsung Semiconductor](https://go.vansh.nyc/1z0) | SSD Firmware Development Intern | San Jose, CA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Carnegie Mellon University](https://go.vansh.nyc/1yU) | Cybersecurity Engineer Intern | Pittsburgh, PA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
-| [Carnegie Mellon University](https://go.vansh.nyc/1yV) | Cyber AI Engineering Intern | Pittsburgh, PA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Canadian Tire Corporation, Limited](https://go.vansh.nyc/1yQ) | Programmer Analyst Intern | Mississauga, Canada |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Manulife Financial](https://go.vansh.nyc/1yR) | Software Engineering Co-op | Boston, MA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Bloomberg Industry Group](https://go.vansh.nyc/1yW) | Engineering Intern | Arlington, VA |  | 2026-11-13 | 2 | vanshb03-2026, vanshb03-2027 |
@@ -975,6 +974,7 @@
 | [Uber](https://go.vansh.nyc/Wx) | Software Engineering Intern | Toronto, Canada |  | 2026-10-27 | 19 | vanshb03-2026, vanshb03-2027 |
 | [CIBC](https://go.vansh.nyc/Wy) | Data Analyst Co-op | Toronto, Canada |  | 2026-10-27 | 19 | vanshb03-2026, vanshb03-2027 |
 | [Hitachi](https://go.vansh.nyc/Wz) | Software Analyst Intern | Toronto, Canada |  | 2026-10-27 | 19 | vanshb03-2026, vanshb03-2027 |
+| [Cohesity](https://go.vansh.nyc/Tc) | Software Engineering Intern | Santa Clara, CA |  | 2026-10-26 | 20 | vanshb03-2026, vanshb03-2027 |
 | [Toyota Research Institute](https://go.vansh.nyc/Th) | Robotics Intern, Trustworthy Learning under Uncertainty | Los Altos, CA |  | 2026-10-26 | 20 | vanshb03-2026, vanshb03-2027 |
 | [CIBC](https://go.vansh.nyc/T1) | AI Scientist Co-op | Toronto, Canada |  | 2026-10-26 | 20 | vanshb03-2026, vanshb03-2027 |
 | [Highmark Health](https://go.vansh.nyc/SS) | Enterprise Architecture Software Engineer & Architect Intern | Pittsburgh, PA |  | 2026-10-26 | 20 | vanshb03-2026, vanshb03-2027 |
