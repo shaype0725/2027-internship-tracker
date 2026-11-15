@@ -1,5 +1,26 @@
 [
   {
+    "date_updated": 1794762489,
+    "url": "https://go.vansh.nyc/1zS",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Rodriguez Services",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "c46882c7-736e-4ec8-9f08-b1f2a1fd1835",
+    "date_posted": 1794762378,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Fanatics",
@@ -73382,7 +73403,9 @@
     "sponsorship": "Other",
     "degrees": [],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {

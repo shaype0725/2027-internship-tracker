@@ -1,9 +1,10 @@
-# Other (1834)
+# Other (1835)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Rodriguez Services](https://go.vansh.nyc/1zS) | Software Engineer Intern | San Francisco, CA |  | 2026-11-15 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Optimum (Altice USA)](https://go.vansh.nyc/1zM) | Cybersecurity Operations Intern | Bethpage, NY |  | 2026-11-15 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Ericsson](https://go.vansh.nyc/1zB) | AI Software Engineer Intern | Plano, TX |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
 | [KBR Wyle Services](https://go.vansh.nyc/1zx) | Image Processing Software Engineer Intern | Sioux Falls, SD |  | 2026-11-14 | 1 | vanshb03-2026, vanshb03-2027 |
