@@ -1,4 +1,4 @@
-# Hardware Engineering (861)
+# Hardware Engineering (860)
 
 [← back to index](../README.md)
 
@@ -289,7 +289,6 @@
 | [Ambarella](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393) | Physical Design Engineer Intern | United States | N/A | 2026-10-22 | 29 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Aptiv](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861) | Software Development Intern | Troy, MI | N/A | 2026-10-22 | 29 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721661830) | Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | Summer 2027 | 2026-10-21 | 30 | simplify-2026 |
-| [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721661677) | Display Systems Engineer Intern | Markham, ON, Canada | Summer 2027 | 2026-10-21 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Meta](https://www.metacareers.com/jobs/1445807477756644) | Research Intern - Audio Hardware | Redmond, WA | N/A | 2026-10-21 | 30 | simplify-2026 |
 | [QuEra Computing](https://job-boards.greenhouse.io/queracomputinginc/jobs/5460294008) | Optical Engineer Co-op | Boston, MA | N/A | 2026-10-21 | 30 | simplify-2026 |
 | [Safran](https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors) | Software Engineering Intern | Bedford, NH | N/A | 2026-10-21 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027 |
