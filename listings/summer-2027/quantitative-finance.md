@@ -5,7 +5,7 @@ Auto-generated. Do not hand-edit.
 | Company | Role | Location | Date Posted | Days Old |
 |---|---|---|---|---|
 | [Southwest Power Pool](https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=053a469a-5814-43e3-aff9-af40031df83d) | Market Monitoring Intern | Little Rock, AR | 2026-11-20 | 0 |
-| [Constellation Energy](https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us) | Powerfolio Data Analyst Intern | Houston, TX | 2026-11-20 | 0 |
+| [Constellation Energy](https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us) | Powerfolio Data Analyst Intern | Houston, TX | 2026-11-20 | 1 |
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8400915) | PhD Quantitative Research Intern | London, UK | 2026-11-19 | 2 |
 | [Andersen](https://careers.andersen.com/jobs/8348?icims=1&lang=en-us) | PhD Summer Intern | Remote in USA | 2026-11-18 | 3 |
 | [Soros Fund Management](https://job-boards.greenhouse.io/familyoffice/jobs/8202834003) | Quantitative Strategist Intern | NYC | 2026-11-17 | 4 |
@@ -19,9 +19,9 @@ Auto-generated. Do not hand-edit.
 | [Schonfeld](https://job-boards.greenhouse.io/schonfeld/jobs/8324611) | DMFI Intern | NYC | 2026-10-28 | 24 |
 | [Amazon](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027) | PhD Economics Intern - Finance, Macroeconomics, And Forecasting | Seattle, WA, Arlington County, Arlington, VA, NYC, Bellevue, WA | 2026-10-27 | 24 |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Investment-Processes-Intern--Summer-2027_R1557) | Investment Processes Intern | Boston, MA | 2026-10-27 | 25 |
-| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14057?icims=1) | Quantitative Research Intern | Atlanta, GA | 2026-10-23 | 28 |
-| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14053?icims=1) | Quantitative Engineer Intern | Atlanta, GA | 2026-10-23 | 28 |
-| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14055?icims=1) | Quantitative Financial Analytics Intern | Atlanta, GA | 2026-10-23 | 28 |
+| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14057?icims=1) | Quantitative Research Intern | Atlanta, GA | 2026-10-23 | 29 |
+| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14053?icims=1) | Quantitative Engineer Intern | Atlanta, GA | 2026-10-23 | 29 |
+| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14055?icims=1) | Quantitative Financial Analytics Intern | Atlanta, GA | 2026-10-23 | 29 |
 | [Glencore](https://job-boards.eu.greenhouse.io/glencoreuk/jobs/5013289101) | Industrial Placement Intern - Quantitative Research - Analytics | London, UK | 2026-10-23 | 29 |
 | [Amazon](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) | Economics Intern - Structural IO | Seattle, WA, Arlington County, Arlington, VA, NYC, Bellevue, WA | 2026-10-23 | 29 |
 | [Amazon](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) | PhD Economics Intern - Reduced Form Causal Inference | Seattle, WA, Arlington County, Arlington, VA, NYC, Bellevue, WA | 2026-10-23 | 29 |
