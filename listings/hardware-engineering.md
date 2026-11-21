@@ -1,4 +1,4 @@
-# Hardware Engineering (873)
+# Hardware Engineering (874)
 
 [← back to index](../README.md)
 
@@ -54,6 +54,7 @@
 | [Scout Space](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008) | Embedded Firmware Engineer Intern | Reston, VA | Summer 2027 | 2026-11-19 | 2 | simplify-2026 |
 | [MSA Safety](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us) | Electrical Engineering Intern/Co-op | Cranberry Township, PA | Summer 2027 | 2026-11-19 | 2 | simplify-2026 |
 | [Eridu AI](https://ats.rippling.com/eridu-ai/jobs/681e2e82-20b9-4145-b235-38196a64097f) | ASIC Architecture Intern | Saratoga, CA | N/A | 2026-11-19 | 2 | simplify-2026 |
+| [MBDA](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Work-Experience---Stevenage-2027_R40714) | Software Work Experience Intern | Stevenage, UK | Spring 2027, Spring 2027, Summer 2027 | 2026-11-19 | 2 | simplify-2026 |
 | [Graco](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Flagstaff-Arizona-USA/Mechanical-Engineering-Intern_R0023552) | Electrical Engineering Intern | Flagstaff, AZ | N/A | 2026-11-19 | 2 | simplify-2026 |
 | [Acuity](https://careers.acuityinc.com/job/Decatur-Intern-Electrical-Engineer-GA-30035/1451786900/?ats=successfactors) | Electrical Engineer Intern | Decatur, GA | Summer 2026 | 2026-11-18 | 3 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446722197770) | Engineering Intern | Farnborough, UK | N/A | 2026-11-18 | 3 | simplify-2026 |
