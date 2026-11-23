@@ -1,4 +1,4 @@
-# Software Engineering (1363)
+# Software Engineering (1362)
 
 [← back to index](../README.md)
 
@@ -286,7 +286,6 @@
 | [Tria Federal](https://triafed.com/jobs/?gh_jid=5470246008) | Growth Operations Intern | Arlington County, Arlington, VA | Summer 2027 | 2026-11-02 | 21 | simplify-2026 |
 | [Auburn University](https://jobs.auburn.edu/jobs/10846?icims=1&lang=en-us) | LabVIEW Research Support Assistant Intern | Auburn, AL | N/A | 2026-11-02 | 21 | simplify-2026 |
 | [KION Group](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Stockport-United-Kingdom/Campus-visit-Dematic---Placement-student_JR-0082859) | Real-Time Software Engineer Intern | Westhill, UK, Stockport, UK | N/A | 2026-11-02 | 21 | simplify-2026 |
-| [Tecsys](https://apply.workable.com/tecsys/j/D61D5FB9AB/apply) | Developer Intern | Montreal, QC, Canada | N/A | 2026-11-02 | 21 | simplify-2026 |
 | [Qube Research & Technologies](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002) | HR Technology Intern | London, UK | Winter 2027 | 2026-11-02 | 21 | simplify-2026 |
 | [ParetoHealth](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006) | Software Engineer Intern | Philadelphia, PA | Summer 2027 | 2026-11-02 | 21 | simplify-2026 |
 | [Roku](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) | Software Engineer Intern - AI Engineering | San Jose, CA | Summer 2027 | 2026-11-02 | 21 | simplify-2026 |
