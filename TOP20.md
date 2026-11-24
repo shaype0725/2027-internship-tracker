@@ -8,9 +8,9 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Amazon** | Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA, Bellevue, WA, Sunnyvale, CA | Summer 2027 | 2026-11-23 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) |
-| 2 | **Meta** | Research Scientist Intern - Spatial-temporal Consistent 4D Generation | Redmond, WA | N/A | 2026-11-23 (1d ago) | [Apply](https://www.metacareers.com/jobs/2357948038329505) |
-| 3 | **NVIDIA** | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | Santa Clara, CA |  | 2026-11-21 (3d ago) | [Apply](https://go.vansh.nyc/1Gd) |
+| 1 | **NVIDIA** | Developer Technology Intern, AI | Santa Clara, CA |  | 2026-11-24 (0d ago) | [Apply](https://go.vansh.nyc/1Im) |
+| 2 | **Amazon** | Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA, Bellevue, WA, Sunnyvale, CA | Summer 2027 | 2026-11-23 (1d ago) | [Apply](https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) |
+| 3 | **Meta** | Research Scientist Intern - Spatial-temporal Consistent 4D Generation | Redmond, WA | N/A | 2026-11-23 (1d ago) | [Apply](https://www.metacareers.com/jobs/2357948038329505) |
 | 4 | **Microsoft** | Research Intern - AI System Architecture Modeling and Performance | Hillsboro, OR | Summer 2026 | 2026-11-21 (3d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557077583) |
 | 5 | **Intel** | Design Verification Intern | Fort Collins, CO, Hillsboro, OR, Santa Clara, CA, Austin, TX |  | 2026-11-24 (0d ago) | [Apply](https://go.vansh.nyc/1Ie) |
 | 6 | **AMD** | Masters AI Rack/Cluster Design Engineering Co-op | Austin, TX | Winter 2027, Summer 2027 | 2026-11-24 (0d ago) | [Apply](https://careers.amd.com/jobs/89564?icims=1&lang=en-us) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Relling** | Robotics Software Engineering Intern | San Francisco, CA |  | 2026-10-31 (24d ago) | [Apply](https://go.vansh.nyc/13m) |
 
 ---
-*Generated 2026-11-24 17:13 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-11-24 19:58 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
