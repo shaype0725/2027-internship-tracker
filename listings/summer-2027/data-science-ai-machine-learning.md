@@ -1,4 +1,4 @@
-# Summer 2027 — AI/ML/Data (762)
+# Summer 2027 — AI/ML/Data (761)
 
 Auto-generated. Do not hand-edit.
 
@@ -102,7 +102,6 @@ Auto-generated. Do not hand-edit.
 | [Camping World](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300) | Data Analyst Intern - AI & Machine Learning Focus | Chicago, IL, Lincolnshire, IL | 2026-11-13 | 11 |
 | [Horizon3.ai](https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true) | Research Intern - Adversarial Intelligence | Chicago, IL, West Lafayette, IN | 2026-11-13 | 11 |
 | [Nexus Cognitive Technologies](https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true) | Data Engineer Intern | Atlanta, GA | 2026-11-13 | 11 |
-| [Vertex Pharmaceuticals](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312) | Data Analytics Intern - OSD Process Data Analytics | Boston, MA | 2026-11-13 | 11 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1) | Energy Savings Program Intern | University Park, State College, PA | 2026-11-13 | 11 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) | AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern | Remote in USA | 2026-11-13 | 11 |
 | [DraftKings](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1) | Data Science Intern | London, UK | 2026-11-13 | 11 |
@@ -206,7 +205,7 @@ Auto-generated. Do not hand-edit.
 | [AXA](https://careers.axa.com/jobs/25497?icims=1) | Operations Metrics and Reporting Intern | Scottsdale, AZ | 2026-11-02 | 21 |
 | [Qube Research & Technologies](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002) | Business Data Analytics Intern | London, UK | 2026-11-02 | 21 |
 | [ParetoHealth](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006) | Analytics Intern | Philadelphia, PA | 2026-11-02 | 21 |
-| [Selective Insurance](https://jobs.selective.com/jobs/5689?icims=1&lang=en-us) | IT Information Management Intern | Charlotte, NC | 2026-11-02 | 21 |
+| [Selective Insurance](https://jobs.selective.com/jobs/5689?icims=1&lang=en-us) | IT Information Management Intern | Charlotte, NC | 2026-11-02 | 22 |
 | [JSX](https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729) | Commercial Intern | Dallas, TX | 2026-11-02 | 22 |
 | [Signet Jewelers](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317) | Data Analytics Intern | Akron, OH | 2026-11-02 | 22 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) | Data Intelligence/Technical Program Manager Intern | Santa Clara, CA | 2026-11-02 | 22 |
@@ -221,7 +220,7 @@ Auto-generated. Do not hand-edit.
 | [Stripe](https://stripe.com/jobs/search?gh_jid=8328664) | PhD Machine Learning Engineer Intern | Toronto, ON, Canada | 2026-10-30 | 24 |
 | [Stripe](https://stripe.com/jobs/search?gh_jid=8333122) | Machine Learning Engineer Intern | Toronto, ON, Canada | 2026-10-30 | 24 |
 | [Newmont](https://jobs.newmont.com/us/en/job/45053) | Resource Modeling Intern | Denver, CO | 2026-10-30 | 24 |
-| [Stratolaunch](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) | Manufacturing Systems & Data Intern - Systems | Mojave, CA | 2026-10-30 | 24 |
+| [Stratolaunch](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) | Manufacturing Systems & Data Intern - Systems | Mojave, CA | 2026-10-30 | 25 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258) | Research and Development Intern - Vehicle Health Management | Warren, MI | 2026-10-30 | 25 |
 | [John D. and Catherine T. MacArthur Foundation](https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Evaluation---Learning-Intern---Summer-2027_REQ-000362) | Evaluation & Learning Intern | Chicago, IL | 2026-10-30 | 25 |
 | [Symbotic](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Customer-Success_R8234) | Customer Success Intern | Wilmington, MA | 2026-10-30 | 25 |
@@ -588,7 +587,7 @@ Auto-generated. Do not hand-edit.
 | [AArete](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) | Data Architecture & Engineering Intern | Chicago, IL | 2026-09-08 | 76 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280588) | Data and Analytics Intern - Summer 2027 | Westerville, OH | 2026-09-08 | 76 |
 | [Medpace](https://careers.medpace.com/jobs/12988?icims=1) | Clinical Informatics Intern | Cincinnati, OH | 2026-09-08 | 76 |
-| [Selective Insurance](https://jobs.selective.com/jobs/5777?icims=1&lang=en-us) | IT Information Management Intern | Short Hills, Millburn, NJ | 2026-09-08 | 76 |
+| [Selective Insurance](https://jobs.selective.com/jobs/5777?icims=1&lang=en-us) | IT Information Management Intern | Short Hills, Millburn, NJ | 2026-09-08 | 77 |
 | [Burlington Stores](https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Sustainability-Intern---Summer-2027_R104521) | Sustainability Intern | Burlington, VT | 2026-09-08 | 77 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2027_R244323-1) | Applied Research Intern | San Jose, CA, McLean, VA, NYC | 2026-09-08 | 77 |
 | [Merck](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) | Co-op | Rahway, NJ | 2026-09-08 | 77 |
@@ -602,7 +601,7 @@ Auto-generated. Do not hand-edit.
 | [Skydio](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true) | Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027 | San Mateo, CA | 2026-09-04 | 81 |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710) | Industrial Engineering Intern | Santa Clara, CA | 2026-09-04 | 81 |
 | [Transcard Payments](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416) | Artificial Intelligence Intern | Chattanooga, TN | 2026-09-03 | 81 |
-| [Hadrian](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true) | Data Science/Data Engineer Intern | LA, Torrance, CA | 2026-09-03 | 81 |
+| [Hadrian](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true) | Data Science/Data Engineer Intern | LA, Torrance, CA | 2026-09-03 | 82 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/59784?icims=1) | Acoustic Algorithm Development Engineer Intern | Laurel, MD | 2026-09-03 | 82 |
 | [Shure](https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false) | Artificial Intelligence Engineer Intern | Niles, IL | 2026-09-03 | 82 |
 | [Shure](https://careersus-shure.icims.com/jobs/5027/job?mobile=true&needsRedirect=false) | Web Analytics Intern | Niles, IL | 2026-09-03 | 82 |
@@ -628,7 +627,7 @@ Auto-generated. Do not hand-edit.
 | [Edison International](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors) | Data Analytics Intern - Data Science/Applied Math | Pomona, CA, Rosemead, CA | 2026-09-01 | 83 |
 | [Edison International](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors) | Data Analytics Intern - Data Science - Applied Math | Pomona, CA, Rosemead, CA | 2026-09-01 | 83 |
 | [Edison International](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors) | Summer Internship - Data Analytics/Science/Applied Math | Santa Ana, CA, Fullerton, CA, Irvine, CA, Westminster, CA | 2026-09-01 | 83 |
-| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607) | Data Analytics Intern - US Consumer Services | NYC | 2026-09-01 | 83 |
+| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607) | Data Analytics Intern - US Consumer Services | NYC | 2026-09-01 | 84 |
 | [United Parcel Service](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Americas-Region-Business-Analytics-Summer-2027-Intern_R26030513) | Business Analytics Intern - Americas Region | Atlanta, GA | 2026-09-01 | 84 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) | Machine Learning Intern | Centreville, VA, Minneapolis, MN | 2026-09-01 | 84 |
 | [United Parcel Service](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589) | Finance Analytics Intern - Global Finance | Atlanta, GA | 2026-09-01 | 84 |
@@ -694,7 +693,7 @@ Auto-generated. Do not hand-edit.
 | [Google](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | Data Science PhD Intern | London, UK | 2026-08-17 | 98 |
 | [TikTok](https://lifeattiktok.com/search/7674944387893791029) | Data Analyst Intern - LIVE | London, UK | 2026-08-17 | 98 |
 | [TikTok](https://lifeattiktok.com/search/7674032146438162693) | Data Engineer Intern - Data Platform Global Live | San Jose, CA | 2026-08-17 | 98 |
-| [Goldman Sachs](https://higher.gs.com/roles/171535?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | NYC | 2026-08-15 | 100 |
+| [Goldman Sachs](https://higher.gs.com/roles/171535?type=students) | Quantitative Strategist Associate Intern - The Core Quantitative Strats | NYC | 2026-08-15 | 101 |
 | [The Nuclear Company](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) | Data Science & Machine Learning Fellow Intern | Washington, DC | 2026-08-14 | 101 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236) | Planning Analytics Intern - Summer 2027 | Westerville, OH | 2026-08-14 | 101 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7673608499872827701/detail) | Self-Built Engineer Intern - CDN Platform | Seattle, WA | 2026-08-14 | 101 |
