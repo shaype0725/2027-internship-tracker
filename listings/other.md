@@ -1,4 +1,4 @@
-# Other (1874)
+# Other (1873)
 
 [← back to index](../README.md)
 
@@ -765,7 +765,6 @@
 | [CWAN](https://go.vansh.nyc/1cm) | Software Development Intern | Chicago, IL |  | 2026-11-03 | 24 | vanshb03-2026, vanshb03-2027 |
 | [CWAN](https://go.vansh.nyc/1cn) | Gen AI Intern | Seattle, WA |  | 2026-11-03 | 24 | vanshb03-2026, vanshb03-2027 |
 | [Clio](https://go.vansh.nyc/1co) | Software Developer Co-op | Toronto, Canada, Vancouver, Canada, Calgary, Canada |  | 2026-11-03 | 24 | vanshb03-2026, vanshb03-2027 |
-| [Booz Allen Hamilton](https://go.vansh.nyc/1bV) | Cyber Security Intern | Colorado Springs, CO |  | 2026-11-03 | 24 | vanshb03-2026, vanshb03-2027 |
 | [Booz Allen Hamilton](https://go.vansh.nyc/1bW) | Data Scientist Intern | Colorado Springs, CO |  | 2026-11-03 | 24 | vanshb03-2026, vanshb03-2027 |
 | [Alcon](https://go.vansh.nyc/1bZ) | Software, Data & AI Engineering Intern | Fort Worth, TX, Lake Forest, CA, Johns Creek, GA, Houston, TX, Goleta, CA |  | 2026-11-03 | 24 | vanshb03-2026, vanshb03-2027 |
 | [Auto-Owners Insurance](https://go.vansh.nyc/1c6) | IT Security Engineer Intern | Lansing, MI |  | 2026-11-03 | 24 | vanshb03-2026, vanshb03-2027 |
