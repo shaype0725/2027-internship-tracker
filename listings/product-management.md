@@ -1,10 +1,11 @@
-# Product Management (302)
+# Product Management (303)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [Intercept](https://intercept.bamboohr.com/careers/48/) | Product Co-op | Toronto, ON, Canada | Summer 2027 | 2026-11-27 | 1 | simplify-2026 |
+| [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Product-Associate--Summer-2027--Co-op-Internship----4-Months_R260031145-2) | Product Associate Co-op Intern | Toronto, ON, Canada | Summer 2027 | 2026-11-27 | 1 | simplify-2026 |
 | [Total Quality Logistics](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19765) | Product Management Intern | Cincinnati, OH | Summer 2027 | 2026-11-25 | 3 | simplify-2026 |
 | [Total Quality Logistics](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757) | AI Product Intern | Cincinnati, OH | Summer 2027 | 2026-11-25 | 3 | simplify-2026 |
 | [OpenSesame](https://boards.greenhouse.io/opensesame/jobs/8418204) | Product Intern | Remote in USA | Summer 2027 | 2026-11-25 | 3 | simplify-2026 |
